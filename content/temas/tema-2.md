@@ -1,11 +1,11 @@
 ---
 title: "Tema 2"
-date: 2021-11-17T18:26:37+01:00
+date: 2021-11-17
 draft: true
 summary: "Tema 2: El proceso de integración europea"
 categories:
   - Temas
-weight: 1
+weight: 2
 author: "Diego Alloza"
 ShowToc: true
 TocOpen: true

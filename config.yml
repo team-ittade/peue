@@ -3,6 +3,7 @@ languageCode: en-us
 title: Apuntes Políticas Económicas de la Unión Europea
 theme: PaperMod
 
+enableGitInfo: true
 
 # pluralizelisttitles: false
 enableRobotsTXT: true
