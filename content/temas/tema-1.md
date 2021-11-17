@@ -5,7 +5,7 @@ draft: true
 summary: "Tema 1: Bases teóricas de la Integración Económica"
 categories:
   - Temas
-weight: 10
+weight: 1
 author: "Diego Alloza"
 ShowToc: true
 TocOpen: true
@@ -74,7 +74,7 @@ Es una [Unión Económica](#35-unión-económica) en la que los países están r
 
 > Ejs: _Unión Monetaria entre Bélgica y Luxemburgo (dead)_; _Eurozona_
 
-### Integración sectorial
+### 3.X. Integración sectorial
 
 Es una forma de cooperación aunque pueda ser utilizada como instrumento para alcanzar una forma de integración descrita anteriormente.
 
@@ -90,7 +90,9 @@ Dependen principalmente de:
 
 En términos generales hay convergencia hacia el crecimiento económico y las mejoras de la competitividad.
 
-### 4.1. Sobre el crecimiento económico
+### 4.1. Efectos globales
+
+#### 4.1.1. Sobre el crecimiento económico
 
 - Inversión en un mercado más amplio
 - **Crecimiento de la demanda**
@@ -99,7 +101,7 @@ En términos generales hay convergencia hacia el crecimiento económico y las me
 
 → Círculo de **mejora de la competitividad**, **crecimiento económico** y **productividad**.
 
-### 4.2. Sobre los flujo de los intercambios comerciales internacionales
+#### 4.1.2. Sobre los flujo de los intercambios comerciales internacionales
 
 Existen 2 niveles en la intensificación del comercio:
 
@@ -108,14 +110,67 @@ Existen 2 niveles en la intensificación del comercio:
 - Interindustrial: aprovechamiento más eficiente de las ventajas comparativas
 - Intraindustrial: los beneficios se materializan en incrementos de la competencia.
 
-### 4.3. Sobre el reparto de los márgenes de poder
+#### 4.1.3. Sobre el reparto de los márgenes de poder
 
-### 4.4. Sobre los cambios en la especialización internacional
+- Las empresas más competitivas pueden perder cuotas del mercado nacional
+- El consumo tiende a sofisticarse y a diversificarse
 
-### 4.5. Sobre la reducción de los costes de producción
+Todo esto proporciona una **diversificación de la oferta** que tiende a **aumentar la calidad de los productos** y **reducir los precios**.
 
-### 4.6. Sobre la localización de las actividades productivas
+#### 4.1.4. Sobre los cambios en la especialización internacional
 
-### 4.7. Sobre la alta movilidad de los factores económicos
+Cada uno de los países va a intentar buscar un **mayor grado de especialización** en función de los factores a su alcance.
+A largo plazo se materializa en una **dependencia económica entre los países**. Normalmente se da cierta **dependencia asimétrica**: zonas especializadas en sectores con menos valor frente y viceversa.
 
-### 4.8. Sobre la dificultad para proceder a un reparto homogéneo de los posibles beneficios y pérdidas
+#### 4.1.5. Sobre la explotación de las economías de escala y la reducción de los costes de producción
+
+- Clara influencia sobre la **innovación y el progreso técnico**.
+- Las dificultades financieras puede llevar a muchas empresas de tamaño medio a **acortar los ciclos de vida de sus productos** y a **fusionarse con otras empresas**.
+
+#### 4.1.6. Sobre el replanteamiento de la localización de las actividades productivas
+
+Dependerá de:
+
+- Costes de la mano de obra
+- Facilidad de acceso a los factores porductivos
+- Proximidad a los mercados (para reducir costes de transporte)
+
+También se tiene en cuenta las **ponderaciones de poder** y la **capacidad de decisión** de las autoridades nacionales o regionales.
+
+#### 4.1.7. Sobre la alta movilidad de los factores económicos
+
+La integración económica altera las fuerzas económicas y políticas dando lugar a **procesos divergentes** en lugar de crear convergencia.
+
+Los flujos de los factores favorecerán a regiones con **mayores niveles de acumulación**.
+
+#### 4.1.8. Sobre la dificultad para proceder a un reparto homogéneo de los posibles beneficios y pérdidas
+
+El crecimiento de la competencia produce fuertes **mecanismos de ajuste** en las empresas con mayores dificultades de adaptación. Las posiblidades de supervivencia de muchas empresas (sobre todo `PYMES`) se pueden ver reducidas.
+
+Las **regiones más deprimidas** tendrán dificultades para obtener beneficios del proeso de integración por sí mismas. Se deberá compensar a las regiones más deprimidas flujos públicos para equilibrar y converger su crecimiento con las regiones más beneficiadas del proceso.
+
+De no ser así dará lugar a:
+
+- Desprotección social y laboral
+- Destrucción medioambiental
+- Agravación de las desigualdades económicas y sociales
+
+### 4.2. Tipos de efectos
+
+Los efectos potenciales de los nuevos planteamientos de política económica derivados de la integración económica pueden ser positivos o negativos.
+
+#### 4.2.1. Positivos
+
+1. Mayor estabilidad política
+2. Posibilidad de afrontar problemas supranacionales
+3. Mejora en los criterios de gestión
+4. Convergencia real con políticas de cohesión económica y social
+5. Incrementa el poder de negociación del área integrada en el mundo
+6. Mejora la credibilidad internacional
+
+#### 4.2.2. Negativos
+
+1. Imposición de criterios de los países más fuertes
+2. Reducción del poder de negociación en el mundo
+3. Pérdida de instrumentos de política económica
+4. Rebotes nacionalistas
