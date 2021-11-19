@@ -6,7 +6,6 @@ summary: "SME, Política Monetaria Única y Política Cambiaria"
 categories:
   - Temas
 weight: 4
-author: "Diego Alloza"
 ---
 
 # Tema 4: SME, Política Monetaria Única y Política Cambiaria

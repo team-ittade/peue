@@ -6,7 +6,6 @@ summary: "El proceso de integración europea"
 categories:
   - Temas
 weight: 2
-author: "Diego Alloza"
 ---
 
 # Tema 2: El Proceso de Integración Europea

@@ -6,7 +6,6 @@ summary: "La Política Financiero-Presupuestaria"
 categories:
   - Temas
 weight: 5
-author: "Diego Alloza"
 ---
 
 # Tema 5: La Política Financiero-Presupuestaria

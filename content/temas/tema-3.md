@@ -6,7 +6,6 @@ summary: "Gobernanza económico-financiera"
 categories:
   - Temas
 weight: 3
-author: "Diego Alloza"
 ---
 
 # Tema 3: Gobernanza Económico-Financiera

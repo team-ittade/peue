@@ -6,7 +6,6 @@ summary: "Bases teóricas de la Integración Económica"
 categories:
   - Temas
 weight: 1
-author: "Diego Alloza"
 ---
 
 # Tema 1 – Bases Teóricas de la Integración Económica
