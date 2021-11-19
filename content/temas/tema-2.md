@@ -49,7 +49,7 @@ En el 1958 entró en vigor el `Tratado de Roma`. Desde entonces el proceso de in
 
 - Coincide con un cambio favorable del ciclo económico
 - Se recoge el compromiso de los países por el _Libro Blanco_ en el **Acta Única Europea** (**AUE**). Es la primera reforma importante de los tratados de las comunidades europeas.
-- Se firma el `Plan Delors`. Se partió en 3 etapas.
+- Se firma el `Plan Delors`. Se partió en 3 etapas. Su objetivo era crear una **Unión Económica y Monetaria** (`UEM`). Instantáneamente se inicia la primera etapa.
 - En el 1992 se firma el `Tratado de Maastricht` o `Tratado de la Unión Europea`. Constituye la **segunda reforma más importante**.
 
 El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
@@ -61,6 +61,28 @@ El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
 ### 1.4. 4ª Etapa (1993-)
 
 > De Comunidad Europea a Unión Europea
+
+- Se inicia las etapas 2 y 3 del `Plan Delors` (aka `UEM`).
+- Se crea el **IME** (_Instituto Monetario Europeo_), embrión del `BCE`.
+- **En 2002 se pone en circulación el euro**.
+- `Cuarta ampliación`: Austria, Finlandia y Suecia
+- Se firma el **Tratado de Ámsterdam** (1999)
+  - Europa más social y más democrática
+  - Mejoras a la política exterior, seguridad común y libre circulación de los ciudadanos.
+- **Projecto de Tratado de Niza**:
+  1. Limitación de tamaño y composición de la Comisión (27 miembros, 1 por Estado)
+  2. Extensión del voto por mayoría cualificada
+  3. ...
+- Se firma la **Constitución Europea** en Roma en 2004 (excepto Francia y Holanda)
+- `Quinta ampliación`: Chipre, Eslovaquia, Eslovenia, Estonia, Hungría, Letonia, Lituania, Malta, Polonia y R. Checa
+- `Sexta ampliación`: Bulgaria y Rumania
+- **Tratado de Lisboa** (2007)
+  - **Se sustituye la Comunidad Europea por la UE**
+  - Delimita el **reparto de competencias vertical** (entre la UE y los Estados)
+  - **Simplifica los instrumentos normativos** acabando con la división en 3 pilares y otorgando personalidad jurídica a la UE.
+  - **Consolida la vertiente política de la UE**, reforzando el área de justicia y asuntos de interior el de Política Exterior y de Seguridad Común (PESC).
+- `Séptima ampliación`: Croacia
+- `Modifiación final`: en 2016 Reino Unido se va de la UE. Se terminó de ir en enero de 2020 mediante el **Acuerdo de retirada**.
 
 ### 1.5. Resumen de ampliaciones
 
@@ -78,13 +100,58 @@ El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
 
 [^1]: Se refiere al año en el que entra en vigencia el acuerdo firmado, no cuando se firma.
 
+### 1.6. Tratados
+
+| Fecha          | Descripción                                                                                                                                                                                                                                     |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Abril 1951     | Francia, Alemania Occidental, Italia, Bélgica, Holanda y Luxemburgo firman el Tratado de Paris, consti-tutivo de la Comunidad Europea del Carbón y del Acero (CECA). Gran Bretaña, previamente invitada, declina participar en su constitución. |
+| Marzo 1957     | Firma de los Tratados de Roma constitutivos de la CEE y la EURATOM. Entran en vigor en 1958.                                                                                                                                                    |
+| Abril 1965     | Firma del Tratado de fusión de los ejecutivos de las tres Comunidades (CECA, CEE y EURATOM). Se constituyen un Consejo y una Comisión únicos. Entra en vigor el 1 de julio de 1967.                                                             |
+| Febrero 1986   | Firma del Acta Única Europea (AUE). Entra en vigor el 1 de julio de 1987.                                                                                                                                                                       |
+| Febrero 1992   | Firma del Tratado de la Unión Europea (Tratado de Maastricht). Fija las condiciones de convergencia para alcanzar la Unión Económica y Monetaria. Entra en vigor el 1 de noviembre de 1993.                                                     |
+| Octubre 1997   | Se firma el Tratado de Ámsterdam (entra en vigor el 1 de mayo de 1999).                                                                                                                                                                         |
+| Febrero 2001   | Los Ministros de Exteriores suscriben el Tratado de Niza. Entra en vigor el 1 de febrero de 2003.                                                                                                                                               |
+| Julio 2002     | Expira el Tratado constitutivo de la Comunidad Europea del Carbón y del Acero (CECA), tras cincuenta años en vigor.                                                                                                                             |
+| Diciembre 2007 | Se firma el Tratado de Lisboa. Entra en vigor el 1 de diciembre de 2009.                                                                                                                                                                        |
+
 ## 2. Logros, debilidades y retos de la Unión Europea
 
 ### 2.1. Logros
 
+La integración es visible en 7 ámbitos principales:
+
+1. Unión aduanera: los Estados miembros colaboran para garantizar que las mercancías importadas en la UE circulan libremente y son seguras para las personas, animales y medio ambiente.
+2. Mercado único: personas, bienes, servicios y capitales pueden circular por la UE casi tan libremente como si fuese el mismo país.
+3. Monetario: BCE como autoridad máxima y el funcionamiento del euro.
+4. Comercial: existe una política comercial unificada de europa con el resto del mundo
+5. Agrario: la PAC ha conseguido mejorar la unidad de mercado y el comercio exterior de productos agrarios, garantizar el autoabastecimiento, estabilidad de los precios, aumento de la renta del sector...
+6. Regional (cohesión territorial): la política regional abarca todas las regiones y ciudades de la UE.
+7. Ampliación:
+
 ### 2.2. Limitaciones y debilidades
 
+- Falta de liderazgo
+- Falta de dinamismo
+- Asimetrías entre países miembros
+- Ausencia de una única y verdadera autoridad económica
+- Limitaciones prespuestarias: _el nivel de gasto se sitúa en torno al 1% de la RNB de la UE_
+- Regla de la unanimidad. En la actualidad en la mayoría de los asuntos las decisiones se toman por **doble mayoría**: **55 % de los estados** (al menos 15) que representen como mínimo al **65% de la población**. **Pueden bloquear una decisión 4 Estados que representen al menos al 35% de la población**.
+- Falta de correspondencia entre el nivel de integración económica y el nivel de integración política.
+- Limitaciones políticas al gobierno económico de la eurozona.
+
 ### 2.3. Retos
+
+- Reforma institucional: exige una mayor cesión de soberanía nacional a la UE en materia de política económica.
+- Ampliación de la UE: la UE está permanentemente abierta a cualquier país europeo democrático con economía de mercado a entrar. La Unión debe evaluar su propia capacidad de integrar a un nuevo país.
+- Impulsar el desarrollo económico.
+
+#### 2.3.1. Retos para Europa en el contexto mundial
+
+- **Hacer realidad la década digital de Europa**. _Ninguna empresa europea se encuentra en el top 15 digital._
+- **Hacer que Europa sea más ecológica**.
+- Demografía y sociedad. _Los europeos serán los más viejos del mundo en 2030._
+- **Proteger las democracias europeas y el Estado de Derecho**, **culminar la salida de la crisis sanitaria** y **construir un mercado único más fuerte**.
+- Un mundo cada vez más multipolar.
 
 ## 3. Los Objetivos, las competencias y la Política Económica de la UE
 
