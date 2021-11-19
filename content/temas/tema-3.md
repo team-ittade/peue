@@ -7,8 +7,6 @@ categories:
   - Temas
 weight: 3
 author: "Diego Alloza"
-ShowToc: true
-TocOpen: true
 ---
 
 # Tema 3: Gobernanza Económico-Financiera

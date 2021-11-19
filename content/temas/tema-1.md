@@ -7,8 +7,6 @@ categories:
   - Temas
 weight: 1
 author: "Diego Alloza"
-ShowToc: true
-TocOpen: true
 ---
 
 # Tema 1 – Bases Teóricas de la Integración Económica

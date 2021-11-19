@@ -7,8 +7,6 @@ categories:
   - Temas
 weight: 5
 author: "Diego Alloza"
-ShowToc: true
-TocOpen: true
 ---
 
 # Tema 5: La Política Financiero-Presupuestaria

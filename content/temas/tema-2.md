@@ -7,8 +7,6 @@ categories:
   - Temas
 weight: 2
 author: "Diego Alloza"
-ShowToc: true
-TocOpen: true
 ---
 
 # Tema 2: El Proceso de Integración Europea
