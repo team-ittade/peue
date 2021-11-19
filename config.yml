@@ -22,7 +22,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -41,7 +41,7 @@ params:
     safari_pinned_tab: https://european-union.europa.eu/profiles/contrib/ewcms/themes/ewcms_theme/favicon.ico
 
   label:
-    text: "Home"
+    text: "Página principal"
     icon: https://cdn-icons-png.flaticon.com/512/330/330426.png
     iconHeight: 35
 
@@ -79,7 +79,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/team-ittade/peue/content"
+    URL: "https://github.com/team-ittade/peue/edit/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -93,6 +93,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     - identifier: categories
@@ -107,6 +108,7 @@ menu:
     #   name: example.org
     #   url: https://example.org
     #   weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
