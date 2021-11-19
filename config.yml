@@ -5,6 +5,12 @@ theme: PaperMod
 
 enableGitInfo: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
 # pluralizelisttitles: false
 enableRobotsTXT: true
 params:
@@ -62,8 +68,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-      Title: "Políticas Económicas de la Unión Europea"
-      Content: Apuntes de 2021
+    Title: "Políticas Económicas de la Unión Europea"
+    Content: Apuntes de 2021
 
   # socialIcons:
   #     - name: twitter
@@ -96,19 +102,18 @@ params:
 
 menu:
   main:
-    - identifier: categories
+    - identifier: Categories
       name: categories
       url: /categories/
       weight: 10
-    - identifier: tags
+    - identifier: Tags
       name: tags
       url: /tags/
       weight: 20
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 30
-
+    - identifier: Search
+      name: search
+      url: /search/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
