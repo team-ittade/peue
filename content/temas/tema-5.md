@@ -2,7 +2,7 @@
 title: "Tema 5"
 date: 2021-11-17
 draft: true
-summary: "Tema 5: La Política Financiero-Presupuestaria"
+summary: "La Política Financiero-Presupuestaria"
 categories:
   - Temas
 weight: 5

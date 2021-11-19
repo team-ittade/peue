@@ -2,7 +2,7 @@
 title: "Tema 4"
 date: 2021-11-17
 draft: true
-summary: "Tema 4: SME, Política Monetaria Única y Política Cambiaria"
+summary: "SME, Política Monetaria Única y Política Cambiaria"
 categories:
   - Temas
 weight: 4

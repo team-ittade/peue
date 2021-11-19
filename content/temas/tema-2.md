@@ -2,7 +2,7 @@
 title: "Tema 2"
 date: 2021-11-17
 draft: true
-summary: "Tema 2: El proceso de integración europea"
+summary: "El proceso de integración europea"
 categories:
   - Temas
 weight: 2

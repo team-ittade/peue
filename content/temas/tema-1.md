@@ -2,7 +2,7 @@
 title: "Tema 1"
 date: 2021-11-17
 draft: false
-summary: "Tema 1: Bases teóricas de la Integración Económica"
+summary: "Bases teóricas de la Integración Económica"
 categories:
   - Temas
 weight: 1

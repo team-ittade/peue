@@ -2,7 +2,7 @@
 title: "Tema 3"
 date: 2021-11-17
 draft: true
-summary: "Tema 3: Gobernanza económico-financiera"
+summary: "Gobernanza económico-financiera"
 categories:
   - Temas
 weight: 3
