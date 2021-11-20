@@ -157,12 +157,82 @@ La integración es visible en 7 ámbitos principales:
 
 ### 3.1. Los Objetivos
 
+> No es importante conocer todos los objetivos
+
+- Promover la paz, sus valores y el bienestar de los pueblos
+- Establecer un mercado interior
+- Promover el progreso científico y técnico
+- Combatir la exclusión social y la discriminación
+- Fomentar la justicia y protección sociales
+- ...
+
 ### 3.2. Las Competencias
+
+#### 3.2.1. Competencias de la UE (`TUE`)
+
+1. **Principio de atribución**: toda competenncia no atribuida a la Unión en los Tratados corresponde a los Estados miembros
+2. **Principio de subsidiariedad**: en aquellos ámbitos en los que la Unión no tenga competenia **exclusiva** intervendrá sólo si el Estado miembro no puede alcanzar sus objetivos por sí mismo y la Unión sí que podría alcanzarlos.
+3. **Principio de proporcionalidad**: la magnitud de la acción de la Unión será meramente suficiente para alcanzar los objetivos de los Tratados, nunca mayor.
+
+#### 3.2.2. Categorías y ámbitos de competencias de la Unión
+
+1. **Competencias exclusivas**: sólo la Unión podrá legislar y adoptar actos jurídicamente vinculantes.
+   - _Ejs: política monetaria, política comercial común, unión aduanera..._
+2. **Competencias compartidas**: la Unión y los Estados miembros podrán legislar y adoptar actos jurídicamente vinculantes.
+   - _Ejs: mercado interior, política social, agricultura y pesca, transporte, energía, seguridad y justicia, asuntos comunes de seguridad en materia de salud pública_
+3. **Acciones comunes**: la Unión tiene competencia para llevar a cabo acciones con el fin de apoyar, coordinar o complementar la acción de los Estados miembros. No por ello sustituye la competencia de los Estados en estos ámbitos.
+   - _Ejs: protección y mejora de la salud humana, industria, cultura, turismo, educación, formación profesional, jubentud, deporte, protección civil, cooperación administrativa_
 
 ### 3.3. La Política Económica de la UE
 
+#### 3.3.1. La coordinación
+
+1. Los Estados miembros **coordinarán sus políticas económicas** en la Unión. El Consejo adoptará medidas (definiendo las orientaciones generales de dichas políticas).
+2. La Unión tomará medidas para garantizar la **coordinación de las políticas de empleo** de los estados miembros (definiendo las orientaciones generales de dichas políticas).
+3. La Unión podrá tomar inciativas para garantizar la **coordinación de las políticas sociales** de los Estados miembros.
+4. Los Estados **coordinarán sus políticas económicas y de empleo** según las modalidades definidas en el `TUE`.
+
+#### 3.3.2. Disposiciones de aplicación general
+
+> No es importante
+
+- La Unión velará por la coherencia entre sus políticas y acciones, teniendo en cuenta sus objetivos
+- La Unión se fijará en todas sus acciones el objetivo de eliminar las desigualdades entre el hombre y la mujer.
+- La Unión luchará contra toda discriminación.
+- La protección del medio ambiente deberá integrarse en la definición y realización de las políticas y acciones de la Unión.
+- Se tendrán en cuenta las exigencias de la protección de los consumidores.
+
+#### 3.3.3. El esquema de la política Económica de la UE
+
+- La Unión realiza una **política económica** que es tanto una **acción pública de ordenación** como una **política de intervención en el proceso económico**.
+- La Unión lleva a cabo **tres funciones públicas**:
+  1. **Política asignativa de la UE**: regulación de mercados comunitarios, salvaguarda de las condiciones de competencia, actuaciones a favor de la actividad productiva y del medio ambiente.
+  2. **Política redistributiva de la UE**: se centra en el ámbito interterritorial
+  3. **Política de estabilización de la UE**: pretende mejorar el funcionamiento de la economía europea a través de una política monetaria única y la coordinación de las políticas fiscales y de empleo.
+
 ## 4. La Agenda Estratégica de la Unión Europea 2019-2024
 
+Hasta ahora sólo hay 2 estrategias globales puestas en marcha por la UE: _Lisboa_ y _Europa 2020_
+
 ### 4.1. La Estrategia de Lisboa (2000-2010)
+
+Propósito:
+> Acelerar la transformación económica para que en 2010 la UE sea la economía del conocimiento más competitiva y dinámica del mundo, capaz de un crecimiento económico sostenido, con más y mejores empleos y una mayor cohesión social.
+
+Es la primera vez que se planteaba una **estrategia económica integral por el lado de la oferta**.
+
+Se trataba de una agenda global de medidas, con actuaciones en 5 grandes áreas:
+
+- Empleo
+- Sociedad del conocimiento (incluye educación, I+D e innovación)
+- Reforma económica
+- Cohesión social
+- Desarrollo sostenible
+
+Sobre esta base se fueron creando más metas y recomendaciones alrededor de las 3 prioridades principales:
+
+1. Fomentar el conocimiento y la innovación para el crecimiento
+2. Hacer de Europa un lugar más atractivo para invertir y trabajar
+3. Crear más empleo y de mejor calidad
 
 ### 4.2. La Estrategia Europa 2020 (2010-2020)
