@@ -33,7 +33,7 @@ Formado por 2 o más países que se conceden mutuamente una serie de rebajas adu
 - Los lazos que unen a las distintas economías integradas se manifiestan únicamente en el campo comercial.
 - El libre comercio se limita a aquellos bienes que se producen dentro de los países miembros.
 - Desviación de comercio: para los productos no elaborados dentro del grupo de países integrantes los países no miembros dirigen sus productos al país miembro con la tarifa esterior más baja y desde ese país los canaliza hacia el resto.
-  - Regla de origen: asegura que las importaciones no sólo proceden de un país partícipe del área de libre cambio sino que ha sido producidas en él (en su totalidad o en parte).
+    - Regla de origen: asegura que las importaciones no sólo proceden de un país partícipe del área de libre cambio sino que ha sido producidas en él (en su totalidad o en parte).
 
 > Ejs: EFTA (_European Free Trade Association_), _CEFTA_ y _Zona Australia - Nueva Zelanda_
 

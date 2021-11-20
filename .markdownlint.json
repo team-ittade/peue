@@ -1,0 +1,6 @@
+{
+  "ul-indent": { "indent": 4 },
+  "ol-indent": { "indent": 4 },
+  "no-hard-tabs": false,
+  "line-length": false
+}

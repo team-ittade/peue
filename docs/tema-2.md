@@ -57,36 +57,36 @@ El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
 - **En 2002 se pone en circulación el euro**.
 - `Cuarta ampliación`: Austria, Finlandia y Suecia
 - Se firma el **Tratado de Ámsterdam** (1999)
-  - Europa más social y más democrática
-  - Mejoras a la política exterior, seguridad común y libre circulación de los ciudadanos.
+    - Europa más social y más democrática
+    - Mejoras a la política exterior, seguridad común y libre circulación de los ciudadanos.
 - **Projecto de Tratado de Niza**:
-  1. Limitación de tamaño y composición de la Comisión (27 miembros, 1 por Estado)
-  2. Extensión del voto por mayoría cualificada
-  3. ...
+    1. Limitación de tamaño y composición de la Comisión (27 miembros, 1 por Estado)
+    2. Extensión del voto por mayoría cualificada
+    3. ...
 - Se firma la **Constitución Europea** en Roma en 2004 (excepto Francia y Holanda)
 - `Quinta ampliación`: Chipre, Eslovaquia, Eslovenia, Estonia, Hungría, Letonia, Lituania, Malta, Polonia y R. Checa
 - `Sexta ampliación`: Bulgaria y Rumania
 - **Tratado de Lisboa** (2007)
-  - **Se sustituye la Comunidad Europea por la UE**
-  - Delimita el **reparto de competencias vertical** (entre la UE y los Estados)
-  - **Simplifica los instrumentos normativos** acabando con la división en 3 pilares y otorgando personalidad jurídica a la UE.
-  - **Consolida la vertiente política de la UE**, reforzando el área de justicia y asuntos de interior el de Política Exterior y de Seguridad Común (PESC).
+    - **Se sustituye la Comunidad Europea por la UE**
+    - Delimita el **reparto de competencias vertical** (entre la UE y los Estados)
+    - **Simplifica los instrumentos normativos** acabando con la división en 3 pilares y otorgando personalidad jurídica a la UE.
+    - **Consolida la vertiente política de la UE**, reforzando el área de justicia y asuntos de interior el de Política Exterior y de Seguridad Común (PESC).
 - `Séptima ampliación`: Croacia
 - `Modifiación final`: en 2016 Reino Unido se va de la UE. Se terminó de ir en enero de 2020 mediante el **Acuerdo de retirada**.
 
 ### 1.5. Resumen de ampliaciones
 
-| ID  | Etapa | Año [^1] | total | extras | Entradas {: .sortable }                                                                       |
-| :-: | :---: | :------: | :---: | :----: | --------------------------------------------------------------------------------------------- |
-|  0  |   -   |   1957   |   6   |   -    | Francia, RF de Alemania, Italia, Bélgica, Holanda y Luxemburgo                                |
-|  1  |   1   |   1973   |   9   |   3    | Reino Unido, Irlanda y Dinamarca                                                              |
-|  2  |   2   |   1981   |  10   |   1    | Grecia                                                                                        |
-|  3  |   2   |   1986   |  12   |   2    | España y Portugal                                                                             |
-|  4  |   4   |   1995   |  15   |   3    | Austria, Finlandia y Suecia                                                                   |
-|  5  |   4   |   2004   |  25   |   10   | Chipre, Eslovaquia, Eslovenia, Estonia, Hungría, Letonia, Lituania, Malta, Polonia y R. Checa |
-|  6  |   4   |   2007   |  27   |   2    | Bulgaria y Rumanía                                                                            |
-|  7  |   4   |   2013   |  28   |   1    | Croacia                                                                                       |
-| 7'  |   4   |   2016   |  27   |   -1   | Reino Unido                                                                                   |
+|  ID   | Etapa | Año [^1] | total | extras | Entradas {: .sortable }                                                                       |
+| :---: | :---: | :------: | :---: | :----: | --------------------------------------------------------------------------------------------- |
+|   0   |   -   |   1957   |   6   |   -    | Francia, RF de Alemania, Italia, Bélgica, Holanda y Luxemburgo                                |
+|   1   |   1   |   1973   |   9   |   3    | Reino Unido, Irlanda y Dinamarca                                                              |
+|   2   |   2   |   1981   |  10   |   1    | Grecia                                                                                        |
+|   3   |   2   |   1986   |  12   |   2    | España y Portugal                                                                             |
+|   4   |   4   |   1995   |  15   |   3    | Austria, Finlandia y Suecia                                                                   |
+|   5   |   4   |   2004   |  25   |   10   | Chipre, Eslovaquia, Eslovenia, Estonia, Hungría, Letonia, Lituania, Malta, Polonia y R. Checa |
+|   6   |   4   |   2007   |  27   |   2    | Bulgaria y Rumanía                                                                            |
+|   7   |   4   |   2013   |  28   |   1    | Croacia                                                                                       |
+|  7'   |   4   |   2016   |  27   |   -1   | Reino Unido                                                                                   |
 
 [^1]: Se refiere al año en el que entra en vigencia el acuerdo firmado, no cuando se firma.
 
@@ -167,11 +167,11 @@ La integración es visible en 7 ámbitos principales:
 #### 3.2.2. Categorías y ámbitos de competencias de la Unión
 
 1. **Competencias exclusivas**: sólo la Unión podrá legislar y adoptar actos jurídicamente vinculantes.
-   - _Ejs: política monetaria, política comercial común, unión aduanera..._
+    - _Ejs: política monetaria, política comercial común, unión aduanera..._
 2. **Competencias compartidas**: la Unión y los Estados miembros podrán legislar y adoptar actos jurídicamente vinculantes.
-   - _Ejs: mercado interior, política social, agricultura y pesca, transporte, energía, seguridad y justicia, asuntos comunes de seguridad en materia de salud pública_
+    - _Ejs: mercado interior, política social, agricultura y pesca, transporte, energía, seguridad y justicia, asuntos comunes de seguridad en materia de salud pública_
 3. **Acciones comunes**: la Unión tiene competencia para llevar a cabo acciones con el fin de apoyar, coordinar o complementar la acción de los Estados miembros. No por ello sustituye la competencia de los Estados en estos ámbitos.
-   - _Ejs: protección y mejora de la salud humana, industria, cultura, turismo, educación, formación profesional, jubentud, deporte, protección civil, cooperación administrativa_
+    - _Ejs: protección y mejora de la salud humana, industria, cultura, turismo, educación, formación profesional, jubentud, deporte, protección civil, cooperación administrativa_
 
 ### 3.3. La Política Económica de la UE
 
@@ -196,9 +196,9 @@ La integración es visible en 7 ámbitos principales:
 
 - La Unión realiza una **política económica** que es tanto una **acción pública de ordenación** como una **política de intervención en el proceso económico**.
 - La Unión lleva a cabo **tres funciones públicas**:
-  1. **Política asignativa de la UE**: regulación de mercados comunitarios, salvaguarda de las condiciones de competencia, actuaciones a favor de la actividad productiva y del medio ambiente.
-  2. **Política redistributiva de la UE**: se centra en el ámbito interterritorial
-  3. **Política de estabilización de la UE**: pretende mejorar el funcionamiento de la economía europea a través de una política monetaria única y la coordinación de las políticas fiscales y de empleo.
+    1. **Política asignativa de la UE**: regulación de mercados comunitarios, salvaguarda de las condiciones de competencia, actuaciones a favor de la actividad productiva y del medio ambiente.
+    2. **Política redistributiva de la UE**: se centra en el ámbito interterritorial
+    3. **Política de estabilización de la UE**: pretende mejorar el funcionamiento de la economía europea a través de una política monetaria única y la coordinación de las políticas fiscales y de empleo.
 
 ## 4. La Agenda Estratégica de la Unión Europea 2019-2024
 

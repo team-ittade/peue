@@ -49,13 +49,13 @@ markdown_extensions:
   - codehilite
   - def_list
   - extra
-  - extra
   - footnotes
   - md_in_html
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.mark
+  - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tabbed
   - pymdownx.tilde
