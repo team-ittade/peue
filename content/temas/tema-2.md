@@ -1,7 +1,7 @@
 ---
 title: "Tema 2"
-date: 2021-11-17
-draft: true
+date: 2021-11-20
+draft: false
 summary: "El proceso de integración europea"
 categories:
   - Temas
@@ -217,6 +217,7 @@ Hasta ahora sólo hay 2 estrategias globales puestas en marcha por la UE: _Lisbo
 ### 4.1. La Estrategia de Lisboa (2000-2010)
 
 Propósito:
+
 > Acelerar la transformación económica para que en 2010 la UE sea la economía del conocimiento más competitiva y dinámica del mundo, capaz de un crecimiento económico sostenido, con más y mejores empleos y una mayor cohesión social.
 
 Es la primera vez que se planteaba una **estrategia económica integral por el lado de la oferta**.
@@ -236,3 +237,46 @@ Sobre esta base se fueron creando más metas y recomendaciones alrededor de las 
 3. Crear más empleo y de mejor calidad
 
 ### 4.2. La Estrategia Europa 2020 (2010-2020)
+
+Estableció 3 **Áreas Prioritarias**:
+
+1. Crecimiento inteligente: innovación + educación + sociedad digital
+2. Crecimiento sostenible: lucha contra el cambio climático + energía limpia y eficiente
+3. Crecimiento integrador: empleo + capacidades + lucha contra la pobreza
+
+Definió 5 objetivos básicos para la UE:
+
+1. 75% de la población de 20 a 64 años tendrá empleo
+2. El 3% del PIB de la UE se invertirá en I+D
+3. Alcanzar los objetivos `20/20/20` (`Acuerdo de París sobre el Cambio Climático`)
+
+   - Reducción de las emisiones de gases de efecto invernadero al menos un `20%` respecto a 1990
+   - Aumentar un `20%` la eficiencia energética
+   - Aumentar el porcentaje de las fuentes de energía renovable un `20%`
+
+   Objetivos de la UE en vigor (2021-2030):
+
+   - Reducción del 40% como mínimo de las emisiones de efecto invernadero
+   - Cuota mínima del 32% de energías renovables en el consumo de energía
+   - 32.5% de eficiencia energética
+
+4. Disminuir el abandono escolar un 10% y aumentar el porcentaje de personas de 30-34 años con estudios un 40%
+5. Reducir un 25% el número de ciudadanos europeos que viven por debajo de los umbrales nacionales de probreza.
+
+Antes del comienzo de cada nueva legislatura de la Comisión Europea y del Parlamento Europeo, el Consejo Europeo reúne a los jefes de Estado de cada gobierno y establece las prioridades políticas de la UE. El conjunto de estas prioridades se conoce como **agenda estratégica**.
+
+### 4.1. Elementos principales de la nueva Agenda Estratégica de la UE (2019-2024)
+
+1. Proteger a los ciudadanos y las libertades. Realizar un ontrol efectivo de las fronteras exteriores de la UE. Luchar contra la migración ilegal y la trata de seres humanos...
+2. Desarrollar una base económica sólida y dinámica
+3. Construir una Europa climáticamente neutra, ecológica, justa y social. Garantizar que las políticas de la UE sean coherentes con el `Acuerdo de París`.
+4. Promover los intereses y valores europeos en la escena mundial
+
+### 4.2. Prioridades de la Comisión Europea para 2019-2024 (Orientaciones Políticas)
+
+- Pacto Verde Europeo: hacer que Europa sea neutra en emisiones de carbono y eficiente en el uso de los recursos de aquí a 2050. Se establecen como objetivos clave aire, biodiversidad, ruido, suelo y agua (`Plan de Acción comunitario para la Contaminación Cero`, 2030).
+- Una Europa adaptada a la era digital
+- Una economía al servicio de las personas
+- Una Europa más fuerte del mundo
+- Promoción del modo de vida europeo
+- Un nuevo impulso a la democracia europea
