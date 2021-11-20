@@ -1,13 +1,3 @@
----
-title: "Tema 6"
-date: 2021-11-20
-draft: true
-summary: "Las políticas Comercial y de Cooperación al Desarrollo"
-categories:
-  - Temas
-weight: 6
----
-
 # Tema 6: Las políticas Comercial y de Cooperación al Desarrollo
 
 ## 1. La política comercial autónoma

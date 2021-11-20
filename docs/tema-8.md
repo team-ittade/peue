@@ -1,13 +1,3 @@
----
-title: "Tema 8"
-date: 2021-11-20
-draft: true
-summary: "La política de cohesión territorial"
-categories:
-  - Temas
-weight: 8
----
-
 # Tema 8: La política de cohesión territorial
 
 ## 1. Las desigualdades regionales y la necesidad de intervención

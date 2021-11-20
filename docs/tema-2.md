@@ -1,13 +1,3 @@
----
-title: "Tema 2"
-date: 2021-11-20
-draft: false
-summary: "El proceso de integración europea"
-categories:
-  - Temas
-weight: 2
----
-
 # Tema 2: El Proceso de Integración Europea
 
 ## 1. Las grandes etapas del proceso de integración europea
@@ -86,7 +76,7 @@ El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
 
 ### 1.5. Resumen de ampliaciones
 
-| ID  | Etapa | Año [^1] | total | extras | Entradas                                                                                      |
+| ID  | Etapa | Año [^1] | total | extras | Entradas {: .sortable }                                                                       |
 | :-: | :---: | :------: | :---: | :----: | --------------------------------------------------------------------------------------------- |
 |  0  |   -   |   1957   |   6   |   -    | Francia, RF de Alemania, Italia, Bélgica, Holanda y Luxemburgo                                |
 |  1  |   1   |   1973   |   9   |   3    | Reino Unido, Irlanda y Dinamarca                                                              |

@@ -1,13 +1,3 @@
----
-title: "Tema 5"
-date: 2021-11-17
-draft: true
-summary: "La Política Financiero-Presupuestaria"
-categories:
-  - Temas
-weight: 5
----
-
 # Tema 5: La Política Financiero-Presupuestaria
 
 ## 1. La intervención pública con distintos niveles de gobierno

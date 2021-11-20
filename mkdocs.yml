@@ -1,0 +1,81 @@
+site_name: PEUE
+
+theme:
+  name: material
+  palette:
+    primary: deep-purple
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+  logo: https://cdn.worldvectorlogo.com/logos/eu.svg
+  favicon: https://european-union.europa.eu/profiles/contrib/ewcms/themes/ewcms_theme/favicon.ico
+
+copyright: MIT
+
+nav:
+  - Tema 1: tema-1.md
+  - Tema 2: tema-2.md
+  - Tema 3: tema-3.md
+  - Tema 4: tema-4.md
+  - Tema 5: tema-5.md
+  - Tema 6: tema-6.md
+  - Tema 7: tema-7.md
+  - Tema 8: tema-8.md
+
+repo_name: team-ittade/peue
+repo_url: https://github.com/team-ittade/peue
+
+extra_css:
+  - css/colors.css
+
+extra_javascript:
+  - js/links.js
+  - js/tablesort.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://unpkg.com/mermaid@8.4.6/dist/mermaid.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - codehilite
+  - def_list
+  - extra
+  - extra
+  - footnotes
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tilde
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown_include.include:
+      base_path: content
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: 🔗
+
+plugins:
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+      enable_creation_date: true
+  - search

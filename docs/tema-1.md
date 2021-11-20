@@ -1,13 +1,3 @@
----
-title: "Tema 1"
-date: 2021-11-17
-draft: false
-summary: "Bases teóricas de la Integración Económica"
-categories:
-  - Temas
-weight: 1
----
-
 # Tema 1 – Bases Teóricas de la Integración Económica
 
 ## 1. Concepto
@@ -63,7 +53,7 @@ Es como la [Unión Aduanera](#33-unión-aduanera) añadiendo la \*\*libre circul
 
 Los países **forman un mercado común y armonizan o unifican sus políticas económicas nacionales** (fiscales, monetarias y socio-económicas).
 
-> Ejs: \*Benelux (Bélgica, Países Bajos y Luxemburgo) pasó de [Unión Aduanera](#33-unión-aduanera) a [Unión Económica](#35-unión-económica); CEE, que era un mercado común que avanzó hacia una [Unión Económica](#35-unión-económica)
+> Ejs: Benelux (Bélgica, Países Bajos y Luxemburgo) pasó de [Unión Aduanera](#33-unión-aduanera) a [Unión Económica](#35-unión-económica); CEE, que era un mercado común que avanzó hacia una [Unión Económica](#35-unión-económica)
 
 ### 3.6. Unión económica y monetaria
 

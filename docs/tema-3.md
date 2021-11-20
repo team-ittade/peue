@@ -1,13 +1,3 @@
----
-title: "Tema 3"
-date: 2021-11-17
-draft: true
-summary: "Gobernanza económico-financiera"
-categories:
-  - Temas
-weight: 3
----
-
 # Tema 3: Gobernanza Económico-Financiera
 
 La gobernanza económica es el sistema de instituciones y procedimientos establecido para lograr los objetivos de la Unión en el ámbito económico. Es la coordinación de las políticas económicas. La crisis financiera de 2008 reveló que la Unión necesitaba un modelo de gobernanza económica más eficaz que la coordinación económica y presupuestaria vigente en aquel momento.
@@ -23,7 +13,7 @@ La **primera fase** de la crisis financiera internacional (2008-2009) **afectó 
 
 El **epicentro de la segunda fase de la crisis** (2010-) fue los **mercados de deuda pública de la eurozona**. Los problemas fueron especialmente grabes en los países periféricos de la eurozona con un sobreendeudamiento de los sectores público y privado.
 
-**El detonante fue las finanzas de Grecia**, pero la desconfianza se extendió a otras economías, provocando graves problemas institucionales y de gobernanza en la UEM (*Unión Económica y Monetaria*).
+**El detonante fue las finanzas de Grecia**, pero la desconfianza se extendió a otras economías, provocando graves problemas institucionales y de gobernanza en la UEM (_Unión Económica y Monetaria_).
 
 La falta de mecanismos colectivos puso de manifiesto los fallos de diseño en el proceso de integración económica y monetaria y exacerbó la crisis.
 
@@ -69,7 +59,7 @@ La respuesta en política económica de europa se basó en dos elementos clave:
 
 ### 3.1. Six-Pack (2012)
 
-### 3.2. Tratado de Estabilidad, Coordinación y Gobernanza en la UEM. Pacto Presupuestario o Fiscal (2013).
+### 3.2. Tratado de Estabilidad, Coordinación y Gobernanza en la UEM. Pacto Presupuestario o Fiscal (2013)
 
 ### 3.3. Two-Pack (2013)
 
@@ -81,7 +71,7 @@ La respuesta en política económica de europa se basó en dos elementos clave:
 
 ### 3.5. Realizar la Unión Económica y Monetaria Europea (2015, Informe de los 5 Presidentes)
 
-### 3.6. Libro Blanco sobre el Futuro de Europa. Reflexiones y escenarios para la europa de los 27 en 2005.
+### 3.6. Libro Blanco sobre el Futuro de Europa. Reflexiones y escenarios para la europa de los 27 en 2005
 
 ### 3.7. Profundización de la Unión Económica y Monetaria (2017, UEM)
 
