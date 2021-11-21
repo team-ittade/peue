@@ -21,6 +21,7 @@ theme:
 copyright: MIT
 
 nav:
+  - PEUE: index.md
   - Tema 1: tema-1.md
   - Tema 2: tema-2.md
   - Tema 3: tema-3.md
