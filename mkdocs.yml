@@ -39,6 +39,7 @@ extra_css:
 
 extra_javascript:
   - js/links.js
+  - js/readtime.js
   - js/tablesort.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://unpkg.com/mermaid@8.4.6/dist/mermaid.min.js
