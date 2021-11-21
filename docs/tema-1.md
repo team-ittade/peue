@@ -2,72 +2,77 @@
 
 ## 1. Concepto
 
-Orígenes: periodo de postguerra
+La integración económica se empezó a desarrollar en el periodo de postguerra.
 
-`PELKMANS`: Integración económica = eliminación de las fronteras económicas
+**PELKMANS** definía la integración económica como la *eliminación de las fronteras económicas*.
 
-- Frontera económica: cualquier demarcación que restringe la movilidad de bienes, servicios y factores productivos
-  Condición necesaria y suficiente: unificación de los mercados de dos o más economías a través de su liberalización recíproca
-  Según `TINBERGEN` hay dos tipos de integraciones:
-- Integración positiva: modificación de instrumentos e instituciones ya existentes y crear nuevos
-- Integración negativa: eliminación de obstáculos y restricciones
+**Frontera económica**: cualquier demarcación que restringe la movilidad de bienes, servicios y factores productivos. {++ Condición necesaria y suficiente: unificación de los mercados de dos o más economías a través de su liberalización recíproca ++}
+
+Según `TINBERGEN` hay dos tipos de integraciones:
+
+- ^^Integración positiva^^: modificación de instrumentos e instituciones ya existentes y crear nuevos
+- ^^Integración negativa^^: eliminación de obstáculos y restricciones
 
 ## 2. Modalidades
 
 Modalidades de integración:
 
-- Integración natural:
-- Integración estratégica: su objetivo es obtener beneficios a expensas de otras economías
+- Integración natural: bloques regionales con una política comercial exterior abierta.
+- Integración estratégica: para obtener ganancias a expensas de otros (los *otros* son los países no miembros).
 
 ## 3. Etapas / niveles / grados
 
+!!! danger "Pregunta de examen"
+
 ### 3.1. Club de comercio preferencial
 
-Formado por 2 o más países que se conceden mutuamente una serie de rebajas aduaneras.
+Formado por 2 o más países que ==se conceden mutuamente una serie de rebajas aduaneras==.
 
-> Ejs: _unión francesa_, _commonwealth_.
+> *Ejs: unión francesa, commonwealth*.
 
 ### 3.2. Zona de libre cambio
 
-- Eliminan entre ellos todas las tarifas y restricciones a la importación sobre los productos elaborados en los territorios de los restantes países integrantes.
+- ==Eliminan entre ellos todas las tarifas y restricciones a la importación sobre los productos elaborados en los territorios de los restantes países integrantes==.
 - Los lazos que unen a las distintas economías integradas se manifiestan únicamente en el campo comercial.
-- El libre comercio se limita a aquellos bienes que se producen dentro de los países miembros.
+- **El libre comercio se limita a aquellos bienes que se producen dentro de los países miembros**.
 - Desviación de comercio: para los productos no elaborados dentro del grupo de países integrantes los países no miembros dirigen sus productos al país miembro con la tarifa esterior más baja y desde ese país los canaliza hacia el resto.
     - Regla de origen: asegura que las importaciones no sólo proceden de un país partícipe del área de libre cambio sino que ha sido producidas en él (en su totalidad o en parte).
 
-> Ejs: EFTA (_European Free Trade Association_), _CEFTA_ y _Zona Australia - Nueva Zelanda_
+> *Ejs: EFTA (European Free Trade Association), CEFTA y Zona Australia - Nueva Zelanda*
 
 ### 3.3. Unión aduanera
 
 Los países adoptan la **libertad de circulación de mercancías en el área integrada y una política comercial común**, así como una **tarifa aduanera común de cara a certeros**
 
-> Ejs: _CEE (1968)_, _UE-Turquía_, _UE-Andorra_, _UE-San Marino_
+> *Ejs: CEE (1968), UE-Turquía, UE-Andorra, UE-San Marino*
 
 ### 3.4. Mercado común
 
-Es como la [Unión Aduanera](#33-unión-aduanera) añadiendo la \*\*libre circulación de capitales, trabajadores y la libertad de establecimiento de actividades productivas.
+Es como la [Unión Aduanera](#33-unión-aduanera) añadiendo la **libre circulación de capitales, trabajadores y la libertad de establecimiento de actividades productivas**.
 
-> Ejs: _CEE (1992)_
+> *Ejs: CEE (1992)*
 
 ### 3.5. Unión económica
 
 Los países **forman un mercado común y armonizan o unifican sus políticas económicas nacionales** (fiscales, monetarias y socio-económicas).
 
-> Ejs: Benelux (Bélgica, Países Bajos y Luxemburgo) pasó de [Unión Aduanera](#33-unión-aduanera) a [Unión Económica](#35-unión-económica); CEE, que era un mercado común que avanzó hacia una [Unión Económica](#35-unión-económica)
+> *Ejs: Benelux (Bélgica, Países Bajos y Luxemburgo) pasó de [Unión Aduanera](#33-unión-aduanera) a [Unión Económica](#35-unión-económica); CEE, que era un mercado común que avanzó hacia una [Unión Económica](#35-unión-económica)*
 
 ### 3.6. Unión económica y monetaria
 
 Es una [Unión Económica](#35-unión-económica) en la que los países están regidos por **una unidad y circulación monetaria única**.
 
-> Ejs: _Unión Monetaria entre Bélgica y Luxemburgo (dead)_; _Eurozona_
+> *Ejs: Unión Monetaria entre Bélgica y Luxemburgo (dead); Eurozona*
 
 ### 3.X. Integración sectorial
 
 Es una forma de cooperación aunque pueda ser utilizada como instrumento para alcanzar una forma de integración descrita anteriormente.
 
-> Ej: CECA (Comunidad Europea del Carbón y del Acero)
+> *Ej: CECA (Comunidad Europea del Carbón y del Acero)*
 
 ## 4. Efectos
+
+!!! danger "Pregunta de examen"
 
 Dependen principalmente de:
 
@@ -85,17 +90,14 @@ En términos generales hay convergencia hacia el crecimiento económico y las me
 - **Crecimiento de la demanda**
 - Crecimiento de las inversiones para mejorar los niveles de productividad
 - **Efecto a la baja sobre los costes**
-
-→ Círculo de **mejora de la competitividad**, **crecimiento económico** y **productividad**.
+- ==Círculo de **mejora de la competitividad**, **crecimiento económico** y **productividad**.==
 
 #### 4.1.2. Sobre los flujo de los intercambios comerciales internacionales
 
 Existen 2 niveles en la intensificación del comercio:
 
-<!-- TODO: search -->
-
-- Interindustrial: aprovechamiento más eficiente de las ventajas comparativas
-- Intraindustrial: los beneficios se materializan en incrementos de la competencia.
+- ^^Interindustrial^^: aprovechamiento más eficiente de las ventajas comparativas
+- ^^Intraindustrial^^: los beneficios se materializan en incrementos de la competencia.
 
 #### 4.1.3. Sobre el reparto de los márgenes de poder
 
