@@ -110,13 +110,13 @@ El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
 
 La integración es visible en 7 ámbitos principales:
 
-1. Unión aduanera: los Estados miembros colaboran para garantizar que las mercancías importadas en la UE circulan libremente y son seguras para las personas, animales y medio ambiente.
-2. Mercado único: personas, bienes, servicios y capitales pueden circular por la UE casi tan libremente como si fuese el mismo país.
-3. Monetario: BCE como autoridad máxima y el funcionamiento del euro.
-4. Comercial: existe una política comercial unificada de europa con el resto del mundo
-5. Agrario: la PAC ha conseguido mejorar la unidad de mercado y el comercio exterior de productos agrarios, garantizar el autoabastecimiento, estabilidad de los precios, aumento de la renta del sector...
-6. Regional (cohesión territorial): la política regional abarca todas las regiones y ciudades de la UE.
-7. Ampliación:
+1. **Unión aduanera:** los Estados miembros colaboran para garantizar que las mercancías importadas en la UE circulan libremente y son seguras para las personas, animales y medio ambiente.
+2. **Mercado único:** personas, bienes, servicios y capitales pueden circular por la UE casi tan libremente como si fuese el mismo país.
+3. **Monetario:** BCE como autoridad máxima y el funcionamiento del euro.
+4. **Comercial:** existe una política comercial unificada de europa con el resto del mundo
+5. **Agrario:** la PAC ha conseguido mejorar la unidad de mercado y el comercio exterior de productos agrarios, garantizar el autoabastecimiento, estabilidad de los precios, aumento de la renta del sector...
+6. **Regional (cohesión territorial):** la política regional abarca todas las regiones y ciudades de la UE.
+7. **Ampliación:** la adeshión a la UE es un poderoso incentivo para las reformas democráticas y económicas en los países que quieren unirse a la UE.
 
 ### 2.2. Limitaciones y debilidades
 
@@ -147,14 +147,13 @@ La integración es visible en 7 ámbitos principales:
 
 ### 3.1. Los Objetivos
 
-> No es importante conocer todos los objetivos
-
-- Promover la paz, sus valores y el bienestar de los pueblos
-- Establecer un mercado interior
-- Promover el progreso científico y técnico
-- Combatir la exclusión social y la discriminación
-- Fomentar la justicia y protección sociales
-- ...
+??? abstract "No es importante conocer todos los objetivos"
+    - Promover la paz, sus valores y el bienestar de los pueblos
+    - Establecer un mercado interior
+    - Promover el progreso científico y técnico
+    - Combatir la exclusión social y la discriminación
+    - Fomentar la justicia y protección sociales
+    - ...
 
 ### 3.2. Las Competencias
 
@@ -184,13 +183,12 @@ La integración es visible en 7 ámbitos principales:
 
 #### 3.3.2. Disposiciones de aplicación general
 
-> No es importante
-
-- La Unión velará por la coherencia entre sus políticas y acciones, teniendo en cuenta sus objetivos
-- La Unión se fijará en todas sus acciones el objetivo de eliminar las desigualdades entre el hombre y la mujer.
-- La Unión luchará contra toda discriminación.
-- La protección del medio ambiente deberá integrarse en la definición y realización de las políticas y acciones de la Unión.
-- Se tendrán en cuenta las exigencias de la protección de los consumidores.
+??? abstract "No es importante"
+    - La Unión velará por la coherencia entre sus políticas y acciones, teniendo en cuenta sus objetivos
+    - La Unión se fijará en todas sus acciones el objetivo de eliminar las desigualdades entre el hombre y la mujer.
+    - La Unión luchará contra toda discriminación.
+    - La protección del medio ambiente deberá integrarse en la definición y realización de las políticas y acciones de la Unión.
+    - Se tendrán en cuenta las exigencias de la protección de los consumidores.
 
 #### 3.3.3. El esquema de la política Económica de la UE
 

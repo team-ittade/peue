@@ -3,7 +3,7 @@
 Estado de los temas:
 
 - **Tema 1**: :rocket: terminado
-- **Tema 2**: :truck: completo, esperando correción
+- **Tema 2**: :rocket: terminado
 - **Tema 3**: :construction: `20%` (`6/30`)
 - **Tema 4**: :factory: `0%` (`0/33`)
 - **Tema 5**: :factory: `0%` (`0/45`)
