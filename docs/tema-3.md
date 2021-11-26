@@ -45,19 +45,73 @@ La respuesta en política económica de europa se basó en dos elementos clave:
 
 ### 2.1. Medidas de estabilización
 
+- Se puso en marcha el `Plan Europeo de Recuperación económica` (2008)
+- Se extendieron las ^^ayudas públicas al sistema bancario^^ en forma de capitalización y garantías.
+- El `Banco Central Europeo` **bajó los tipos de interés oficiales** y suministró liquidez de emergencia.
+- La zona euro amplió la duraión de sus líneas de liquidez.
+
 ### 2.2. Reforma estructural del entramado institucional
+
+Se crearon nuevos meanismos de estabilización financiera y nuevas autoridades de supervisión financiera. Se estableció el [**Semestre Europeo**](#223-semestre-europeo-2011) y se aprobó el [**Pacto por el Euro Plus**](#224-pacto-por-el-europlus).
 
 #### 2.2.1. Mecanismos de Estabilidad Financiera
 
+Se crearon 2 mecanismos de protección financiera temporal (ya no están vigentes):
+
+- ^^`Fondo Europeo de Estabilidad Financiera` (FEEF)^^
+- ^^`Mecanismo Europeo de Estabilidad Financiera` (MEEF)^^
+
+Ambos dieron lugar al ==**Mecanismo Europeo de Estabilidad (MEDE).**== Rescataron a Irlanda, Portugal y a España.
+
+!!! info "MEDE"
+    - Objetivo: salvaguardar la estabilidad financiera en los países de la eurozona
+    - Susituyó al FEEF y al MEEF
+    - La Comisión Europea, el FMI y el BCE evalúan el riesgo, determinan las necesidades de financiación y negocian el programa de ayuda
+
 #### 2.2.2. Nuevas autoridades de supervisión financiera
+
+==**Junta Europea de Riesgo Sistemático (JERS)**==: su objetivo es ^^preveiner y mitigar los riesgos sistemáticos para la estabilidad financiera a la luz de la evolución macroeconómica.^^
+
+Se complementa con 3 autoridades europeas de supervisión sectorial (AES):
+
+- Autoridad Bancaria Europea (ABE)
+- Autoridad Europea de Seguros y Pensiones de Jubilación (EIOPA)
+- Autoridad Europea de Valores y Mercados (esma)
+
+!!! tip
+    Las nuevas **Autoridades Europeas de Supervisión (AES)** tienen una {++posición de enlace++} entre el **Sistema Europeo de Supervisores Financieros (SESF)** y la **Junta Europea de Riesgo Sistemático**
+
+El objetivo del **Sistema Europeo de Supervisores Financieros (SESF)** es ^^garantizar la correcta aplicación de la normativa del sector financiero para preservar la estabilidad financiera^^.
 
 #### 2.2.3. Semestre europeo (2011)
 
+Es un ciclo de ^^coordinación de las políticas económicas, presupuestarias, sociales y de empleo dentro de la UE^^.
+
+- Se centra en los primeros 6 meses de cada año, de ahí el nombre.
+- Proporciona un marco de coordinación y supervisión de los esfuerzos de los Estados miembros.
+
 #### 2.2.4. "Pacto por el EuroPlus"
+
+Persigue 3 objetivos:
+
+1. Impulsar la competitividad y el empleo
+2. Contribuir a la sostenibilidad de las finanzas públicas
+3. Reforzar la estabilidad financiera
+
+^^Se aprobó en 2011 para fortalecer la coordinación de las políticas económicas y el grado de convergencia entre países.^^
 
 ## 3. La arquitectura reforzada de la UEM
 
+Los jefes de gobierno de los Estados miembros pactaron una arquitectura reforzada para la UEM basada en Tratados.
+
+Se aprobó reforzar el `Pacto de Estabilidad y Crecimiento` con el [Six Pack](#31-six-pack-2012), el [Two Pack](#33-two-pack-2013) y el [Tratado de Estabilidad, Coordinación y Gobernanza en la UEM](#32-tratado-de-estabilidad-coordinación-y-gobernanza-en-la-uem-pacto-presupuestario-o-fiscal-2013).
+
 ### 3.1. Six-Pack (2012)
+
+Incluye 6 instrumentos legislativos:
+
+- 1 directiva sobre marcos fiscales nacionales
+- 5 reglamentos sobre coordinación de políticas fiscales y vigilancia de los desequilibrios macroeconómicos dentro de la Zona Euro y de la UE.
 
 ### 3.2. Tratado de Estabilidad, Coordinación y Gobernanza en la UEM. Pacto Presupuestario o Fiscal (2013)
 
