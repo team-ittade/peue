@@ -5,7 +5,7 @@ Estado de los temas:
 - **Tema 1**: :rocket: terminado
 - **Tema 2**: :rocket: terminado
 - **Tema 3**: :rocket: terminado
-- **Tema 4**: :factory: `0%` (`0/33`)
+- **Tema 4**: :factory: `36%` (`12/33`)
 - **Tema 5**: :factory: `0%` (`0/45`)
 - **Tema 6**: :factory: `0%` (`0/34`)
 - **Tema 7**: :factory: `0%` (`0/16`)

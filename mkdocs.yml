@@ -37,14 +37,19 @@ repo_url: https://github.com/team-ittade/peue
 
 extra_css:
   - css/colors.css
+  - css/pied-piper.css
 
 extra_javascript:
   - js/links.js
+  - js/mathjax.js
   - js/readtime.js
   - js/tablesort.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://unpkg.com/mermaid@8.4.6/dist/mermaid.min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+
 
 markdown_extensions:
   - admonition
