@@ -113,20 +113,102 @@ Incluye 6 instrumentos legislativos:
 - 1 directiva sobre marcos fiscales nacionales
 - 5 reglamentos sobre coordinación de políticas fiscales y vigilancia de los desequilibrios macroeconómicos dentro de la Zona Euro y de la UE.
 
+Novedades:
+
+1. Hace operativo el criterio de la deuda pública en la parte correctiva y revisa el procedimiento sancionador. Contempla sanciones si después de 3 años el país no reduce cada año el 1/20 de su deuda pública.
+2. Aproba una nueva regla sobre los límites al gasto público. Estipula que el gasto público podrá crecer como máximo al nivel del crecimiento potencial de la economía a medio plazo.
+3. Crea un procedimiento de vigilancia de los desequilibrios macroeconómicos {>>déficit y superávit por cuenta corriente, etc<<}
+
 ### 3.2. Tratado de Estabilidad, Coordinación y Gobernanza en la UEM. Pacto Presupuestario o Fiscal (2013)
+
+!!! info "Medidas destacadas"
+    - Los 25 Estados firmantes se comprometen a mantener su nivel de déficit económico como máximo en el 0.5% de su PIB **en términos estructurales**. Es la llamada ==regla de oro==.
+    - Los Estados podrán desviarse temporalmente de su objetivo a medio plazo únicamente en circunstancias excepcionales: un acontecimiento inusual o un periodo de grave recesión eonómica.
+    - Los firmantes se comprometen a avanzar en la **coordinación reforzada de las políticas económicas** para lograr una política económica que fomente el funcionamiento de la UEM y su crecimiento.
+    - Se celebrarán como mínimo 2 Cumbres Euro anuales en las que participarán los presidentes de la Comisión y del BCE.
+    - Está vinculado directamente al [**MEDE**](#221-mecanismos-de-estabilidad-financiera).
 
 ### 3.3. Two-Pack (2013)
 
+Es un paquete legislativo sobre la supervisión presupuestaria que completa el [Six-Pack](#31-six-pack-2012) y el [Semestre Europeo](#223-semestre-europeo-2011).
+
+Se compone de 2 Reglamentos {++destinados a reforzar la integración económica y la convergencia++} entre los países de la zona euro:
+
+1. Contiene normas especiales para los países de la eurozona que están incluidos en el procedimiento de déficit excesivo.
+2. Establece normas claras y simplificadas para una supervisión forzada de los Estados miembros que se enfrenten a graves dificultades de estabilidad financiera.
+
 ### 3.4. Unión Bancaria (2012)
+
+Es un **complemento fundamental de la UEM y del mercado interior**. Asigna la responsabilidad relativa a la supervisión
+
+Originalmente iba a tener 3 pilares: MUST + MUR + Fondo de garantía de depósitos común, pero se han conformado con 2:
 
 #### 3.4.1. Mecanismo Único de Supervisión (MUS)
 
+Sistema para la supervisión prudencial de las entidades en la zona euro y asociados.
+
+Objetivos principales:
+
+1. Velar por la seguridad y la solidez del sistema bancario europeo
+2. Potenciar la integración y la estabilidad financieras en Europa
+3. Asegurar la coherencia de la supervisión
+
+==Está formado por el Banco Central Europeo (BCE) y las autoridades nacionales de supervisión de los estados miembros de la UE.==
+
 #### 3.4.2. Mecanismo Único de Resolución (MUR)
+
+Su objetivo principal es asegurar la resolución eficiente de entidades con graves dificultades con un coste mínimo para el contribuyente y para la economía real
+
+==Está compuesto por la **Junta Única de Resolución (JUR)** y por el **Fondo Único de Resolución (FUR)**.==
+
+!!! info "Junta Única de Resolución (JUR)"
+    **Es el principal órgano de decisión del MUR.**
+
+    - Decide sobre los sistemas de resolución para bancos en quiebra
+    - Es directamente ompetente respecto de las fases de planificación y resolución de los bancos transfronterizos y los grandes bancos de la unión bancaria.
+    - **Es responsable de todos los casos de resolución independiente del tamaño del banco si la resolución exige recurrir al Fondo Único de Resolución**.
+    - Es responsable en última instancia de todos los bancos de la Unión Bancaria.
+
+!!! info "Fondo Único de Resolución (FUR)"
+    Es un fondo establecido a escala supranacional para la resolución de los bancos en quiebra tras haberse agotado otras opciones.
+
+    Se financia con aportaciones del sector bancario
 
 ### 3.5. Realizar la Unión Económica y Monetaria Europea (2015, Informe de los 5 Presidentes)
 
+En 2015 los 5 Presidentes (Comisión, Consejo, Eurogruopo, BCE y Parlamento Europeo) presentaron un Plan (*Informe de los 5 Presidentes*): **`Realizar la Unión Económica y Monetaria Europea`**
+
+En él se habla de avanzar en 4 frentes:
+
+1. Una Unión Europea auténtica que garantice que cada economía dispone de las características estructurales que le permitirán properar dentro de la UE.
+2. Una Unión Financiera que garantice la integridad de la moneda única.
+3. Una Unión Presupuestaria que proporcione sostenibilidad y estabilización presupuestarias.
+4. Una Unión Política que refuerze el control democrático, la legitimidad y las instituciones.
+
 ### 3.6. Libro Blanco sobre el Futuro de Europa. Reflexiones y escenarios para la europa de los 27 en 2005
+
+Se publicó cuando los Jefes de gobierno se reunieron en 2017 por el 60 aniversario de la firma del `Tratado de Roma`. Su objetivo es poner en marcha unp roceso en el que Europa decida su propio camino. En él se definen retos, oportunidades y opciones a los que responder colectivamente.
 
 ### 3.7. Profundización de la Unión Económica y Monetaria (2017, UEM)
 
+Se publicó en 2017. Señalaba 4 razones para completar la UEM:
+
+- Hacer frente a la persistencia de las divergencias económicas y sociales
+- Abordar las demás fuentes de vulnerabilidad financiera
+- Afrontar los elevados niveles de deuda e incrementar las capacidades de estabilización colectiva
+- Aumentar la eficiencia y la transparencia de la gobernanza de la UEM.
+
 ## 4. Conclusiones
+
+Desde la crisis financiera mundial de 2008 la UE ha realizado progresos susstanciales en la mejora de su estructura institucional.
+
+La UE ha seguido esforzándose en **consolidar y profundizar la `Unión Económica y Monetaria` (UEM)** que comprende:
+
+- Una Unión Bancaria (UB)
+- Una unión de los mercados de capitales (UEM)
+
+Faltan importantes elementos como:
+
+- Creación del Sistema Europeo de Garantía de Depósitos
+- Simplificación de las PYMES a los mercados de renta variable
+- Facilitación de las inversiones a largo plazo y la convergencia de los mercados de insolvencia en toda la Unión
