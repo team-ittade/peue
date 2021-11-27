@@ -11,12 +11,16 @@ function readingTime(post) {
   return result;
 }
 
+const ENABLE_BY_DEFAULT = true;
+
 document$.subscribe(function () {
   var text = document.body.textContent;
   const result = readingTime(text);
   const node = `<p><small>Estimated reading time: ${result.readingTime} minutes (${result.wordCount} words)</small></p>`;
   title = document.querySelector("h1");
-  if (title.classList.contains("ERT")) {
+  const defValue = ENABLE_BY_DEFAULT && !title.classList.contains("NOT-ERT");
+  console.log(defValue);
+  if (defValue || title.classList.contains("ERT")) {
     title.insertAdjacentHTML("afterend", node);
     console.log("Adding ERT");
   } else {
