@@ -2,7 +2,24 @@
 
 ## 1. La intervención pública con distintos niveles de gobierno
 
+La justificación de la intervención pública se ha basado tradicionalmente en la existencia de *fallos de mercado*. Para corregir estos fallos desde un **enfoque normativo** la intervención pública de los poderes públicos es necesaria.
+
+!!! info "El presupuesto y la regulación"
+    - La **actividad presupuestaria** supone la ==movilización de los recursos financieros==
+    - La **actividad reguladora** engloba las ==intervenciones no presupuestarias==
+
+Los gobiernos se organizan en niveles:
+
+- ^^Nivel supremo^^: un único gobierno que extiende su influencia a todo el territorio nacional
+- ^^Nivel intermedio^^: operan varios gobiernos, cada uno de ellos dentro de su respectiva región
+- ^^Nivel inferior^^: elevado número de gobiernos que se corresponden con la división del territorio nacional en entidades locales
+- ^^Nivel supranacional^^: incluído en el ámbito europeo.
+
+La **centralización de las funciones de redistribución y de estabilización** se fundamenta en la ineficacia de las políticas dirigidas a conseguir objetivos de mayor igualdad y estabilidad en economías excepcionalmente abiertas y con gran movilidad de factores. {>>PEj: locales y regionales <<}
+
 ## 2. Delimitación de la actividad financiera de la Unión Europea
+
+==Un rasgo de la Unión Europea es el escaso peso de su actividad financiera.==
 
 ### 2.1. Instrumentos financieros
 
