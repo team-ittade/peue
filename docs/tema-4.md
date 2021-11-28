@@ -254,4 +254,19 @@ Beneficios del uso mundial del euro:
 - [x] Mayor autonomía para los consumidores y empresas de Europa
 - [x] **Mayor capacidad de resistencia del sistema financiero y la economía internacionales, que los hará menos vulnerables a las perturbaciones de los tipos de cambio**
 
-**También hay que tener en cuenta que un uso más amplio de una divisa internacional implica una mayor responsabilidad a nivel mu**ndial.
+**También hay que tener en cuenta que un uso más amplio de una divisa internacional implica una mayor responsabilidad a nivel mundial.**
+
+### 3.1. El Euro Digital
+
+Se puso en marcha en Julio de 2021. Es una forma de dinero de banco central disponible en formato digital para su uso en pagos de pequeño importe, sin riesgo, accesible y eficiente.
+
+Funciones:
+
+- Complementar el efectivo y los depósitos
+- Crear sinergias con el sector de los pagos
+- Respaldar la digitalización de la economía europea
+- Garantizar el acceso al dinero del Banco Central
+- Evitar los riesgos de las soluciones de pago no reguladas
+- Prevenir el uso de monedas digitales extranjeras
+
+El proyecto se encuentra en fase de investigación (durante los primeros 24 meses).
