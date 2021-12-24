@@ -1,0 +1,12 @@
+{
+  "1": { "total": 10, "done": 10 },
+  "2": { "total": 29, "done": 29 },
+  "3": { "total": 30, "done": 30 },
+  "4": { "total": 33, "done": 33 },
+  "5": { "total": 45, "done": 4 },
+  "6": { "total": 34, "done": 0 },
+  "7": { "total": 16, "done": 0 },
+  "8": { "total": 42, "done": 0 },
+  "9": { "total": 30, "done": 0 },
+  "10": { "total": 33, "done": 0 }
+}
