@@ -44,6 +44,7 @@ extra_css:
 extra_javascript:
   - js/links.js
   - js/mathjax.js
+  - js/progress.js
   - js/readtime.js
   - js/tablesort.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
