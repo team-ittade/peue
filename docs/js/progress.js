@@ -23,7 +23,10 @@ rocket =
 factory =
   '<img alt="🏭" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f3ed.svg" title=":factory:">';
 
-if (window.location.pathname === "/") {
+progressListDiv = document.getElementById("progressList");
+totalProgressDiv = document.getElementById("totalProgress");
+
+if (progressListDiv !== null && totalProgressDiv !== null) {
   document$.subscribe(function () {
     console.log("Setting progress");
 
@@ -48,11 +51,9 @@ if (window.location.pathname === "/") {
           progress.push(`<b>Tema ${i}</b>: ${prog}`);
         }
 
-        div = document.getElementById("progressList");
-        arrToUl(div, progress);
+        arrToUl(progressListDiv, progress);
 
-        totalDiv = document.getElementById("totalProgress");
-        totalDiv.innerHTML = `<b>Progreso total</b>: <code>${Math.round(
+        totalProgressDiv.innerHTML = `<b>Progreso total</b>: <code>${Math.round(
           (totalDone * 100) / totalPages
         )}%</code> (<code>${totalDone}</code>/<code>${totalPages})</code>`;
       });
