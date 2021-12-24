@@ -30,7 +30,7 @@ if (progressListDiv !== null && totalProgressDiv !== null) {
   document$.subscribe(function () {
     console.log("Setting progress");
 
-    fetch("/data/progress.json")
+    fetch(window.location + "data/progress.json")
       .then((response) => response.json())
       .then((data) => {
         progress = [];
