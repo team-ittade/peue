@@ -37,6 +37,7 @@ repo_url: https://github.com/team-ittade/peue
 
 extra_css:
   - css/colors.css
+  - css/custom.css
   - css/pied-piper.css
 
 extra_javascript:
