@@ -15,7 +15,7 @@ Los gobiernos se organizan en niveles:
 - ^^Nivel inferior^^: elevado número de gobiernos que se corresponden con la división del territorio nacional en entidades locales
 - ^^Nivel supranacional^^: incluído en el ámbito europeo.
 
-La **centralización de las funciones de redistribución y de estabilización** se fundamenta en la ineficacia de las políticas dirigidas a conseguir objetivos de mayor igualdad y estabilidad en economías excepcionalmente abiertas y con gran movilidad de factores. {>>PEj: locales y regionales <<}
+La **centralización de las funciones de redistribución y de estabilización** se fundamenta en la ineficacia de las políticas dirigidas a conseguir objetivos de mayor igualdad y estabilidad en economías excepcionalmente abiertas y con gran movilidad de factores. {>>Ej: locales y regionales <<}
 
 ## 2. Delimitación de la actividad financiera de la Unión Europea
 
@@ -43,9 +43,30 @@ Tipos de instrumentos financieros:
 
 ## 3. El Marco Financiero Plurianual
 
+En el `Acuerdo Institucional entre el Parlamento, el Consejo y la Comisión` se crea un macro para los gastos comunitarios actualmente denominado **`Marco Financiero Plurianual (MFP)`**.
+
+==Establece los importes máximos anuales que la UE puede gastar en distintos ámbitos políticos durante un tiempo no inferior a 5 años==. ^^Existen 2 tipos de límites: limite anual para cada partida y un límite anual global para todas.^^
+
+^^Con el Tratado de Lisboa, el MFP pasó de ser un acuerdo interinstitucional a un acto jurídicamente vinculante (quedó fijado en un Reglamento).^^
+
+{++ El MFP es uno de los 3 elementos que componen el sistema presupuestario de la UE, junto al presupuesto anual de la UE (fija los gastos e ingresos planificados durante un año) y las normas sobre los recursos propios (fijan los ingresos de la UE). ++}
+
 ### 3.1. Acuerdos institucionales
 
+1. Primer acuerdo (1988, *Perspectivas Financieras 1988-1992 (Delors I)*): contiene medidas destinadas a conseguir los recursos necesarios para financiar la aplicación del Acta Única Europea (AUE).
+2. Segundo acuerdo (1992, *Perspectivas Financieras 1993-1999 (Delors II)*): su objetivo era dotar a la Comunidad de recursos suficientes para financiar lsa políticas comunitarias y cumplir los compromisos derivados del Tratado de de Maastrich. Estableció nuevos límites de recursos propios en términos del PNB (1.27% del PNB desde 1999). {>> Delors I y II contuvieron los gastos agrícolas y dotaron de recursos a las políticas estructurales. <<}
+3. Tecer acuerdo (1999, *Perspectivas Financieras 2000-2006*): incluye importantes novedades que afectaban a 3 ámbitos: políticas y acciones comunes, estrategia de adhesión de nuevos Estados Miembros y adaptación de la Unión y sus instituciones para ese reto.
+4. Cuarto acuerdo (2006, *Perspectivas Financieras 2007-2013*): estableció los ^^principios de los instrumentos financieros comunitarios^^: ^^Concentración de los recursos comunitarios en unas pocas iniciativas de envergadura^^, ^^coherencia entre los distintos objetivos y estrategias^^ y ^^asociación de todas las partes interesadas (sobre todo la Unión y los Estados miembros)^^. En 2000, por decisión del consejo se reemplazo el uso de PNB por RNB y estableció su límite en el 1.23% desde el 2010.
+
+5. Quinto acuerdo (2013, *Marco Financiero Plurianual 2014-2020*): ha sido el primero en ser adoptado bajo las nuevas condiciones del Tratado de Lisboa, según las cuales el Consejo debe adoptar el Reglamento sobre el MFP por unanimidad tras haber obtenido la aprobación del parlamento.
+
 ### 3.2. El MFP para el periodo 2021-2027 UE27
+
+- Tiene en cuenta la crisis del Covid19 y las medidas adoptadas en el marco de ***Next Generation EU***
+- Sexto acuerdo (2020, *2021-2027*): servirá como base para la respuesta a las consecuencias del Covid19.
+- El Consejo adoptó la Decisión sobre el sistema de recursos propios para 2021-2027:
+    - Los estados miembros deberán recaudar el 25% de los importes que hayan recaudado
+    - Nuevos límites máximos del Presupuesto de la UE
 
 ## 4. La respuesta de la UE al Covid-19
 
