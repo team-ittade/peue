@@ -19,7 +19,6 @@ document$.subscribe(function () {
   const node = `<p><small>Estimated reading time: ${result.readingTime} minutes (${result.wordCount} words)</small></p>`;
   title = document.querySelector("h1");
   const defValue = ENABLE_BY_DEFAULT && !title.classList.contains("NO-ERT");
-  console.log(defValue);
   if (defValue || title.classList.contains("ERT")) {
     title.insertAdjacentHTML("afterend", node);
     console.log("Adding ERT");
