@@ -133,18 +133,89 @@ Características:
     - Buena gestión financiera
     - Transparencia
 
-### 5.1. Los gastos
+!!! question "¿Quién elabora el presupuesto?"
+    El Consejo y el Parlamento Europeo se encargan de elaborar el presupuesto (Autoridad Presupuestaria).
 
-#### 5.1.1. Tipología
-
-#### 5.1.2. Clasificación orgánica y por categorías
-
-### 5.2. Los ingresos
-
-### 5.3. Los recursos propios
-
-### 5.4. Otros ingresos
+    El Parlamento tiene más importancia que el Consejo, ya que en determinadas situaciones tiene la última palabra.
 
 ## 6. Los gastos e ingresos del Presupuesto General
 
+### 6.1. Los gastos
+
+#### 6.1.1. Tipología
+
+- **Créditos Disociados (CD)**: se utilizan para financiar actividades plurianuales en determinados sectores.
+    - *Créditos de Compromiso (CC)*: cubren, durante el ejercicio en curso, el coste total de los compromisos contraídos que se realizarán en el futuro (más de un ejercicio).
+    - *Créditos de Pago (CP)*: financian los gastos resultantes de la ejecución de los compromisos contraídos durante el ejercicio en curso o en ejercicios anteriores.
+- **Créditos No Disociados (CND)**: se destinan a la cobertura financiera de operaciones de carácter anual.
+
+Tipos de créditos totales:
+
+- **Créditos para Compromisos**: $CPC = CND + CC$
+- **Créditos para Pagos**: $CPP = CND + CP$
+
+#### 6.1.2. Clasificación orgánica y por categorías
+
+??? info "Categorías de gastos"
+    Las categorías de gastos son las mismas que las del Marco Financiero Plurianual 2021-2027:
+
+    1. Mercado único, innovación y economía digital
+    2. Cohesión, resiliencia y valores
+        1. Cohesión económica, social y territorial
+        2. Resiliencia y valores
+    3. Recursos naturales y medio ambiente
+    4. Migración y gestión de las fronteras
+    5. Seguridad y defensa
+    6. Vecindad y resto del mundo
+    7. Administración Pública Europea
+
+### 6.2. Los ingresos
+
+### 6.3. Los recursos propios
+
+**La UE se financia con un recursos propios en un 98%.** El sistema de recursos propios lo decide el Consejo por unanimidad.
+
+Las normas sobre los recursos propios de la UE establecen:
+
+1. Límite máximo: 1,40% de la RNB de la UE. Es el importe máximo de los recursos propios que la UE puede recaudar durante un año. Como se expresa en función de la RNB (Renta Nacional Bruta) depende de la situación económica de la UE.
+2. Los diferentes tipos de recursos propios
+3. Correcciones: compensan o corrigen los desequilibrios presupuestarios de determinados Estados miembros.
+
+!!! pied-piper "Recursos propios tradicionales"
+    Son recursos propios por naturaleza, proceden directamente de la existencia de un espacio aduanero simplificado. Los estados miembros se limitan a gestionarlos, obteniendo una compensación de un 25% de los ingresos totales.
+
+    **Son ingresos altamente rígidos, creados para proteger el mercado comunitario.**
+
+    - ==Derechos de aduana==: se derivan de la aplicación del arancel aduanero común al valor en aduana de los productos importados de terceros países.
+    - ==Cotizaciones sobre el azúcar==: son exacciones que gravan la producción y almacenamiento del azúcar, estando obligadas a pagarlas las empresas del sector.
+
+!!! pied-pier "Otros recursos Propios"
+    - ==Recursos propios RNB==: transferencia por parte de los Estados miembros de un porcentaje uniforme de su RNB que se fija cada año. Actualmente está en torno al 70% de los recursos propios. Es un recurso más equitativo que el IVA. Se trata de un recurso variable y complementario.
+    - ==Recurso propio IVA==:  transferencia por parte de los Estadoms miembros de un 0.3% de la base imponible del IVA armonizada. Actualmente representa en torno al 10% de los recursos Propios.
+    - ==Recurso propio basado en el plástico==: introducido en 2021, se trata de una contribución nacional calculada en función del peso de los residuos de envases de plástico que no se reciclen. Actualmente representa en torno al 4% del presupuesto de la Unión.
+
+### 6.4. Otros ingresos
+
+Los excedentes de ingresos de ejercicios anteriores se consideran como otros ingresos.
+
 ## 7. Hacia una mayor integración financiera europea
+
+El objetivo de la arquitectura de la UE para las políticas presupuestarias es construir un marco sólido y eficaz en materia de **coordinación y supervisión de las políticas presupuestarias de los Estados miembros**.
+
+Uno de los procedimientos para la coordinación y supervisión de las políticas presupuestarias de los Estados miembros es el ==**Pacto de Estabilidad y Crecimiento**==. Es un compromiso público y firme de los países comunitarios para alcanzar a medio plazo situaciones presupuestarias cercanas al equilibrio.
+
+!!! info "Pacto de Estabilidad y Crecimiento"
+    Se estructuró en torno a 2 elementos centrales:
+
+    - Reforzar el proceso de supervisión multilateral: establecimiento de programas de estabilidad (países de la UEM) y programas de convergencia (países de la UE que no están en la UEM).
+    - Aceleró los plazos de las diferentes etapas del procedimiento de déficit excesivo y establece el mecanismo de aplicación de sanciones.
+
+En 2011-2013 aprobó la segunda reforma del `Pacto de Estabilidad y Crecimiento`, con el `six pack`, el `two pack` y el `Tratado de Estabilidad, Coordinación y Gobernanza en la UEM`.
+
+El `PEC` cuenta en la actualidad con 3 elementos fundamentales:
+
+1. **Vertiente preventiva**. Objetivo: garantizar la solidez de las finanzas públicas mediante la supervisión multilateral
+2. **Vertiente correctora**. Objetivo: evitar el déficit excesivo y garantizar su pronta corrección. Se activa con dos criterios: *criterio de déficit* (hay que mantener el déficit inferior al 3% del PIB a precios del mercado) y el *criterio de deuda* (hay que mantener la deuda por debajo del 60% del PIB).
+3. **Cláusula General de Salvaguarda del PEC**. ^^Permite^^ a los Estados miembros en la ^^vertiente preventiva desviarse temporalmente^^ respecto de la trayectoria de ajuste hacia el objetivo presupuestario a medio plazo. Si por el contrario un Estado miembro se halla en ^^vertiente correctora^^, la cláusula comporta que el ^^Consejo puede decidir la adopción de una trayectoria presupuestaria revisada^^.
+
+El consejo activó por primera vez la cláusula general de salvaguarda del PEC en marzo de 2020. Las indicaciones preliminares actuales sugieren seguir aplicando la cláusula general de salvaguardia en 2022 y desactivarla a partir de 2023
