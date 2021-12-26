@@ -70,7 +70,68 @@ En el `Acuerdo Institucional entre el Parlamento, el Consejo y la Comisión` se 
 
 ## 4. La respuesta de la UE al Covid-19
 
+A finales de mayo de 2020 la Comisión presentó un conjunto de medidas de gran alcance que unía el futuro MFP y unas medidas específicas de recuperación del *Next Generation EU*.
+
+### 4.1. La respuesta de emergencia de la UE a la pandemia del Covid-19
+
+Objetivos:
+
+- [x] Limitar la propagación del virus
+- [x] Garantizar el suministro de equipos médicos
+- [x] Promover la investigación sobre tratamientos y vacunas
+- [x] Luchar contra la desinformación
+- [x] Ayudar a los cuidadanos de la UE bloqueados en el extranjero
+- [x] Apoyar el empleo, a las empresas y a la economía
+- [x] **540 000 millones de € de presupuesto**
+
+### 4.2. Next Generation EU: Plan de recuperación para Europa
+
+**Objetivo primario: Invertir en una UE ecológica, digital y resiliente.** *Cuenta con un presupuesto de 750 000 millones de €.*
+
+Debe centrarse en:
+
+- Medidas para restaurar empleo y crear puestos de trabajo
+- Reformas para revitalizar el crecimiento sostenible y de empleo
+- Medidas para las empresas afectadas por la crisis económica del Covid-19
+- Medidas para la investigación y la innovación en respuesta a la crisis del Covid-19
+- Medidas para garantizar que una transición justa hacia una economía neutra desde el punto de vista no se vea afectada por la crisis del Covid-19
+- Medidas para hacer frente al impacto de la crisis del Covid-19 en la agricultura y el desarrollo rural
+
+La Comisión ha adoptado un **marco de bonos verdes Next Generation EU**. El primer bono se emitió en octubre de 2021.
+
+### 4.3. Desglose del presupuesto de la UE para 2021-2027
+
+!!! bug "Pregunta de examen: Gasto de la UE para 2021-2027"
+    1. Mercado único, innovación y economía digital {>>TOP 3 en cantidad de gasto<<}
+    2. Cohesión, resiliencia y valores {>>TOP 1 en cantidad de gasto<<}
+    3. Recursos naturales y medio ambiente {>>TOP 2 en cantidad de gasto<<}
+    4. Migración y gestión de fronteras
+    5. Seguridad y defensa
+    6. Vecindad y resto del mundo
+    7. Administración pública europea
+
+!!! bug "Pregunta de examen: Principales programas y fondos del MFP"
+    1. Política Agrícola Común (aka PAC)
+    2. Política de Cohesión
+    3. Prioridades nuevas y reforzadas
+
 ## 5. El Presupuesto General
+
+Características:
+
+- Es un **presupuesto operativo**. En cambio, los presupuestos de los organismos internacionales son **de funcionamiento**
+- **Se financia mediante un sistema de recursos propios (98%)**
+- Es un **presupuesto de gastos**: se determina el volumen de gastos preciso y luego se evaluán los ingresos para hacer frente a esos gastos.
+- Es principalmente un **presupuesto de inversión**
+- Se rige por 9 **principios presupuestarios**:
+    - Unidad y veracidad presupuestaria
+    - Anualidad
+    - Equilibrio
+    - Unidad de cuenta
+    - Universalidad
+    - Especialidad
+    - Buena gestión financiera
+    - Transparencia
 
 ### 5.1. Los gastos
 
