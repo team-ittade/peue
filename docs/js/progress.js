@@ -26,8 +26,8 @@ factory =
 progressListDiv = document.getElementById("progressList");
 totalProgressDiv = document.getElementById("totalProgress");
 
-if (progressListDiv !== null && totalProgressDiv !== null) {
-  document$.subscribe(function () {
+document$.subscribe(function () {
+  if (progressListDiv !== null && totalProgressDiv !== null) {
     console.log("Setting progress");
 
     fetch(window.location + "data/progress.json")
@@ -57,5 +57,5 @@ if (progressListDiv !== null && totalProgressDiv !== null) {
           (totalDone * 100) / totalPages
         )}%</code> (<code>${totalDone}</code>/<code>${totalPages})</code>`;
       });
-  });
-}
+  }
+});
