@@ -189,7 +189,7 @@ Las normas sobre los recursos propios de la UE establecen:
     - ==Derechos de aduana==: se derivan de la aplicación del arancel aduanero común al valor en aduana de los productos importados de terceros países.
     - ==Cotizaciones sobre el azúcar==: son exacciones que gravan la producción y almacenamiento del azúcar, estando obligadas a pagarlas las empresas del sector.
 
-!!! pied-pier "Otros recursos Propios"
+!!! pied-piper "Otros recursos Propios"
     - ==Recursos propios RNB==: transferencia por parte de los Estados miembros de un porcentaje uniforme de su RNB que se fija cada año. Actualmente está en torno al 70% de los recursos propios. Es un recurso más equitativo que el IVA. Se trata de un recurso variable y complementario.
     - ==Recurso propio IVA==:  transferencia por parte de los Estadoms miembros de un 0.3% de la base imponible del IVA armonizada. Actualmente representa en torno al 10% de los recursos Propios.
     - ==Recurso propio basado en el plástico==: introducido en 2021, se trata de una contribución nacional calculada en función del peso de los residuos de envases de plástico que no se reciclen. Actualmente representa en torno al 4% del presupuesto de la Unión.
