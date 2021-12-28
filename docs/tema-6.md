@@ -28,7 +28,7 @@ En 2018 el Consejo adoptó un nuevo planteamiento para la negociación y celebra
 
 El análisis de la Política Comercial Exterior suele separarse en dos grandes bloques:
 
-- [**Política comercial autónoma**](#12-la-política-comercial-autónoma): hace referencia a las medidas establecidas por la propia UE con carácter unilateral, respetando las obligaciones multilaterales que se derivan de sus compro-misos ante la Organización Mundial del Comercio (OMC).
+- [**Política comercial autónoma**](#12-la-política-comercial-autónoma): hace referencia a las medidas establecidas por la propia UE con carácter unilateral, respetando las obligaciones multilaterales que se derivan de sus compromisos ante la Organización Mundial del Comercio (OMC).
 - [**Política comercial convencional**](#2-la-política-comercial-convencional-y-las-relaciones-de-cooperación): se basa en los acuerdos suscritos por la UE con distintos países o grupos de países (*la mayoría de ellos en vías de desarrollo*). Dichos acuerdos han de ser compatibles con las reglas de la OMC y adaptarse como excepciones específicas al **principio de la nación más favorecida**.
 
 ==Ambos grupos de políticas se refieren únicamente al comercio de la UE con el resto del mundo. **El comercio entre Estados miembros no forma parte de la política comercial**.==
@@ -133,7 +133,7 @@ Tras su estancamiento en cuestiones fundamentales (sobre todo en lo relacionado 
         2. los cambios demográficos
         3. El aumento de los ingresos en los países emergentes
         4. El cambio climático.
-    4. Mayor grado de tensión comercial debido a las guerras comerciales promovidas por EEUU y China. Obliga a una revisión y reorientación de los planes estratégicos conforme a las tendencias de los acuerdos comerciales bilaterales de la UE con el resto del mundo. Las empresas deben pensar en mercados alternativos para soportar el impacto de los sobre-costes y las restricciones al comercio.
+    4. Mayor grado de tensión comercial debido a las guerras comerciales promovidas por EEUU y China. Obliga a una revisión y reorientación de los planes estratégicos conforme a las tendencias de los acuerdos comerciales bilaterales de la UE con el resto del mundo. Las empresas deben pensar en mercados alternativos para soportar el impacto de los sobrecostes y las restricciones al comercio.
     5. Nuevo impulso de la digitalización, las tecnologías y el comercio electrónico mundial.
 
 ## 4. La política de cooperación internacional y desarrollo (CPD)
@@ -153,10 +153,57 @@ La CPD se reforzó con el `Tratado de Lisboa` (2009) y se reiteró con el `Nuevo
 - El `Nuevo Consenso Europeo sobre Desarrollo` (2017, piedra angular de la política de desarrollo de la UE) enmarca la aplicación de la `Agenda 2030` en una asociación con todos los países en desarrollo y tiene en cuenta el `Tratado de Lisboa`.
 - Los **cinco temas clave** que sustentan el trabajo de la Unión Europea **en materia de desarrollo sostenible** son conocidos como las *5P*: **Personas, Planeta, Prosperidad, Paz, Alianzas**.
 
+!!! success ""
+    Los objetivos de desarrollo sostenible forman parte de la Agenda 2030 para el Desarrollo Sostenible (aprobada por las Naciones Unidas en 2015)
+
+!!! bug "Plan Europeo de Inversiones Exteriores (PEIE)"
+    - Apoya el desarrollo sostenible y determina, prepara y presta apoyo a proyectos de inversión en países no europeos
+    - Impulsa la inversión y la creación de empleo en África y los países vecinos de la UE.
+    - Prioridades: movilización de la inversión, intensificación de la asistencia técnica y apoyo de las reformas económicas y estructurales para mejorar el entorno empresarial y el marco político general.
+    - En 2017 se creó el **`Fondo Europeo de Desarrollo Sostenible (FEDS)`**, la **`Garantía del FEDS`** y el **`Fondo de Garantía del FEDS`** para cumplir las prioridades.
+    - Integrado por 3 pilares:
+        - `FEDS (Fondo Europeo para el Desarrollo Sostenible)`: proporciona un dispositivo financiero integrado para financiar las inversiones en las regiones de África y en los países de la vecindad europea
+        - **Asistencia técnica** a las autoridades locales para que desarrollen proyectos mejores y viables.
+        - Asistencia técnica a ctividades que apoyan el diálogo estructurado del sector político y privado con los países socios y otras partes interesadas para **mejorar el clima de inversión y el entorno empresarial**.
+
 ### 4.1. Instrumentos
+
+La ayuda al desarrollo puede suministrarse de múltiples formas:
+
+- **Proyectos**: serie de actividades con objetivos específicos y periodo y presupuesto definidos.
+- **Subvenciones**: contribuciones financieras directas a organizaciones o a los proyectos que gestionan. Se conceden por convocatorias.
+- **Contratos**: se adjudican mediante procedimientos de licitación de servicio, suministros u obras.
+- **Apoyo presupuestario**: transferencias a la hacienda nacional del país socio. Va acompañado de un intenso diálogo político. Financia la estrategia de desarrollo del país socio. **Está acondicionado a resultados** (sólo se desembolsa cuando se cumplen las condiciones acordadas para los resultados).
+- **Financiación combinada** (aka instrumentos financieros innovadores, *blending facilities*): complementa a otras modalidades de ayuda y está pensada de cara a las prioridades regionales, nacionales y transversales. **El principio del mecanismo es combinar las subvenciones de la UE con préstamos o activos procedentes de entidades públicas y privadas**.
+
+    La cobertura geográfica de los mecanismos regionales de financiación combinada se ha ido ampliando gradualmente. Abarcan las siete regiones de la cooperación exterior de la UE
 
 ### 4.2. Fuentes financieras de la política de cooperación al desarrollo
 
-<!-- #### 4.2.1. El instrumento de vecindad, cooperación al desarrollo y cooperación internacional (IVCDCI-EUROPA GLOBAL) -->
+La ayuda procede de 2 fuentes financieras:
 
-<!-- #### 4.2.2. Instrumento de Apoyo a la Preadhesión (IPA III) -->
+1. El Presupuesto comunitario
+2. El BEI: Concede préstamos en el contexto del componente externo de sus actividades
+
+*[BEI]: Banco Europeo de Inversiones
+
+#### 4.2.1. El instrumento de vecindad, cooperación al desarrollo y cooperación internacional (IVCDCI-EUROPA GLOBAL)
+
+Se aplica desde 2021. Cuenta con una asignación global de **79 500 millones de euros** a precios corrientes **para el periodo 2021-2027**.
+
+Ha fusionado la mayoría de los múltiples instrumentos de cooperación exterior que existían en el ciclo financiero anterior.
+
+Está organizado en torno a **tres pilares principales**: programas geográficos (el más importante); programas temáticos; y acciones de respuesta rápida.
+
+!!! question "Fondo Europeo de Desarrollo Sostenible Plus (FEDS+)"
+    Es una de las novedades incluidas en `Europa Global`.
+
+    El FEDS+ constituirá un dispositivo financiero integrado que aporte capacidad financiera en forma de subvenciones, asistencia técnica, instrumentos financieros, garantías presupuestarias y operaciones de financiación mixta en todo el mundo. A diferencia de su predecesor su **alcance es mundial**.
+
+#### 4.2.2. Instrumento de Apoyo a la Preadhesión (IPA III)
+
+Cuenta con una asignación global de **14 162 millones de euros** a precios corrientes **para el periodo 2021-2027**.
+
+Rige la financiación europea concedida para aquellos países que se encuentran en el camino hacia la adhesión a la Unión Europea. Además, contribuirá a los objetivos de protección del medio ambiente y clima, igualdad de género y derechos humanos.
+
+Financiará inversiones en sectores clave como la conectividad, infraestructuras, medio ambiente,energía y transformación digital, para impulsar la convergencia con la UE.
