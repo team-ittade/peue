@@ -14,7 +14,7 @@ function readingTime(post) {
 const ENABLE_BY_DEFAULT = true;
 
 document$.subscribe(function () {
-  var text = document.body.textContent;
+  var text = document.getElementsByTagName("article")[0].textContent;
   const result = readingTime(text);
   const node = `<p><small>Estimated reading time: ${result.readingTime} minutes (${result.wordCount} words)</small></p>`;
   title = document.querySelector("h1");
