@@ -10,7 +10,7 @@ En 1957 se firma el `Tratado de Roma`, por el que se crea la **CEE** (_Comunidad
 
 Tanto la **CECA** como el **EURATOM** son formas de **integración sectorial**, mientras que la CEE constituye una forma de **integración global**. Su objetivo era la progresiva creación de una [Unión Aduanera](tema-1.md#33-unión-aduanera) y un [Mercado Común](tema-1.md#34-mercado-común).
 
-En el 1958 entró en vigor el `Tratado de Roma`. Desde entonces el proceso de integración europea ha atravesado distintas etapas, acelerándose en épocas de expansión económica y frenándose en periodos de recesión.
+En 1958 entró en vigor el `Tratado de Roma`. Desde entonces el proceso de integración europea ha atravesado distintas etapas, acelerándose en épocas de expansión económica y frenándose en periodos de recesión.
 
 ### 1.1. 1ª Etapa (1958-1973)
 
@@ -27,7 +27,7 @@ En el 1958 entró en vigor el `Tratado de Roma`. Desde entonces el proceso de in
 
 - Crisis económica
 - Europesimismo
-- Se crea el **Sistema Monetario Europeo** para estabilizar los tipos de cambio y frenar la inflacción
+- Se crea el **Sistema Monetario Europeo** para estabilizar los tipos de cambio y frenar la inflación
 - `Segunda ampliación`: Grecia
 - `Tercera ampliación`: España y Portugal
 - Justo al final el europesimismo da paso a un relanzamiento del proceso
@@ -40,7 +40,7 @@ En el 1958 entró en vigor el `Tratado de Roma`. Desde entonces el proceso de in
 - Coincide con un cambio favorable del ciclo económico
 - Se recoge el compromiso de los países por el _Libro Blanco_ en el **Acta Única Europea** (**AUE**). Es la primera reforma importante de los tratados de las comunidades europeas.
 - Se firma el `Plan Delors`. Se partió en 3 etapas. Su objetivo era crear una **Unión Económica y Monetaria** (`UEM`). Instantáneamente se inicia la primera etapa.
-- En el 1992 se firma el `Tratado de Maastricht` o `Tratado de la Unión Europea`. Constituye la **segunda reforma más importante**.
+- En 1992 se firma el `Tratado de Maastricht` o `Tratado de la Unión Europea`. Constituye la **segunda reforma más importante**.
 
 El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
 
@@ -59,7 +59,7 @@ El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
 - Se firma el **Tratado de Ámsterdam** (1999)
     - Europa más social y más democrática
     - Mejoras a la política exterior, seguridad común y libre circulación de los ciudadanos.
-- **Projecto de Tratado de Niza**:
+- **Proyecto de Tratado de Niza**:
     1. Limitación de tamaño y composición de la Comisión (27 miembros, 1 por Estado)
     2. Extensión del voto por mayoría cualificada
     3. ...
@@ -70,9 +70,9 @@ El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
     - **Se sustituye la Comunidad Europea por la UE**
     - Delimita el **reparto de competencias vertical** (entre la UE y los Estados)
     - **Simplifica los instrumentos normativos** acabando con la división en 3 pilares y otorgando personalidad jurídica a la UE.
-    - **Consolida la vertiente política de la UE**, reforzando el área de justicia y asuntos de interior el de Política Exterior y de Seguridad Común (PESC).
+    - **Consolida la vertiente política de la UE**, reforzando el área de justicia y asuntos de interior y de Política Exterior y de Seguridad Común (PESC).
 - `Séptima ampliación`: Croacia
-- `Modifiación final`: en 2016 Reino Unido se va de la UE. Se terminó de ir en enero de 2020 mediante el **Acuerdo de retirada**.
+- `Modificación final`: en 2016 Reino Unido se va de la UE. Se terminó de ir en enero de 2020 mediante el **Acuerdo de retirada**.
 
 ### 1.5. Resumen de ampliaciones
 
@@ -94,7 +94,7 @@ El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
 
 | Fecha          | Descripción                                                                                                                                                                                                                                     |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Abril 1951     | Francia, Alemania Occidental, Italia, Bélgica, Holanda y Luxemburgo firman el Tratado de Paris, constitutivo de la Comunidad Europea del Carbón y del Acero (CECA). Gran Bretaña, previamente invitada, declina participar en su constitución. |
+| Abril 1951     | Francia, Alemania Occidental, Italia, Bélgica, Holanda y Luxemburgo firman el Tratado de París, constitutivo de la Comunidad Europea del Carbón y del Acero (CECA). Gran Bretaña, previamente invitada, declinó participar en su constitución. |
 | Marzo 1957     | Firma de los Tratados de Roma constitutivos de la CEE y la EURATOM. Entran en vigor en 1958.                                                                                                                                                    |
 | Abril 1965     | Firma del Tratado de fusión de los ejecutivos de las tres Comunidades (CECA, CEE y EURATOM). Se constituyen un Consejo y una Comisión únicos. Entra en vigor el 1 de julio de 1967.                                                             |
 | Febrero 1986   | Firma del Acta Única Europea (AUE). Entra en vigor el 1 de julio de 1987.                                                                                                                                                                       |
@@ -110,13 +110,13 @@ El `Tratado de la Unión Europea` se basa en tres pilares fundamentales:
 
 La integración es visible en 7 ámbitos principales:
 
-1. **Unión aduanera:** los Estados miembros colaboran para garantizar que las mercancías importadas en la UE circulan libremente y son seguras para las personas, animales y medio ambiente.
+1. **Unión aduanera:** los Estados miembros colaboran para garantizar que las mercancías importadas en la UE circulen libremente y sean seguras para las personas, animales y medio ambiente.
 2. **Mercado único:** personas, bienes, servicios y capitales pueden circular por la UE casi tan libremente como si fuese el mismo país.
 3. **Monetario:** BCE como autoridad máxima y el funcionamiento del euro.
 4. **Comercial:** existe una política comercial unificada de europa con el resto del mundo
 5. **Agrario:** la PAC ha conseguido mejorar la unidad de mercado y el comercio exterior de productos agrarios, garantizar el autoabastecimiento, estabilidad de los precios, aumento de la renta del sector...
 6. **Regional (cohesión territorial):** la política regional abarca todas las regiones y ciudades de la UE.
-7. **Ampliación:** la adeshión a la UE es un poderoso incentivo para las reformas democráticas y económicas en los países que quieren unirse a la UE.
+7. **Ampliación:** la adhesión a la UE es un poderoso incentivo para las reformas democráticas y económicas en los países que quieren unirse a la UE.
 
 ### 2.2. Limitaciones y debilidades
 
@@ -124,7 +124,7 @@ La integración es visible en 7 ámbitos principales:
 - Falta de dinamismo
 - Asimetrías entre países miembros
 - Ausencia de una única y verdadera autoridad económica
-- Limitaciones prespuestarias: _el nivel de gasto se sitúa en torno al 1% de la RNB de la UE_
+- Limitaciones presupuestarias: _el nivel de gasto se sitúa en torno al 1% de la RNB de la UE_
 - Regla de la unanimidad. En la actualidad en la mayoría de los asuntos las decisiones se toman por **doble mayoría**: **55 % de los estados** (al menos 15) que representen como mínimo al **65% de la población**. **Pueden bloquear una decisión 4 Estados que representen al menos al 35% de la población**.
 - Falta de correspondencia entre el nivel de integración económica y el nivel de integración política.
 - Limitaciones políticas al gobierno económico de la eurozona.
@@ -159,8 +159,8 @@ La integración es visible en 7 ámbitos principales:
 
 #### 3.2.1. Competencias de la UE (`TUE`)
 
-1. **Principio de atribución**: toda competenncia no atribuida a la Unión en los Tratados corresponde a los Estados miembros
-2. **Principio de subsidiariedad**: en aquellos ámbitos en los que la Unión no tenga competenia **exclusiva** intervendrá sólo si el Estado miembro no puede alcanzar sus objetivos por sí mismo y la Unión sí que podría alcanzarlos.
+1. **Principio de atribución**: toda competencia no atribuida a la Unión en los Tratados corresponde a los Estados miembros
+2. **Principio de subsidiariedad**: en aquellos ámbitos en los que la Unión no tenga competencia **exclusiva** intervendrá sólo si el Estado miembro no puede alcanzar sus objetivos por sí mismo y la Unión sí que podría alcanzarlos.
 3. **Principio de proporcionalidad**: la magnitud de la acción de la Unión será meramente suficiente para alcanzar los objetivos de los Tratados, nunca mayor.
 
 #### 3.2.2. Categorías y ámbitos de competencias de la Unión
@@ -170,7 +170,7 @@ La integración es visible en 7 ámbitos principales:
 2. **Competencias compartidas**: la Unión y los Estados miembros podrán legislar y adoptar actos jurídicamente vinculantes.
     - _Ejs: mercado interior, política social, agricultura y pesca, transporte, energía, seguridad y justicia, asuntos comunes de seguridad en materia de salud pública_
 3. **Acciones comunes**: la Unión tiene competencia para llevar a cabo acciones con el fin de apoyar, coordinar o complementar la acción de los Estados miembros. No por ello sustituye la competencia de los Estados en estos ámbitos.
-    - _Ejs: protección y mejora de la salud humana, industria, cultura, turismo, educación, formación profesional, jubentud, deporte, protección civil, cooperación administrativa_
+    - _Ejs: protección y mejora de la salud humana, industria, cultura, turismo, educación, formación profesional, juventud, deporte, protección civil, cooperación administrativa_
 
 ### 3.3. La Política Económica de la UE
 
@@ -178,7 +178,7 @@ La integración es visible en 7 ámbitos principales:
 
 1. Los Estados miembros **coordinarán sus políticas económicas** en la Unión. El Consejo adoptará medidas (definiendo las orientaciones generales de dichas políticas).
 2. La Unión tomará medidas para garantizar la **coordinación de las políticas de empleo** de los estados miembros (definiendo las orientaciones generales de dichas políticas).
-3. La Unión podrá tomar inciativas para garantizar la **coordinación de las políticas sociales** de los Estados miembros.
+3. La Unión podrá tomar iniciativas para garantizar la **coordinación de las políticas sociales** de los Estados miembros.
 4. Los Estados **coordinarán sus políticas económicas y de empleo** según las modalidades definidas en el `TUE`.
 
 #### 3.3.2. Disposiciones de aplicación general
@@ -249,13 +249,13 @@ Definió 5 objetivos básicos para la UE:
    - 32.5% de eficiencia energética
 
 4. Disminuir el abandono escolar un 10% y aumentar el porcentaje de personas de 30-34 años con estudios un 40%
-5. Reducir un 25% el número de ciudadanos europeos que viven por debajo de los umbrales nacionales de probreza.
+5. Reducir un 25% el número de ciudadanos europeos que viven por debajo de los umbrales nacionales de pobreza.
 
 Antes del comienzo de cada nueva legislatura de la Comisión Europea y del Parlamento Europeo, el Consejo Europeo reúne a los jefes de Estado de cada gobierno y establece las prioridades políticas de la UE. El conjunto de estas prioridades se conoce como **agenda estratégica**.
 
 ### 4.1. Elementos principales de la nueva Agenda Estratégica de la UE (2019-2024)
 
-1. Proteger a los ciudadanos y las libertades. Realizar un ontrol efectivo de las fronteras exteriores de la UE. Luchar contra la migración ilegal y la trata de seres humanos...
+1. Proteger a los ciudadanos y las libertades. Realizar un control efectivo de las fronteras exteriores de la UE. Luchar contra la migración ilegal y la trata de seres humanos...
 2. Desarrollar una base económica sólida y dinámica
 3. Construir una Europa climáticamente neutra, ecológica, justa y social. Garantizar que las políticas de la UE sean coherentes con el `Acuerdo de París`.
 4. Promover los intereses y valores europeos en la escena mundial

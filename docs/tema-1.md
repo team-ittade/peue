@@ -35,8 +35,8 @@ Formado por 2 o más países que ==se conceden mutuamente una serie de rebajas a
 - ==Eliminan entre ellos todas las tarifas y restricciones a la importación sobre los productos elaborados en los territorios de los restantes países integrantes==.
 - Los lazos que unen a las distintas economías integradas se manifiestan únicamente en el campo comercial.
 - **El libre comercio se limita a aquellos bienes que se producen dentro de los países miembros**.
-- Desviación de comercio: para los productos no elaborados dentro del grupo de países integrantes los países no miembros dirigen sus productos al país miembro con la tarifa esterior más baja y desde ese país los canaliza hacia el resto.
-    - Regla de origen: asegura que las importaciones no sólo proceden de un país partícipe del área de libre cambio sino que ha sido producidas en él (en su totalidad o en parte).
+- Desviación de comercio: para los productos no elaborados dentro del grupo de países integrantes los países no miembros dirigen sus productos al país miembro con la tarifa exterior más baja y desde ese país los canaliza hacia el resto.
+    - Regla de origen: asegura que las importaciones no sólo proceden de un país partícipe del área de libre cambio sino que han sido producidas en él (en su totalidad o en parte).
 
 > *Ejs: EFTA (European Free Trade Association), CEFTA y Zona Australia - Nueva Zelanda*
 
@@ -114,14 +114,14 @@ A largo plazo se materializa en una **dependencia económica entre los países**
 #### 4.1.5. Sobre la explotación de las economías de escala y la reducción de los costes de producción
 
 - Clara influencia sobre la **innovación y el progreso técnico**.
-- Las dificultades financieras puede llevar a muchas empresas de tamaño medio a **acortar los ciclos de vida de sus productos** y a **fusionarse con otras empresas**.
+- Las dificultades financieras pueden llevar a muchas empresas de tamaño medio a **acortar los ciclos de vida de sus productos** y a **fusionarse con otras empresas**.
 
 #### 4.1.6. Sobre el replanteamiento de la localización de las actividades productivas
 
 Dependerá de:
 
 - Costes de la mano de obra
-- Facilidad de acceso a los factores porductivos
+- Facilidad de acceso a los factores productivos
 - Proximidad a los mercados (para reducir costes de transporte)
 
 También se tiene en cuenta las **ponderaciones de poder** y la **capacidad de decisión** de las autoridades nacionales o regionales.
@@ -130,13 +130,13 @@ También se tiene en cuenta las **ponderaciones de poder** y la **capacidad de d
 
 La integración económica altera las fuerzas económicas y políticas dando lugar a **procesos divergentes** en lugar de crear convergencia.
 
-Los flujos de los factores favorecerán a regiones con **mayores niveles de acumulación**.
+Los flujos de los factores favorecen a regiones con **mayores niveles de acumulación**.
 
 #### 4.1.8. Sobre la dificultad para proceder a un reparto homogéneo de los posibles beneficios y pérdidas
 
-El crecimiento de la competencia produce fuertes **mecanismos de ajuste** en las empresas con mayores dificultades de adaptación. Las posiblidades de supervivencia de muchas empresas (sobre todo `PYMES`) se pueden ver reducidas.
+El crecimiento de la competencia produce fuertes **mecanismos de ajuste** en las empresas con mayores dificultades de adaptación. Las posibilidades de supervivencia de muchas empresas (sobre todo `PYMES`) se pueden ver reducidas.
 
-Las **regiones más deprimidas** tendrán dificultades para obtener beneficios del proeso de integración por sí mismas. Se deberá compensar a las regiones más deprimidas flujos públicos para equilibrar y converger su crecimiento con las regiones más beneficiadas del proceso.
+Las **regiones más deprimidas** tendrán dificultades para obtener beneficios del proceso de integración por sí mismas. Se deberá compensar a las regiones más deprimidas con flujos públicos para equilibrar y converger su crecimiento con las regiones más beneficiadas del proceso.
 
 De no ser así dará lugar a:
 
