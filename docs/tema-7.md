@@ -104,7 +104,7 @@ Se articula alrededor de 8 ejes principales:
     - Se ha reorganizado la Dirección **General de Competencia**.
 5. Aplicación efectiva de las normas de competencia en los servicios públicos liberalizados {>> energía, telecomunicaciones, transporte, correos<<} y supresión de los obstáculos que impiden una auténtica liberalización de los mismos.
 6. Aplicación proactiva de las normas de competencia en los servicios financieros y las profesiones liberales, sectores caracterizados por una regulación frecuentemente gravosa y por prácticas a menudo restrictivas.
-7. Cooperación con las autoridades y las jurisdicciones nacionales {>>paso de **un sistema de autorización centralizado de notificación previa de acuer-dos prohibidos pero autorizables** a **un sistema de excepción legal**<<}
+7. Cooperación con las autoridades y las jurisdicciones nacionales {>>paso de **un sistema de autorización centralizado de notificación previa de acuerdos prohibidos pero autorizables** a **un sistema de excepción legal**<<}
 8. Cooperación con terceros países, en el marco de los acuerdos bilaterales y multilaterales suscritos.
 
 !!! danger ""

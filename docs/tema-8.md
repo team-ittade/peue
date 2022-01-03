@@ -57,7 +57,7 @@ Sobresalen otros 3 hechos en esta etapa:
 
 - La incorporación de Grecia a la CEE
 - Nueva revisión del FEDER (1984) para tener en cuenta el creciente número de problemas regionales vinculados a la reconversión regional.
-- Integración de España y Portugal (1986), dos países con un PIB por habitante muy por de-bajo de la media europea. Se tuvo que ampliar otra vez los fondos destinados a las ayudas regionales. {>> Esta **tercera ampliación** coincidió con la puesta en marcha del `AUE`, cuyo Título V se refería a la necesidad de lograr la mayor cohesión económica y social posible <<}
+- Integración de España y Portugal (1986), dos países con un PIB por habitante muy por debajo de la media europea. Se tuvo que ampliar otra vez los fondos destinados a las ayudas regionales. {>> Esta **tercera ampliación** coincidió con la puesta en marcha del `AUE`, cuyo Título V se refería a la necesidad de lograr la mayor cohesión económica y social posible <<}
 
 ### 2.3. 1988 - 1999: consolidación de la política regional
 
