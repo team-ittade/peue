@@ -3,7 +3,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT_DIR = Path(__file__).parent
+ROOT_DIR = Path(__file__).parent.parent
 DOCS_DIR = ROOT_DIR / "docs"
 WHITELIST_PATH = ROOT_DIR / "whitelist.json"
 
