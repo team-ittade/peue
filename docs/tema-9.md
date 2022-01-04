@@ -5,30 +5,60 @@
 El **modelo social europeo** a diferencia del norteamericano o japonés ha sido descrito como un desarrollado sistema de redes de protección social que ha configurado la apuesta por el Estado del Bienestar.
 
 <!-- Revisar este párrafo y los dos siguientes -->
-A pesar de su masiva presencia en los países europeos en su núcleo hay una gran heterogeneidad de valores, contenidos rendimientos y modelos que funcionan como espacios "con trazos básicos comunes en las políticas sociales de sus Estados", aunque con "grandes dosis de pluralidad interna":
+A pesar de su masiva presencia en los países europeos en su núcleo hay una **gran heterogeneidad de valores, contenidos rendimientos y modelos** que funcionan como espacios *"con trazos básicos comunes en las políticas sociales de sus Estados*, aunque con *grandes dosis de pluralidad interna"*:
 
-- Razones económicas y extraeconómicas avalan tales diferencias.
-- Para la Comisión Europea la protección social es un componente fundamental del modelo social europeo.
+- **Razones económicas y extraeconómicas avalan tales diferencias**.
+- Para la Comisión Europea la ^^protección social es un componente fundamental del modelo social europeo^^.
+
+!!! success "Objetivos"
+    - El fomento del empleo
+    - La mejora de las condiciones de vida y de trabajo
+    - Una protección social adecuada
+    - El diálogo social
+    - El desarrollo de los recursos humanos
+    - La lucha contra las exclusiones
+
+!!! fail "Limitaciones"
+    - Legislativas
+    - Principio de proporcionalidad
+    - Principio de subsidiariedad
+    - Subordinada a la diversidad de prácticas sociales nacionales existentes y a la necesidad de mantener la competitividad de la economía europea
+    - Depende de la voluntad política de los Estados nacionales
+
+!!! question "¿Qué es la Política Social?"
+    Según la Comisión Europea, es un **conjunto de acciones en la esfera social, incluidas las relacionadas con el mercado de trabajo**.
+
+??? info "Características de la Política Social Europea"
+    -  Se basa en la idea de la solidaridad.
+    -  No responde a un diseño previo.
+    -  No es sistemática, sino discontinua en el tiempo.
+    -  Carece de visión propia, independiente y de conjunto sobre el área temática que aborda, así como de una definición precisa y consensuada en tal sentido.
+    -  Su ámbito de aplicación es muy amplio, aunque su contenido (normas y derechos sociales mínimos) y capacidad de acción (desigual y errática, muy dependiente de su financiación) resultan ser poco intensos.
+    -  Sus actuaciones se derivan de los mandatos específicos recogidos en los Tratados (Derecho Primario) y en los Reglamentos, Directivas, Decisiones y otros Actos previstos en aquéllos (Derecho Derivado, aka "acervo comunitario").
 
 ## 2. Evolución de la política social
 
 ### 2.1. *"Concienciación comunitaria* en el ámbito social (1958-1973)
 
-Se considera la etapa del olvido. Se limitó a desarrollar la libre circulación de trabajadores, regular el fondo social europeo (que figura en el t de romaA) y plantear una política común de fp y proteger a los trabajadores que trabajan en otro estado.
+Se considera la etapa del olvido. Se limitó a desarrollar la libre circulación de trabajadores, regular el `Fondo Social Europeo` (que figura en el `Tratado de Roma`) y plantear una política común de FP y proteger a los trabajadores que trabajan en otro estado.
+
+??? info "ex-ante vs ex-post"
+    - **Convergencia social espontánea ex post** --> aboga por una competencia limitada tan sólo por un mínimo de prescripciones sociales. Los costes sociales son uno más de los muchos costes empresariales que pueden modificarse en función de las condiciones económicas.
+    - **Homogenización social ex ante** --> mantiene que los gastos sociales son costes necesarios para salvaguardar la paz social y que modelos sociales idénticos evitarían una distorsión de la competencia, puesto que se gravaría a las empresas de forma diferente. En caso contrario, los Estados con alto nivel de protección social perderían trabajo y capital.
 
 ### 2.2. Hacia una política social activa y un Espacio Social Europeo (1974-1987)
 
-Se adoptó el primer Programa de Acción Social. En él se reconocía que la política social comunitaria debía de cumplir una función propia y proporcionar una contribución esencial para la realización de sus objetivos.
+Se adoptó el primer `Programa de Acción Social`. En él se reconocía que la política social comunitaria debía de cumplir una función propia y proporcionar una contribución esencial para la realización de sus objetivos.
 
-- Un nuevo Programa de Acción Social Comunitario
-- El Libro Blanco de la Comisión sobre la culminación del mercado interior. Daba cuenta de la integración existente entre el mercado interior y la política social
-- El Acta Única Europea. Introdujo la idea de lograr una **cohesión económica y ==social== a nivel comunitario**
+- Un nuevo Programa de Acción Social Comunitario.
+- El **Libro Blanco de la Comisión sobre la culminación del mercado interior**. Daba cuenta de la integración existente entre el mercado interior y la política social.
+- El `Acta Única Europea`. Introdujo la idea de lograr una **cohesión económica y social a nivel comunitario**.
 
 ### 2.3. Cohesión económica y social y *"geometría variable"* (1988-1992)
 
-Se pone en marcha el acta única europea (incluyendo la cohesión económica y social)
+Se pone en marcha el `Acta Única Europea` (incluyendo la cohesión económica y social)
 
-La reforma de los Fondos Estructurales permitió al FSE:
+La reforma de los Fondos Estructurales permitió al `Fondo Social Europeo`:
 
 - Financiar en exclusiva la lucha contra el desempleo de larga duración y la inserción profesional de los jóvenes.
 - Intervenir en el desarrollo y el ajuste de las regiones con una **acentuada dimensión social**
@@ -53,25 +83,27 @@ Los jefes de Estado de los Estados miembros (excepto Reino Unido) adoptaron:
 - **Libro Blanco sobre crecimiento, competitividad y empleo**
 - **Libro Blanco sobre política social**
 
-!!! note "Libros Verdes y Blancos
-
-    - los libros verdes que publican la Comisión son para debate
-    - los libros blancos suelen ser derivados de un libro verde
+!!! question "Libros Verdes y Blancos"
+    - Los **libros verdes** que publican la Comisión son para debate.
+    - Los **libros blancos** suelen ser derivados de un libro verde.
 
 La **Estrategia Europea de Empleo** que les siguió tuvo especial importancia en el **Tratado de Ámsterdam**:
 
-- **Incorporó un nuevo Título dedicado al empleo**
-- Habilitó la Política Social a todos los Estados miembros
+- **Incorporó un nuevo Título dedicado al empleo**.
+- Habilitó la Política Social a todos los Estados miembros.
 
 ### 2.5. La Estrategia Social Europea (2000-2010)
 
 El Consejo Europeo aprobó la **Agenda Social Europea** (que formaba parte de la *Estrategia de Lisboa*)
 
 - Definió las orientaciones estratégicas de la política exterior
-- Principio rector: reforzar la política social como factor productivo
+- **Principio rector**: reforzar la política social como factor productivo
 - Subrayó:
-    - Doble finalidad de la Política Social común (como un fin en sí misma yy como un factor de competitividad)
+    - Doble finalidad de la Política Social común (como un fin en sí misma y como un factor de competitividad)
     - La necesidad de que mantuviese **vínculos** eficaces con las **políticas económica y de empleo**.
+- Núcleo:
+    - Modernización del modelo social europeo.
+    - Transformación de los compromisos políticos acordados en Lisboa en una acción concreta.
 - Finalidad: ofrecer a la unión europea un enfoque global y coherente para hacer frente a los nuevos retos de la política social.
 - Objetivos:
     - Pleno empleo y calidad del trabajo
@@ -80,16 +112,32 @@ El Consejo Europeo aprobó la **Agenda Social Europea** (que formaba parte de la
     - Contribuir a preparar la ampliación de la UE
     - Promover la cooperación con organizaciones internacionales (*Organización Internacional del Trabajo, OIT*)
 
-<!-- todo: revisar -->
-Después de una evaluación sobre su comportamiento inicial se estableció la segunda fase de la Agenda Social.
+#### 2.5.1. La Nueva Agenda Social y la Agenda Social Renovada 2006-2010
 
-Ha pasado demasiado rápido esto, igual no es importante
+!!! error ""
+    **Disclaimer: no debe ser importante, en clase lo ha pasado sin pestañear.**
+
+Después de una evaluación sobre su comportamiento inicial se estableció la segunda fase (2006) de la Agenda Social bajo el lema *una Europa social en la economía mundial: empleos y nuevas oportunidades para todos*. Un par de años más tarde se estableció una tercera fase. **Ambas fases complementan la Estrategia de Lisboa y la Estrategia a favor del Desarrollo Sostenible**.
+
+??? tldr "Objetivos"
+    - Modernización y desarrollo del modelo social europeo
+    - Promoción de la cohesión social
+
+    Serían modificados en 2008, pasando a ser los siguientes:
+
+    - Crear más oportunidades (generar más y mejores puestos de trabajo y facilitar la movilidad laboral)
+    - Proporcionar acceso (a la educación, a la protección social, a la atención sanitaria y a unos servicios de calidad para todos)
+    - Demostrar solidaridad (entre generaciones y regiones, entre los más acomodados y los más modestos y entre los Estados más ricos y los menos pudientes)
+
+==**Prioridades Fundamentales: el empleo la lucha contra la pobreza y la promoción de la igualdad de oportunidades.**==
+
+**El desarrollo de la política social comunitaria 2000-2010 no tuvo el respaldo presupuestario que hubiera sido deseable para cubrir sus ambiciosos objetivos.**
 
 ### 2.6. La dimensión social de la Estrategia Europa 2020 (2010-2020)
 
 Se basa en el `Tratado de la Unión Europea`, en la `Estrategia Europa 2020` y en el `Pilar Europeo de Derechos Sociales` (desde 2017).
 
-Objetivos prioritarios:
+Objetivos prioritarios del `Tratado de Lisboa`:
 
 - Pleno empleo
 - Inclusión social
@@ -106,8 +154,62 @@ En un anexo contiene la **Carta de los Derechos Fundamentales de la Unión Europ
 
     Al final se cumplieron todos menos el último.
 
+En 2017, se aprobó en la `Cumbre de Gothenburg` el `Pilar Europeo de Derechos Sociales`. **Establece 20 principios y derechos esenciales en 3 grandes ámbitos**: ^^Protección e inclusión social^^, ^^igualdad de oportunidades y acceso al mercado de trabajo^^ y ^^condiciones de trabajo justas^^.
+
 ### 2.7. Promover una Europa Social más fuerte (2021-2027)
+
+En la Cumbre Social de Oporto de 2021, los dirigentes de la UE se comprometieron a:
+
+- Reforzar la dimensión social de la UE.
+- Seguir afianzando la aplicación del `Pilar Europeo de Derechos Sociales` a escala nacional y de la UE.
+- Reafirmaron su compromiso con las prioridades y objetivos establecidos en el **`Plan de Acción del Pilar Europeo de Derechos Sociales`** (2021).
 
 ## 3. Instrumentos
 
+### 3.1. Legislación
+
+Sus objetivos son perseguir el bienestar de los europeos, establecer y consolidar sus derechos como ciudadanos, consumidores y trabajadores en múltiples ámbitos, etc.
+
+### 3.2. Diálogo social
+
+Constituye una de las piedras angulares de la política social común y del modelo social europeo. Hace referencia a los procedimientos de concertación y de consulta con los interlocutores sociales (empleadores y trabajadores), es decir, a todas aquellas discusiones, consultas, negociaciones y acciones conjuntas que mantienen estos últimos entre sí y con las instituciones de la Unión Europea.
+
+### 3.3. Método Abierto de Coordinación (MAC)
+
+Es un método flexible de gobernanza que se apoya en el principio de subsidiariedad. Permite a los diferentes Estados desarrollar progresivamente sus propias políticas, pero orientándolas hacia objetivos comunes y sometiéndolas al seguimiento posterior de la UE.
+
+### 3.4. Semestre Europeo
+
+Permite analizar a nivel de la UE las políticas económicas de los Estados miembros y adoptar recomendaciones específicas para cada país antes de que los gobiernos elaboren sus proyectos de presupuesto y los presenten ante los parlamentos nacionales.
+
+### 3.5. Asociación y participación de la sociedad civil
+
+La **asociación** de las instituciones de la Unión Europea, los Estados miembros, las autoridades regionales y locales, los interlocutores sociales, la sociedad civil e, incluso, de los socios externos pertinentes son fundamentales en la elaboración y aplicación de la política social comunitaria.
+
+La **sociedad civil** organizada actúa como un puente fundamental entre la Unión Europea, los Estados miembros y los ciudadanos en tal sentido, al ejercer de mediadora entre todos ellos. La **sociedad civil** agrupa a los interlocutores sociales, las organizaciones representativas de los medios sociales y económicos, las organizaciones no gubernamentales, las organizaciones de base, las organizaciones constituidas para la participación de los ciudadanos en la vida local y municipal y las comunidades religiosas.
+
+### 3.6. Instrumentos financieros
+
+Los principales instrumentos financieros son el `Fondo Social Europeo (FSE)`, el `Fondo Social Europeo Plus (FSE+)` y el `Fondo Europeo de Adaptación a la Globalización (FEAG)`.
+
+Otros instrumentos financieros: `Fondo Europeo de Desarrollo Regional`, `Fondo de Cohesión`, `Fondo Europeo de Garantía Agrícola (FEAGA)`, `Fondo Europeo Agrícola de Desarrollo Rural (FEADER)`.
+
+#### 3.6.1. FSE / FSE+
+
+- Fue establecido en virtud del `Tratado de Roma` para mejorar las posibilidades de movilidad y empleo de las personas.
+- El `Tratado de Maastricht` amplió el alcance de su ayuda, para incluir la *"adaptación a las transformaciones industriales y a los cambios de los sistemas de producción"*.
+- La `Agenda 2000` simplificó el marco general de los Fondos estructurales para el periodo 2000-2006. Al FSE se le encargó la doble tarea de contribuir a la política de cohesión y a la aplicación de la `Estrategia Europea de Empleo`.
+- Durante el periodo 2007-2013 únicamente quedaban 3 Fondos Estructurales: FSE, FEDER y el Fondo de Cohesión. Juntos debían alcanzar los objetivos de convergencia, competitividad regional y empleo y cooperación territorial para promover el desarrollo armonioso en la Unión.
+- El FSE ha desempeñado un papel decisivo en la respuesta inmediata a la crisis de la COVID-19 al movilizar más de 1.400 millones de € en concepto de ayuda directa.
+
+!!! question "¿Qué es el famoso Fondo Social Europeo Plus?"
+    Durante el periodo 2021-2027, el `FSE+` ha fusionado el `FSE`, la `Iniciativa de Empleo Juvenil (IEJ)`, el `Fondo de Ayuda Europea para las Personas Más Desfavorecidas (FEAD)`, el `Programa de la Unión Europea para el Empleo y la Innovación Social (EASI)` y el `Programa de Acción de la Unión en el Ámbito de la Salud`.
+
+#### 3.6.2. Fondo Europeo de Adaptación a la Globalización (FEAG)
+
+- El FEAG se creó como un **instrumento de la política de competitividad** (no de cohesión) del `Marco Financiero Plurianual` 2007-2013 para apoyar al personal despedido a causa de cambios estructurales importantes en el comercio mundial resultantes de la globalización.
+- Es un instrumento complementario del `FSE+` para la integración en el mercado laboral. Mientras que el ^^`FSE+` apoya programas dirigidos a alcanzar los objetivos estructurales a largo plazo de mantener o reinsertar a las personas en dicho mercado^^, **el FEAG responde a emergencias específicas, como despidos masivos debidos a la globalización, durante un período de tiempo limitado**.
+
 ## 4. La Estrategia Europea de Empleo
+
+Se inició con la publicación del `Libro Blanco sobre Crecimiento, Competitividad y Empleo` (1993).
