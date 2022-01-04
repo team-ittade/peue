@@ -82,11 +82,11 @@ Objetivos:
 - [x] Luchar contra la desinformación
 - [x] Ayudar a los ciudadanos de la UE bloqueados en el extranjero
 - [x] Apoyar el empleo, a las empresas y a la economía
-- [x] **540 000 millones de € de presupuesto**
+- [x] **540.000 millones de € de presupuesto**
 
 ### 4.2. Next Generation EU: Plan de recuperación para Europa
 
-**Objetivo primario: Invertir en una UE ecológica, digital y resiliente.** *Cuenta con un presupuesto de 750 000 millones de €.*
+**Objetivo primario: Invertir en una UE ecológica, digital y resiliente.** *Cuenta con un presupuesto de 750.000 millones de €.*
 
 Debe centrarse en:
 

@@ -285,8 +285,8 @@ Esto supondrá inversiones para apoyar el mantenimiento del empleo, en particula
 
 Complementa a los Fondos `EIE`. Constituye una expresión de solidaridad europea hacia las regiones afectadas por las catástrofes naturales.
 
-Una **catástrofe natural** se considera **grave** si ocasiona daños directos (*en el Estado miembro o país candidato a la adhesión*) que se estimen en más de 3 000 millones de € (a precios de 2011) o en más del 0,6 % de la `RNB` del Estado beneficiario.
+Una **catástrofe natural** se considera **grave** si ocasiona daños directos (*en el Estado miembro o país candidato a la adhesión*) que se estimen en más de 3.000 millones de € (a precios de 2011) o en más del 0,6 % de la `RNB` del Estado beneficiario.
 
 Una **catástrofe natural regional** se define como toda catástrofe natural en una región de nivel `NUTS 2` que produzca daños directos superiores al 1,5 % del producto interior bruto (PIB) de dicha región. En el caso de las regiones ultraperiféricas, este último umbral se sitúa en el 1 % del PIB de la región.
 
-Una **emergencia grave de salud pública** es todo peligro potencialmente mortal u otro peligro grave para la salud de origen biológico que afecte gravemente a la salud humana y requiera una acción decidida para contener la propagación, y que dé lugar a medidas de respuesta de emergencia estimadas en más de 1 500 millones de € (a precios de 2011) o en más del 0,3 % de la `RNB` del Estado beneficiario.
+Una **emergencia grave de salud pública** es todo peligro potencialmente mortal u otro peligro grave para la salud de origen biológico que afecte gravemente a la salud humana y requiera una acción decidida para contener la propagación, y que dé lugar a medidas de respuesta de emergencia estimadas en más de 1.500 millones de € (a precios de 2011) o en más del 0,3 % de la `RNB` del Estado beneficiario.

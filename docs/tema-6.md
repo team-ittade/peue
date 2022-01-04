@@ -189,7 +189,7 @@ La ayuda procede de 2 fuentes financieras:
 
 #### 4.2.1. El instrumento de vecindad, cooperación al desarrollo y cooperación internacional (IVCDCI-EUROPA GLOBAL)
 
-Se aplica desde 2021. Cuenta con una asignación global de **79 500 millones de euros** a precios corrientes **para el periodo 2021-2027**.
+Se aplica desde 2021. Cuenta con una asignación global de **79.500 millones de euros** a precios corrientes **para el periodo 2021-2027**.
 
 Ha fusionado la mayoría de los múltiples instrumentos de cooperación exterior que existían en el ciclo financiero anterior.
 
@@ -202,7 +202,7 @@ Está organizado en torno a **tres pilares principales**: programas geográficos
 
 #### 4.2.2. Instrumento de Apoyo a la Preadhesión (IPA III)
 
-Cuenta con una asignación global de **14 162 millones de euros** a precios corrientes **para el periodo 2021-2027**.
+Cuenta con una asignación global de **14.162 millones de euros** a precios corrientes **para el periodo 2021-2027**.
 
 Rige la financiación europea concedida para aquellos países que se encuentran en el camino hacia la adhesión a la Unión Europea. Además, contribuirá a los objetivos de protección del medio ambiente y clima, igualdad de género y derechos humanos.
 
