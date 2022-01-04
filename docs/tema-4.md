@@ -4,19 +4,19 @@
 
 El tratado de Roma prestó poca atención a los aspectos monetarios.
 
-En el 1969 se reconoció como objetivo de la CEE el establecimiento de una ==Unión Económica **y Monetaria**==.
+En 1969 se reconoció como objetivo de la CEE el establecimiento de una ==Unión Económica **y Monetaria**==.
 
 !!! faq "¿Qué es una Unión Monetaria?"
     Condiciones:
 
     - Convertibilidad total e irreversible de las monedas entre sí y la total libertad de movimientos de capital
-    - Total integración de los sistemas bancario sy de los demás mercados financieros
+    - Total integración de los sistemas bancarios y de los demás mercados financieros
     - Fijación irrevocable de los tipos de cambio entre las monedas
 
 !!! faq "¿Qué es una Unión Económica?"
     Condiciones:
 
-    - Libre circulación de personas, mercanías, servicios y capitales
+    - Libre circulación de personas, mercancías, servicios y capitales
     - Régimen de libre competencia
     - Políticas comunes de cambio estructural y desarrollo regional
     - Coordinación de las políticas macroeconómicas
@@ -33,9 +33,9 @@ En 1979 nació el ==**Sistema Monetario Europeo (SME)**==. Sus objetivos son:
 *[ECU]: European Currency Unit
 [^1]: unidad de cuenta en el SME, definida como una cesta de monedas de los países miembros.
 
-El SME ha pasado por vvarias crisis. Su raíz está en la incompatibilidad de objetivos que ha arrastrado desde su creación.
+El SME ha pasado por varias crisis. Su raíz está en la incompatibilidad de objetivos que ha arrastrado desde su creación.
 
-En el 1999 fue sustituido por el ==**Nuevo Mecanismo de Tipos de Cambio del SME o MTC II**== (conocido popularmente como SME-2). El `MTC II` es un acuerdo multilateral de tipos de cambio fijos pero ajustables. Establece una paridad entre las monedas participantes y el euro, con una banda de fluctuación estándar del $\pm 15\%$ en torno a la paridad central.
+En 1999 fue sustituido por el ==**Nuevo Mecanismo de Tipos de Cambio del SME o MTC II**== (conocido popularmente como SME-2). El `MTC II` es un acuerdo multilateral de tipos de cambio fijos pero ajustables. Establece una paridad entre las monedas participantes y el euro, con una banda de fluctuación estándar del $\pm 15\%$ en torno a la paridad central.
 
 El objetivo del `MTC II` es mantener la estabilidad de los tipos de cambio entre el euro y las monedas nacionales y evitar así las excesivas fluctuaciones de los tipos de cambio en el mercado interior.
 
@@ -58,8 +58,8 @@ La base jurídica de la [Política Monetaria Única](#2-la-política-monetaria-�
 !!! check "Propósitos estratégicos del Eurosistema y del MUR"
     - Autoridad reconocida en asuntos monetarios y financieros
     - Estabilidad financiera e integración financiera europea
-    - Obligación de rendir cuentas, crdibilidad y confianza
-    - Indentidad común, claridad de funciones y de responsabilidades y buena gestión
+    - Obligación de rendir cuentas, cerdibilidad y confianza
+    - Identidad común, claridad de funciones y de responsabilidades y buena gestión
     - Buenas prácticas de supervisión bancaria, igualdad de trato y de condiciones
     - Enfoque de supervisión basado en el riesgo y proporcionalidad
 
@@ -69,7 +69,7 @@ La base jurídica de la [Política Monetaria Única](#2-la-política-monetaria-�
     - Transparencia y rendición de cuentas
     - Diferenciación entre las actividades europeas y nacionales
     - Cohesión y unidad
-    - Interambio de recursos
+    - Intercambio de recursos
     - Eficacia y eficiencia en la adopción de decisiones
     - Eficiencia en términos de costes, medición y metodología
     - Aprovechar sinergias y evitar duplicidades
@@ -81,7 +81,7 @@ La base jurídica de la [Política Monetaria Única](#2-la-política-monetaria-�
 
 #### 2.1.1. Independencia
 
-Ni el BCE ni los bancos centrales podrá solicitar ni capetar instrucciones de instituciones de la UE, gobiernos de los Estados miembros ni de ningún otro órgano.
+Ni el BCE ni los bancos centrales podrá solicitar ni aceptar instrucciones de instituciones de la UE, gobiernos de los Estados miembros ni de ningún otro órgano.
 
 ==La razón que justifica la independencia de los bancos centrales es que **la competencia de crear dinero debe estar separada de la competencia para gastarlo.**==
 
@@ -95,7 +95,7 @@ Ni el BCE ni los bancos centrales podrá solicitar ni capetar instrucciones de i
 
 #### 2.1.2. Transparencia
 
-El BCE facilita al público y a los mercados otda la información relevante sobre su estrategia, evaluación y decisiones de política monetaria. También explica qué interpretación hace de su mandato y expone con claridad sus objetivos de política monetaria.
+El BCE facilita al público y a los mercados toda la información relevante sobre su estrategia, evaluación y decisiones de política monetaria. También explica qué interpretación hace de su mandato y expone con claridad sus objetivos de política monetaria.
 
 #### 2.2.3. Rendición de cuentas
 
@@ -109,7 +109,7 @@ El BCE publica un `Boletín Mensual` en lugar de trimestralmente y los miembros 
 
 En 2021 se aprobó la nueva estrategia de política monetaria:
 
-- **Objetivo de inflacción simétrico al 2% en medio plazo**
+- **Objetivo de inflación simétrico al 2% en medio plazo**
 - Se sigue utilizando el IAPC como indicador de precios
 - El principal instrumento de política monetaria sigue siendo el conjunto de los tipos de interés del BCE. Tipos de interés oficiales:
     1. Tipo de interés de las operaciones principales de financiación (actualmente: $0\%$, 2016)
@@ -125,7 +125,7 @@ En 2021 se aprobó la nueva estrategia de política monetaria:
     2. Abarca 2 aspectos:
         - [x] El proceso de decisión interna dentro del Banco Central
         - [x] La presentación de las acciones de política monetaria al público
-    3. Tiene en cuenta un conjunto de **principios normativos** que orientan sus acciones (*eficacia, rendición de cuentas, transparencia, etc.*) y el **entorno económico y financiero** dentro del que opera (*dimensión de la eurozona, la incertidumbre sobre el proceso de transmisión del a política monetaria, etc.*)
+    3. Tiene en cuenta un conjunto de **principios normativos** que orientan sus acciones (*eficacia, rendición de cuentas, transparencia, etc.*) y el **entorno económico y financiero** dentro del que opera (*dimensión de la eurozona, la incertidumbre sobre el proceso de transmisión de la política monetaria, etc.*)
     4. El principal elemento de la estrategia es la definición de estabilidad de precios
     5. Se asienta sobre dos pilares:
         - El **dinero**: se mide mediante el ==agregado monetario amplio M3==. **No constituye un objetivo monetario, únicamente está concebido para orientar al Consejo de Gobierno del BCE.**
@@ -154,15 +154,15 @@ Objetivos de los instrumentos y procedimientos de política monetaria:
 !!! danger ""
     **Es el grupo más importante**
 
-- **Ooperaciones principales de financiación:** son las operaciones de mercado abierto más importantes. Consituyen la fuente principal de financiaión del sector bancario. {>>Las realizan los BCNs de forma descentralizada<<}
+- **Operaciones principales de financiación:** son las operaciones de mercado abierto más importantes. Constituyen la fuente principal de financiación del sector bancario. {>>Las realizan los BCNs de forma descentralizada<<}
 - **Operaciones de financiación a más largo plazo:** tienen periodicidad mensual y con vencimiento a 3 meses. Su objetivo es proporcionar financiación a más largo plazo que el sistema bancario. {>>Se realizan de forma descentralizada mediante subastas estándar<<}
 - **Operaciones de ajuste:** No tienen periodicidad ni vencimiento. Su objetivo es regular la situación de liquidez y controlar los tipos de interés del mercado monetario.
-- **Operaciones estructurales:** su objetivo es ajustar el volumen de liquidez del Eurosistema frente al sistema bancario. Es decir, controlan en volumen de liquidez disponible en el mercado en un plazo más largo.
+- **Operaciones estructurales:** su objetivo es ajustar el volumen de liquidez del Eurosistema frente al sistema bancario. Es decir, controlan el volumen de liquidez disponible en el mercado en un plazo más largo.
 
 Para realizar las operaciones de mercado abierto, el Eurosistema dispone de 5 tipos de instrumentos:
 
 - **Operaciones temporales:** efectúan operaciones de mercado abierto por las que el BCN compra o vende activos por medio de un acuerdo de compra, o efectúa operaciones de crédito en forma de préstamos garantizados.
-- **Operaciones simples:** suponen la plena transferencia de la propiedad del vendedor al comprador sin que se existsa ninguna transferencia asociada de la propiedad en sentido estricto.
+- **Operaciones simples:** suponen la plena transferencia de la propiedad del vendedor al comprador sin que exista ninguna transferencia asociada de la propiedad en sentido estricto.
 - **Swaps de divisas:** operaciones simultáneas al contado y a plazo de euros contra divisas. Se utilizan con fines de ajuste para gestionar la liquidez del mercado y los tipos de interés.
 - **Captación de depósitos a plazo fijo:** las entidades colocan depósitos a plazo en sus BCN de origen.
 - **Emisión de certificados de deuda del BCE:** constituyen una obligación del BCE frente a su tenedor.
@@ -208,7 +208,7 @@ El BCE exige a las entidades de crédito mantener depósitos en cuentas de los B
     | Medio de pago     | Moneda de pago / vehículo                        | Moneda de intervención |
     | Unidad de cuenta  | Moneda de referencia presupuestaria y de precios | Moneda ancla           |
 
-    Estas funciones **no son independientes**, cada una de ellas influye sobre las demás. **La interdependencia entre las distintas fuciones del dinero, acentuada por la globalización de los mercados financieros llega a ser circular.**
+    Estas funciones **no son independientes**, cada una de ellas influye sobre las demás. **La interdependencia entre las distintas funciones del dinero, acentuada por la globalización de los mercados financieros llega a ser circular.**
 
     ![funciones del dinero](images/tema-4/funciones-del-dinero.png)
 
@@ -242,7 +242,7 @@ El euro es la segunda moneda más utilizada a escala internacional (detrás del 
 
 !!! faq "Requisitos para que una moneda sea dominante internacionalmente"
     1. Tiene que estar respaldada por una economía fuerte y competitiva, muy abierta al comercio y por lo tanto que tenga un peso importante por sí misma al utilizar su moneda.
-    2. En su origen debe existir un mercado finenciero, potente y bien desarrollado y regulado que permita alta liquidez, grandes volúmenes y bajos costes de transacción.
+    2. En su origen debe existir un mercado financiero, potente y bien desarrollado y regulado que permita alta liquidez, grandes volúmenes y bajos costes de transacción.
     3. Debe ser una moneda estable y fuerte.
 
 Beneficios del uso mundial del euro:
@@ -258,7 +258,7 @@ Beneficios del uso mundial del euro:
 
 ### 3.1. El Euro Digital
 
-Se puso en marcha en Julio de 2021. Es una forma de dinero de banco central disponible en formato digital para su uso en pagos de pequeño importe, sin riesgo, accesible y eficiente.
+Se puso en marcha en julio de 2021. Es una forma de dinero de banco central disponible en formato digital para su uso en pagos de pequeño importe, sin riesgo, accesible y eficiente.
 
 Funciones:
 
