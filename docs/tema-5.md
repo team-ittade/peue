@@ -28,10 +28,10 @@ La **centralización de las funciones de redistribución y de estabilización** 
 - El `Mecanismo de Ayuda a las Balanzas de Pagos` permite conceder asistencia financiera a los Estados miembros cuya moneda no es el euro. También existe la posibilidad de prestar `Ayuda Macrofinanciera` en forma de préstamos y subvenciones a países que no son miembros de la Unión.
 - **El principal instrumento de esa actividad financiera es el Presupuesto General.**
 - Cada uno de los 3 tratados establecían sus propias decisiones financieras --> {++ en las primeras etapas de su desarrollo coexistían 5 presupuestos distintos ++}
-    - En el 1968 se creó el `Presupuesto General de las Comunidades`, que sustityó a 3 de los 5 presupuestos existentes (*presupuestos de CECA, EURATOM & CEE*)
-    - En el 1971 se integró el `Presupuesto de investigación e inversiones del EURATOM`. A partir de aquí sólo convivían 2 presupuestos: el **`Presupuesto General`** y el `Presupuesto de operaciones de la CECA` (dejó de existir en 2002)
+    - En 1968 se creó el `Presupuesto General de las Comunidades`, que sustityó a 3 de los 5 presupuestos existentes (*presupuestos de CECA, EURATOM y CEE*)
+    - En 1971 se integró el `Presupuesto de investigación e inversiones del EURATOM`. A partir de aquí sólo conviven 2 presupuestos: el **`Presupuesto General`** y el `Presupuesto de operaciones de la CECA` (dejó de existir en 2002)
 
-Algunos organismos descentralizados de la Unión (Agencias) disfrutan de un régimen financiero independiente y tienen su propio presupuesto. Sus ingresos se complementan con subvenciones del prespuesto general, por eso se les denomina **prespuestos satélite**.
+Algunos organismos descentralizados de la Unión (Agencias) disfrutan de un régimen financiero independiente y tienen su propio presupuesto. Sus ingresos se complementan con subvenciones del presupuesto general, por eso se les denomina **presupuesto satélite**.
 
 ### 2.1. Instrumentos financieros
 
@@ -45,7 +45,7 @@ Tipos de instrumentos financieros:
 
 En el `Acuerdo Institucional entre el Parlamento, el Consejo y la Comisión` se crea un macro para los gastos comunitarios actualmente denominado **`Marco Financiero Plurianual (MFP)`**.
 
-==Establece los importes máximos anuales que la UE puede gastar en distintos ámbitos políticos durante un tiempo no inferior a 5 años==. ^^Existen 2 tipos de límites: limite anual para cada partida y un límite anual global para todas.^^
+==Establece los importes máximos anuales que la UE puede gastar en distintos ámbitos políticos durante un tiempo no inferior a 5 años==. ^^Existen 2 tipos de límites: límite anual para cada partida y un límite anual global para todas.^^
 
 ^^Con el Tratado de Lisboa, el MFP pasó de ser un acuerdo interinstitucional a un acto jurídicamente vinculante (quedó fijado en un Reglamento).^^
 
@@ -54,9 +54,9 @@ En el `Acuerdo Institucional entre el Parlamento, el Consejo y la Comisión` se 
 ### 3.1. Acuerdos institucionales
 
 1. Primer acuerdo (1988, *Perspectivas Financieras 1988-1992 (Delors I)*): contiene medidas destinadas a conseguir los recursos necesarios para financiar la aplicación del Acta Única Europea (AUE).
-2. Segundo acuerdo (1992, *Perspectivas Financieras 1993-1999 (Delors II)*): su objetivo era dotar a la Comunidad de recursos suficientes para financiar lsa políticas comunitarias y cumplir los compromisos derivados del Tratado de de Maastrich. Estableció nuevos límites de recursos propios en términos del PNB (1.27% del PNB desde 1999). {>> Delors I y II contuvieron los gastos agrícolas y dotaron de recursos a las políticas estructurales. <<}
-3. Tecer acuerdo (1999, *Perspectivas Financieras 2000-2006*): incluye importantes novedades que afectaban a 3 ámbitos: políticas y acciones comunes, estrategia de adhesión de nuevos Estados Miembros y adaptación de la Unión y sus instituciones para ese reto.
-4. Cuarto acuerdo (2006, *Perspectivas Financieras 2007-2013*): estableció los ^^principios de los instrumentos financieros comunitarios^^: ^^Concentración de los recursos comunitarios en unas pocas iniciativas de envergadura^^, ^^coherencia entre los distintos objetivos y estrategias^^ y ^^asociación de todas las partes interesadas (sobre todo la Unión y los Estados miembros)^^. En 2000, por decisión del consejo se reemplazo el uso de PNB por RNB y estableció su límite en el 1.23% desde el 2010.
+2. Segundo acuerdo (1992, *Perspectivas Financieras 1993-1999 (Delors II)*): su objetivo era dotar a la Comunidad de recursos suficientes para financiar las políticas comunitarias y cumplir los compromisos derivados del Tratado de Maastricht. Estableció nuevos límites de recursos propios en términos del PNB (1.27% del PNB desde 1999). {>> Delors I y II contuvieron los gastos agrícolas y dotaron de recursos a las políticas estructurales. <<}
+3. Tercer acuerdo (1999, *Perspectivas Financieras 2000-2006*): incluye importantes novedades que afectaban a 3 ámbitos: políticas y acciones comunes, estrategia de adhesión de nuevos Estados Miembros y adaptación de la Unión y sus instituciones para ese reto.
+4. Cuarto acuerdo (2006, *Perspectivas Financieras 2007-2013*): estableció los ^^principios de los instrumentos financieros comunitarios^^: ^^Concentración de los recursos comunitarios en unas pocas iniciativas de envergadura^^, ^^coherencia entre los distintos objetivos y estrategias^^ y ^^asociación de todas las partes interesadas (sobre todo la Unión y los Estados miembros)^^. En 2000, por decisión del consejo se reemplazó el uso de PNB por RNB y estableció su límite en el 1.23% desde el 2010.
 
 5. Quinto acuerdo (2013, *Marco Financiero Plurianual 2014-2020*): ha sido el primero en ser adoptado bajo las nuevas condiciones del Tratado de Lisboa, según las cuales el Consejo debe adoptar el Reglamento sobre el MFP por unanimidad tras haber obtenido la aprobación del parlamento.
 
@@ -80,7 +80,7 @@ Objetivos:
 - [x] Garantizar el suministro de equipos médicos
 - [x] Promover la investigación sobre tratamientos y vacunas
 - [x] Luchar contra la desinformación
-- [x] Ayudar a los cuidadanos de la UE bloqueados en el extranjero
+- [x] Ayudar a los ciudadanos de la UE bloqueados en el extranjero
 - [x] Apoyar el empleo, a las empresas y a la economía
 - [x] **540 000 millones de € de presupuesto**
 
@@ -121,7 +121,7 @@ Características:
 
 - Es un **presupuesto operativo**. En cambio, los presupuestos de los organismos internacionales son **de funcionamiento**
 - **Se financia mediante un sistema de recursos propios (98%)**
-- Es un **presupuesto de gastos**: se determina el volumen de gastos preciso y luego se evaluán los ingresos para hacer frente a esos gastos.
+- Es un **presupuesto de gastos**: se determina el volumen de gastos preciso y luego se evalúan los ingresos para hacer frente a esos gastos.
 - Es principalmente un **presupuesto de inversión**
 - Se rige por 9 **principios presupuestarios**:
     - Unidad y veracidad presupuestaria
@@ -173,7 +173,7 @@ Tipos de créditos totales:
 
 ### 6.3. Los recursos propios
 
-**La UE se financia con un recursos propios en un 98%.** El sistema de recursos propios lo decide el Consejo por unanimidad.
+**La UE se financia con recursos propios en un 98%.** El sistema de recursos propios lo decide el Consejo por unanimidad.
 
 Las normas sobre los recursos propios de la UE establecen:
 
@@ -191,7 +191,7 @@ Las normas sobre los recursos propios de la UE establecen:
 
 !!! pied-piper "Otros recursos Propios"
     - ==Recursos propios RNB==: transferencia por parte de los Estados miembros de un porcentaje uniforme de su RNB que se fija cada año. Actualmente está en torno al 70% de los recursos propios. Es un recurso más equitativo que el IVA. Se trata de un recurso variable y complementario.
-    - ==Recurso propio IVA==:  transferencia por parte de los Estadoms miembros de un 0.3% de la base imponible del IVA armonizada. Actualmente representa en torno al 10% de los recursos Propios.
+    - ==Recurso propio IVA==:  transferencia por parte de los Estados miembros de un 0.3% de la base imponible del IVA armonizada. Actualmente representa en torno al 10% de los recursos propios.
     - ==Recurso propio basado en el plástico==: introducido en 2021, se trata de una contribución nacional calculada en función del peso de los residuos de envases de plástico que no se reciclen. Actualmente representa en torno al 4% del presupuesto de la Unión.
 
 ### 6.4. Otros ingresos
@@ -208,7 +208,7 @@ Uno de los procedimientos para la coordinación y supervisión de las políticas
     Se estructuró en torno a 2 elementos centrales:
 
     - Reforzar el proceso de supervisión multilateral: establecimiento de programas de estabilidad (países de la UEM) y programas de convergencia (países de la UE que no están en la UEM).
-    - Aceleró los plazos de las diferentes etapas del procedimiento de déficit excesivo y establece el mecanismo de aplicación de sanciones.
+    - Aceleró los plazos de las diferentes etapas del procedimiento de déficit excesivo y estableció el mecanismo de aplicación de sanciones.
 
 En 2011-2013 aprobó la segunda reforma del `Pacto de Estabilidad y Crecimiento`, con el `six pack`, el `two pack` y el `Tratado de Estabilidad, Coordinación y Gobernanza en la UEM`.
 
