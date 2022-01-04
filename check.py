@@ -1,5 +1,6 @@
 import json
 import re
+import sys
 from pathlib import Path
 
 ROOT_DIR = Path(__file__).parent
@@ -19,13 +20,18 @@ def remove_links(text: str) -> str:
 
 
 def main():
+    errors_found = 0
     for file in files:
         text = remove_links(file.read_text("utf8"))
         for i, line in enumerate(text.splitlines()):
             for match in re.findall(r"[a-záéíóú]+-[a-záéíóú]+", line, re.IGNORECASE):
                 if match.lower() in WHITELIST:
                     continue
-                print(f"{file.stem}:{i+1:3d} {match!r}")
+                errors_found += 1
+                print(f"{file.stem}:{i+1:3d} {match!r}", file=sys.stderr)
+
+    if errors_found:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
