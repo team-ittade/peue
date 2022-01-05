@@ -44,7 +44,7 @@ Se considera la etapa del olvido. Se limitó a desarrollar la libre circulación
 
 ??? info "ex-ante vs ex-post"
     - **Convergencia social espontánea ex post** --> aboga por una competencia limitada tan sólo por un mínimo de prescripciones sociales. Los costes sociales son uno más de los muchos costes empresariales que pueden modificarse en función de las condiciones económicas.
-    - **Homogenización social ex ante** --> mantiene que los gastos sociales son costes necesarios para salvaguardar la paz social y que modelos sociales idénticos evitarían una distorsión de la competencia, puesto que se gravaría a las empresas de forma diferente. En caso contrario, los Estados con alto nivel de protección social perderían trabajo y capital.
+    - **Homogeneización social ex ante** --> mantiene que los gastos sociales son costes necesarios para salvaguardar la paz social y que modelos sociales idénticos evitarían una distorsión de la competencia, puesto que se gravaría a las empresas de forma diferente. En caso contrario, los Estados con alto nivel de protección social perderían trabajo y capital.
 
 ### 2.2. Hacia una política social activa y un Espacio Social Europeo (1974-1987)
 
@@ -77,14 +77,14 @@ Los jefes de Estado de los Estados miembros (excepto Reino Unido) adoptaron:
     - La extraordinaria magnitud del nivel de desempleo
     - El horizonte de la unión económica y monetaria
 
-3 documentos definían cuáles deberían ser las políticas a adoptar xa hacer frente a la competencia:
+3 documentos definían cuáles deberían ser las políticas a adoptar para hacer frente a la competencia:
 
 - **Libro Verde sobre el futuro de la política social europea**
 - **Libro Blanco sobre crecimiento, competitividad y empleo**
 - **Libro Blanco sobre política social**
 
 !!! question "Libros Verdes y Blancos"
-    - Los **libros verdes** que publican la Comisión son para debate.
+    - Los **libros verdes** que publica la Comisión son para debate.
     - Los **libros blancos** suelen ser derivados de un libro verde.
 
 La **Estrategia Europea de Empleo** que les siguió tuvo especial importancia en el **Tratado de Ámsterdam**:
@@ -100,7 +100,7 @@ El Consejo Europeo aprobó la **Agenda Social Europea** (que formaba parte de la
 - **Principio rector**: reforzar la política social como factor productivo
 - Subrayó:
     - Doble finalidad de la Política Social común (como un fin en sí misma y como un factor de competitividad)
-    - La necesidad de que mantuviese **vínculos** eficaces con las **políticas económica y de empleo**.
+    - La necesidad de que mantuviese **vínculos** eficaces con las **políticas económicas y de empleo**.
 - Núcleo:
     - Modernización del modelo social europeo.
     - Transformación de los compromisos políticos acordados en Lisboa en una acción concreta.
@@ -129,7 +129,7 @@ Después de una evaluación sobre su comportamiento inicial se estableció la se
     - Proporcionar acceso (a la educación, a la protección social, a la atención sanitaria y a unos servicios de calidad para todos)
     - Demostrar solidaridad (entre generaciones y regiones, entre los más acomodados y los más modestos y entre los Estados más ricos y los menos pudientes)
 
-==**Prioridades Fundamentales: el empleo la lucha contra la pobreza y la promoción de la igualdad de oportunidades.**==
+==**Prioridades Fundamentales: el empleo, la lucha contra la pobreza y la promoción de la igualdad de oportunidades.**==
 
 **El desarrollo de la política social comunitaria 2000-2010 no tuvo el respaldo presupuestario que hubiera sido deseable para cubrir sus ambiciosos objetivos.**
 
@@ -212,4 +212,37 @@ Otros instrumentos financieros: `Fondo Europeo de Desarrollo Regional`, `Fondo d
 
 ## 4. La Estrategia Europea de Empleo
 
-Se inició con la publicación del `Libro Blanco sobre Crecimiento, Competitividad y Empleo` (1993).
+- Se inició con la publicación del `Libro Blanco sobre Crecimiento, Competitividad y Empleo` (1993).
+- El Consejo Europeo Extraordinario sobre el Empleo fijó en 1997 unas Directrices Comunes a seguir y adoptó un programa de trabajo continuo de las políticas nacionales (conocido como el **Proceso de Luxemburgo**), más tarde reforzado por el `Pacto para el Empleo`.
+- En 1998 entró en funcionamiento la **`Estrategia Europea de Empleo`** para reducir el desempleo de
+manera duradera. Se concibió para lograr más y mejores empleos en la Unión Europea.
+- Fue revisada en 2002 y reactivada en 2005 con el **crecimiento y el empleo como ejes centrales**.
+- **Durante el periodo 2010-2020 formó parte de la estrategia `Europa 2020`.**
+- El `Plan de Acción del Pilar Europeo de Derechos Sociales` (2021) ha establecido los 3 nuevos objetivos principales de la UE que deben alcanzarse en 2030 en los ámbitos de empleo, capacidades y protección social.
+- La `Estrategia Europea de Empleo` proporciona un marco (el denominado `Método Abierto de Coordinación`) que permite a los países compartir información, evaluar a otros Estados miembros de la Unión, debatir sus políticas de empleo y coordinarlas entre sí.
+
+Este proceso consta de las siguientes fases anuales:
+
+- [x] `Directrices de Empleo`: presentan objetivos estratégicos para las políticas nacionales de empleo y comprenden prioridades políticas en los ámbitos del empleo, la educación y la inclusión social. Las más recientes (2020) integran las 4 dimensiones de la `Estrategia Anual de Crecimiento Sostenible`.
+- [x] `Informe Conjunto sobre el Empleo`: se basa en una evaluación de la situación del empleo en Europa, en la aplicación de las Directrices de empleo y en el estudio de los proyectos de Programas Nacionales de Reforma por el Comité de Empleo.
+- [x] `Programas Nacionales de Reforma`
+- [x] Recomendaciones específicas de cada país
+
+Finalmente, entre sus actuaciones principales destaca la denominada **garantía juvenil**. Representa el compromiso de todos los Estados miembros para que los jóvenes menores de 30 años reciban una buena oferta de empleo, educación continua, formación de aprendiz o periodos de prácticas en un plazo de 4 meses tras perder su empleo o finalizar sus estudios. Forma parte del paquete de apoyo al empleo juvenil.
+
+!!! success "*Flexiguridad*"
+    Fue definida en 2007 por la Comisión Europea como *"una estrategia integrada para potenciar, a un tiempo, la flexibilidad y la seguridad en el mercado laboral"*.
+
+    - La **flexibilidad** hace referencia a los avances logrados en el curso de la propia vida, alude a la progresión de los trabajadores hacia mejores empleos, es característica de una organización de trabajo flexible y es la que facilita la conciliación del trabajo y las responsabilidades privadas.
+    - La **seguridad** incluye la conservación del puesto de trabajo; la equiparación de las personas con las capacidades que les permitan progresar en su vida laboral y encontrar un nuevo empleo; prestaciones de desempleo adecuadas, para facilitar las transiciones; y oportunidades de formación para todos los trabajadores, especialmente los poco cualificados y los de más edad.
+
+??? info "Indicador AROPE de riesgo de pobreza o exclusión social (UE)"
+    Es un indicador agregado que combina tres conceptos: el riesgo de pobreza, la carencia material severa y la baja intensidad en el empleo. Define la población en riesgo de pobreza o exclusión social como aquella que está al menos en alguna de estas tres situaciones:
+
+    1. En riesgo de pobreza (ingresos por unidad de consumo por debajo del 60% de la mediana). Se construye con los ingresos del año anterior.
+    2. En carencia material severa (con carencia en al menos cuatro conceptos de una lista de nueve). Algunos de los nueve conceptos considerados son:
+        1. No puede permitirse ir de vacaciones al menos una semana al año.
+        2. No puede permitirse una comida de carne, pollo o pescado al menos cada dos días.
+        3. No puede permitirse mantener la vivienda con una temperatura adecuada.
+        4. No tiene capacidad para afrontar gastos imprevistos (de 650 euros).
+    3. En hogares sin empleo o con baja intensidad en el empleo (hogares en los que sus miembros en edad de trabajar lo hicieron menos del 20% del total de su potencial de trabajo durante el año de referencia de los ingresos, es decir, el año anterior a la entrevista).
