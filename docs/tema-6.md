@@ -63,18 +63,18 @@ Son medidas reconocidas por los Reglamentos de la OMC como legítimos instrument
 - **Medidas antidumping**
 - **Medidas antisubvención**, para impedir la importación de productos mantenidos a bajo precio con subvenciones públicas en el tercer país de origen.
 
-Asímismo, la UE puede adoptar medidas de salvaguarda limitando los flujos de los productos importados.
+Asimismo, la UE puede adoptar medidas de salvaguarda limitando los flujos de los productos importados.
 
 ### 1.2.5. El sistema de preferencias generalizadas (SPG)
 
 la UE proporciona un acceso preferencial no recíproco al mercado comunitario de productos originarios en países y territorios en desarrollo a través de la exoneración total o parcial de los derechos arancelarios, con el fin de reducir la pobreza en los países en vías de desarrollo, garantizar los derechos humanos y laborales fundamentales y promover el desarrollo sostenible y la gobernanza.
 
-Es simultáneamnete un **instrumento de la política comercial** y de la **política de desarrollo** de la Unión Europea.
+Es simultáneamente un **instrumento de la política comercial** y de la **política de desarrollo** de la Unión Europea.
 
 Comprende 3 regímenes preferenciales aplicables:
 
 1. General: concede exención total de derechos para los productos no sensibles
-2. Régimen especial de estímulo del desarrollo sostenible y la gobernanza (`SPG+`): eliminación de aranceles para todos los produtos a países considerados como vulnerables que apliquen los convenios internacionales sobre derechos humanos y medio ambiente.
+2. Régimen especial de estímulo del desarrollo sostenible y la gobernanza (`SPG+`): eliminación de aranceles para todos los productos a países considerados como vulnerables que apliquen los convenios internacionales sobre derechos humanos y medio ambiente.
 3. Régimen especial a favor de los países menos desarrollados (`Iniciativa EBA: Todo menos armas`): exención total de aranceles a todos los productos originarios de los países menos desarrollados, con excepción de las armas.
 
 ## 2. La política comercial convencional y las relaciones de cooperación
@@ -138,7 +138,7 @@ Tras su estancamiento en cuestiones fundamentales (sobre todo en lo relacionado 
 
 ## 4. La política de cooperación internacional y desarrollo (CPD)
 
-La CPD se reforzó con el `Tratado de Lisboa` (2009) y se reiteró con el `Nuevo Consenso Europeo sobre Desarrollo` (2017). En la `Agenda 2030` el `Consenso Europeo sobre Desarrollo` reafirmó el compromiso de la UE con la CPD y la reconoció como un elemento crucial para alzanzar los `Objetivos de Desarrollo Sostenible (ODS)`.
+La CPD se reforzó con el `Tratado de Lisboa` (2009) y se reiteró con el `Nuevo Consenso Europeo sobre Desarrollo` (2017). En la `Agenda 2030` el `Consenso Europeo sobre Desarrollo` reafirmó el compromiso de la UE con la CPD y la reconoció como un elemento crucial para alcanzar los `Objetivos de Desarrollo Sostenible (ODS)`.
 
 *[CPD]: Cooperación Internacional y Desarrollo
 
@@ -164,7 +164,7 @@ La CPD se reforzó con el `Tratado de Lisboa` (2009) y se reiteró con el `Nuevo
     - Integrado por 3 pilares:
         - `FEDS (Fondo Europeo para el Desarrollo Sostenible)`: proporciona un dispositivo financiero integrado para financiar las inversiones en las regiones de África y en los países de la vecindad europea
         - **Asistencia técnica** a las autoridades locales para que desarrollen proyectos mejores y viables.
-        - Asistencia técnica a ctividades que apoyan el diálogo estructurado del sector político y privado con los países socios y otras partes interesadas para **mejorar el clima de inversión y el entorno empresarial**.
+        - Asistencia técnica actividades que apoyan el diálogo estructurado del sector político y privado con los países socios y otras partes interesadas para **mejorar el clima de inversión y el entorno empresarial**.
 
 ### 4.1. Instrumentos
 
@@ -172,8 +172,8 @@ La ayuda al desarrollo puede suministrarse de múltiples formas:
 
 - **Proyectos**: serie de actividades con objetivos específicos y periodo y presupuesto definidos.
 - **Subvenciones**: contribuciones financieras directas a organizaciones o a los proyectos que gestionan. Se conceden por convocatorias.
-- **Contratos**: se adjudican mediante procedimientos de licitación de servicio, suministros u obras.
-- **Apoyo presupuestario**: transferencias a la hacienda nacional del país socio. Va acompañado de un intenso diálogo político. Financia la estrategia de desarrollo del país socio. **Está acondicionado a resultados** (sólo se desembolsa cuando se cumplen las condiciones acordadas para los resultados).
+- **Contratos**: se adjudican mediante procedimientos de licitación de servicios, suministros u obras.
+- **Apoyo presupuestario**: transferencias a la hacienda nacional del país socio. Va acompañado de un intenso diálogo político. Financia la estrategia de desarrollo del país socio. **Está condicionado a resultados** (sólo se desembolsa cuando se cumplen las condiciones acordadas para los resultados).
 - **Financiación combinada** (aka instrumentos financieros innovadores, *blending facilities*): complementa a otras modalidades de ayuda y está pensada de cara a las prioridades regionales, nacionales y transversales. **El principio del mecanismo es combinar las subvenciones de la UE con préstamos o activos procedentes de entidades públicas y privadas**.
 
     La cobertura geográfica de los mecanismos regionales de financiación combinada se ha ido ampliando gradualmente. Abarcan las siete regiones de la cooperación exterior de la UE
