@@ -23,7 +23,7 @@ La política de la defensa de la competencia no es una política sectorial, sino
     **Mayor eficiencia económica --> maximización del bienestar colectivo**
 
 !!! success "Fundamentos de la política europea de la competencia"
-    - **Prevenir y sancionar las barreras que establecen los agentes privados** {>>reparto de mercados, fijación de precios, etc.<<}
+    - **Prevenir y sancionar las barreras que establecen los agentes privados** {>> reparto de mercados, fijación de precios, etc. <<}
     - Garantizar que las empresas europeas se encuentren entre las más competitivas del mundo
     - Impulsar la competitividad de la UE en los mercados internacionales
     - Potenciar la cooperación internacional entre las empresas o su consolidación, mediante la unión con otros competidores
@@ -102,10 +102,10 @@ Se articula alrededor de 8 ejes principales:
     - La ***política de clemencia*** permite reducir e incluso eximir del pago de multas a aquellas empresas que aporten pruebas que permitan a la Comisión descubrir y sancionar la existencia de cárteles europeos.
     - Se ha creado la figura del **Economista Jefe**.
     - Se ha reorganizado la Dirección **General de Competencia**.
-5. Aplicación efectiva de las normas de competencia en los servicios públicos liberalizados {>> energía, telecomunicaciones, transporte, correos<<} y supresión de los obstáculos que impiden una auténtica liberalización de los mismos.
+5. Aplicación efectiva de las normas de competencia en los servicios públicos liberalizados {>> energía, telecomunicaciones, transporte, correos <<} y supresión de los obstáculos que impiden una auténtica liberalización de los mismos.
 6. Aplicación proactiva de las normas de competencia en los servicios financieros y las profesiones liberales, sectores caracterizados por una regulación frecuentemente gravosa y por prácticas a menudo restrictivas.
 7. Cooperación con las autoridades y las jurisdicciones nacionales (paso de **un sistema de autorización centralizado de notificación previa de acuerdos prohibidos pero autorizables** a **un sistema de excepción legal**)
 8. Cooperación con terceros países, en el marco de los acuerdos bilaterales y multilaterales suscritos.
 
 !!! danger ""
-    La vigilancia de la política de la defensa de la competencia euroepa corresponde a la Comisión y al Tribunal de Justicia.
+    La vigilancia de la política de la defensa de la competencia europea corresponde a la Comisión y al Tribunal de Justicia.
