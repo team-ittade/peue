@@ -76,7 +76,7 @@ Tras el `Tratado de la Unión Europea` (1992) se hizo **otra reforma** (1993) en
 1. Se modificaron los objetivos del **principio de concentración**.
 2. Se amplió el campo de actuación del **principio de cooperación** al permitir la entrada de interlocutores sociales y económicos.
 3. El **principio de programación** simplificó su proceso de funcionamiento y prestó una mayor atención a los problemas medioambientales.
-4. Las dificultades de aplicación del **principio de adicionalidad** aconsejaron interpretarlo según el criterio de que cada Estado.
+4. Las dificultades de aplicación del **principio de adicionalidad** aconsejaron interpretarlo según el criterio de cada Estado.
 5. La unificación alemana (octubre 1990) supuso la inmediata incorporación de los **cinco Länder** del este a las ayudas estructurales.
 6. Se instaura el **`Instrumento Financiero de Orientación de la Pesca (IFOP)`** para establecer una vía específica de financiación para el sector pesquero.
 7. Se introduce un **nuevo objetivo** para permitir la recepción de ayudas comunitarias a regiones con escasa densidad de población.
