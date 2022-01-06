@@ -212,3 +212,33 @@ Además, la nueva PAC se centrará en la eficacia gracias a:
 ## 3. La política de desarrollo rural
 
 La política de la Unión en favor del desarrollo rural se introdujo como segundo pilar de la PAC en el marco de la reforma de la Agenda 2000.
+
+En 2006 el Consejo aprobó las 6 **Directrices Estratégicas Comunitarias de desarrollo rural 2007-2013**.
+
+Los Estados miembros, basándose en estas **Directrices**, prepararon sus Planes Nacionales de Desarrollo Rural, centrados en 3 ámbitos:
+
+- La economía agroalimentaria
+- El medio ambiente y la economía
+- La población rural en sentido amplio
+
+Los **`Programas de Desarrollo Rural (PDR)`** (financiados a través del `FEADER`) se articularon en torno a los 4 ejes siguientes:
+
+- Aumento de la competitividad del sector agrícola y forestal, a través de la ayuda a la reestructuración
+- Mejora del medio ambiente y del entorno rural, a través de la ayuda a la gestión territorial
+- Mejora de la calidad de vida en las zonas rurales y fomento de la diversificación de las actividades económicas
+- El enfoque Leader
+
+!!! pied-piper "Objetivos estratégicos a largo plazo"
+    - Mejorar la competitividad de la agricultura y la silvicultura
+    - Garantizar la gestión sostenible de los recursos naturales y la acción por el clima
+    - Lograr un desarrollo territorial equilibrado de las economías y comunidades rurales incluyendo la creación y conservación del empleo
+
+**Características destacables de los `PDR` 2014-2020**:
+
+- **Gasto en clima y medio ambiente**: en cada PDR, al menos el 30 % de la financiación debe destinarse a medidas relacionadas con el medio ambiente y el cambio climático.
+- **Apoyo a las acciones locales**: al menos el 5 % de la financiación de los PDR debe destinarse a medidas basadas en el enfoque **`LEADER` / Desarrollo Local Participativo**.
+`LEADER` es un enfoque *"de abajo a arriba"* que reúne a agricultores, empresas rurales, organizaciones locales, administraciones públicas y personas de distintos sectores para formar los llamados *"grupos de acción local"*, que elaboran sus propias estrategias de desarrollo local y gestionan sus propios presupuestos.
+- **Promoción de los pueblos inteligentes**: los `Programas de Desarrollo Rural` pueden apoyar también la iniciativa de los pueblos inteligentes.
+- **Instrumentos financieros**: el `FEADER` funciona como fuente de préstamos, microcréditos, garantías y acciones para beneficiarios de los sectores de la agricultura de las zonas rurales que emprendan proyectos financieramente viables en apoyo de su prioridades.
+
+La política de desarrollo rural **ha venido funcionando en estrecha coordinación con otras políticas** a través del `Marco Estratégico Común` a nivel de la UE y a través de los Acuerdos de Asociación a nivel nacional.
