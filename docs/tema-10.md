@@ -242,3 +242,12 @@ Los **`Programas de Desarrollo Rural (PDR)`** (financiados a través del `FEADER
 - **Instrumentos financieros**: el `FEADER` funciona como fuente de préstamos, microcréditos, garantías y acciones para beneficiarios de los sectores de la agricultura de las zonas rurales que emprendan proyectos financieramente viables en apoyo de su prioridades.
 
 La política de desarrollo rural **ha venido funcionando en estrecha coordinación con otras políticas** a través del `Marco Estratégico Común` a nivel de la UE y a través de los Acuerdos de Asociación a nivel nacional.
+
+Las normas aplicables al gasto en desarrollo rural durante el período 2021-2022 prorrogan las normas vigentes (inicialmente en vigor para el período 2014-2020) y añade algunos elementos para garantizar una transición fluida a la futura legislación de la PAC:
+
+- Al menos el 37 % de los recursos adicionales del **`Instrumento de Recuperación Next Generation EU (EURI)`** deben destinarse a medidas que beneficien al medio ambiente y al clima, así como al bienestar de los animales y a LEADER
+- Al menos el 55 % de los recursos `EURI` debe destinarse a medidas que promuevan el desarrollo económico y social en las zonas rurales
+
+En 2021 la Comisión Europea presentó su **visión a largo plazo para las zonas rurales de la UE**. En ella señala los retos a los que se enfrentan. También propuso un **Pacto Rural** y un **Plan de Acción Rural** con el objetivo de hacer que las zonas rurales sean más fuertes, resilientes y prósperas, y estén conectadas.
+
+La visión y el Plan de Acción Rural definen cuatro ámbitos de acción, apoyados por iniciativas emblemáticas, a fin de facilitar que las zonas rurales sean o estén: **más fuertes**, **resilientes**, **prósperas** y **conectadas**.
