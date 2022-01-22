@@ -6,8 +6,9 @@ from bs4 import BeautifulSoup
 
 @click.command()
 @click.argument("lection", type=int)
-def cli(lection: int):
-    url = f"http://localhost:8000/tema-{lection}"
+@click.option("--port", type=int, default=8000)
+def cli(lection: int, port: int):
+    url = f"http://localhost:{port}/tema-{lection}"
     res = requests.get(url)
     res.raise_for_status()
 
