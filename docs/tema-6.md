@@ -28,8 +28,8 @@ En 2018 el Consejo adoptó un nuevo planteamiento para la negociación y celebra
 
 El análisis de la Política Comercial Exterior suele separarse en dos grandes bloques:
 
-- [**Política comercial autónoma**](#12-la-política-comercial-autónoma): hace referencia a las medidas establecidas por la propia UE con carácter unilateral, respetando las obligaciones multilaterales que se derivan de sus compromisos ante la Organización Mundial del Comercio (OMC).
-- [**Política comercial convencional**](#2-la-política-comercial-convencional-y-las-relaciones-de-cooperación): se basa en los acuerdos suscritos por la UE con distintos países o grupos de países (*la mayoría de ellos en vías de desarrollo*). Dichos acuerdos han de ser compatibles con las reglas de la OMC y adaptarse como excepciones específicas al **principio de la nación más favorecida**.
+- [**Política comercial autónoma**](#12-la-politica-comercial-autonoma): hace referencia a las medidas establecidas por la propia UE con carácter unilateral, respetando las obligaciones multilaterales que se derivan de sus compromisos ante la Organización Mundial del Comercio (OMC).
+- [**Política comercial convencional**](#2-la-politica-comercial-convencional-y-las-relaciones-de-cooperacion): se basa en los acuerdos suscritos por la UE con distintos países o grupos de países (*la mayoría de ellos en vías de desarrollo*). Dichos acuerdos han de ser compatibles con las reglas de la OMC y adaptarse como excepciones específicas al **principio de la nación más favorecida**.
 
 ==Ambos grupos de políticas se refieren únicamente al comercio de la UE con el resto del mundo. **El comercio entre Estados miembros no forma parte de la política comercial**.==
 

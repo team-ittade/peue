@@ -36,7 +36,7 @@ La literatura económica ofrece diferentes posiciones para explicar las diferenc
 
 Las desigualdades regionales no se consideró un problema en la fundación de la CE, por lo que se dejó a merced de cada Estado miembro. A mediados de los 70 se creó el `FEDER (Fondo Europeo para el Desarrollo Regional)` y se empezó a intentar eliminar estas diferencias.
 
-La evolución que ha experimentado la política regional comunitaria permite diferenciar seis grandes fases: [1957-1974](#21-1957-1974-del-tratado-de-roma-al-replanteamiento-de-la-politica-regional-comunitaria-forzado-por-la-primera-ampliacion-de-la-cee); [1975-1987](#22-1975---1987-de-la-creacion-del-feder-a-sus-primeras-modificaciones); [1988-1999](#23-1988---1999-consolidación-de-la-politica-regional); [2000-2006](#24-2000-2006-freno-en-la-politica-de-cohesion); [2007-2013](#25-2007-2013-enfoque-estrategico-centrado-en-prioridades) y [2014-2020](#26-2014-2020-reorientacion-para-el-crecimiento-y-el-empleo)
+La evolución que ha experimentado la política regional comunitaria permite diferenciar seis grandes fases: [1957-1974](#21-1957-1974-del-tratado-de-roma-al-replanteamiento-de-la-politica-regional-comunitaria-forzado-por-la-primera-ampliacion-de-la-cee); [1975-1987](#22-1975---1987-de-la-creacion-del-feder-a-sus-primeras-modificaciones); [1988-1999](#23-1988---1999-consolidacion-de-la-politica-regional); [2000-2006](#24-2000-2006-freno-en-la-politica-de-cohesion); [2007-2013](#25-2007-2013-enfoque-estrategico-centrado-en-prioridades) y [2014-2020](#26-2014-2020-reorientacion-para-el-crecimiento-y-el-empleo)
 
 ### 2.1. 1957-1974: del Tratado de Roma al replanteamiento de la política regional comunitaria forzado por la primera ampliación de la CEE
 

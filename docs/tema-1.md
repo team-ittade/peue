@@ -48,7 +48,7 @@ Los países adoptan la **libertad de circulación de mercancías en el área int
 
 ### 3.4. Mercado común
 
-Es como la [Unión Aduanera](#33-unión-aduanera) añadiendo la **libre circulación de capitales, trabajadores y la libertad de establecimiento de actividades productivas**.
+Es como la [Unión Aduanera](#33-union-aduanera) añadiendo la **libre circulación de capitales, trabajadores y la libertad de establecimiento de actividades productivas**.
 
 > *Ejs: CEE (1992)*
 
@@ -56,11 +56,11 @@ Es como la [Unión Aduanera](#33-unión-aduanera) añadiendo la **libre circulac
 
 Los países **forman un mercado común y armonizan o unifican sus políticas económicas nacionales** (fiscales, monetarias y socio-económicas).
 
-> *Ejs: Benelux (Bélgica, Países Bajos y Luxemburgo) pasó de [Unión Aduanera](#33-unión-aduanera) a [Unión Económica](#35-unión-económica); CEE, que era un mercado común que avanzó hacia una [Unión Económica](#35-unión-económica)*
+> *Ejs: Benelux (Bélgica, Países Bajos y Luxemburgo) pasó de [Unión Aduanera](#33-union-aduanera) a [Unión Económica](#35-union-economica); CEE, que era un mercado común que avanzó hacia una [Unión Económica](#35-union-economica)*
 
 ### 3.6. Unión económica y monetaria
 
-Es una [Unión Económica](#35-unión-económica) en la que los países están regidos por **una unidad y circulación monetaria única**.
+Es una [Unión Económica](#35-union-economica) en la que los países están regidos por **una unidad y circulación monetaria única**.
 
 > *Ejs: Unión Monetaria entre Bélgica y Luxemburgo (dead); Eurozona*
 

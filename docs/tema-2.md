@@ -8,7 +8,7 @@ En 1952 se firma la **Comunidad de Defensa** (_CED_) por el que se crea un ejér
 
 En 1957 se firma el `Tratado de Roma`, por el que se crea la **CEE** (_Comunidad Económica Europea_) y la **CEEA / EURATOM** (_Comunidad Europea de la Energía Atómica_)
 
-Tanto la **CECA** como el **EURATOM** son formas de **integración sectorial**, mientras que la CEE constituye una forma de **integración global**. Su objetivo era la progresiva creación de una [Unión Aduanera](tema-1.md#33-unión-aduanera) y un [Mercado Común](tema-1.md#34-mercado-común).
+Tanto la **CECA** como el **EURATOM** son formas de **integración sectorial**, mientras que la CEE constituye una forma de **integración global**. Su objetivo era la progresiva creación de una [Unión Aduanera](tema-1.md#33-union-aduanera) y un [Mercado Común](tema-1.md#34-mercado-comun).
 
 En 1958 entró en vigor el `Tratado de Roma`. Desde entonces el proceso de integración europea ha atravesado distintas etapas, acelerándose en épocas de expansión económica y frenándose en periodos de recesión.
 

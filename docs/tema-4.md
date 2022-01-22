@@ -46,7 +46,7 @@ El objetivo del `MTC II` es mantener la estabilidad de los tipos de cambio entre
 
 {==
 
-La base jurídica de la [Política Monetaria Única](#2-la-política-monetaria-única) es el `Tratado Consecutivo de la Comunidad Europea.` En él se crearon el **Banco Central Europeo (BCE)** y el **Sistema Europeo de Bancos Centrales (SEBC)**.
+La base jurídica de la [Política Monetaria Única](#2-la-politica-monetaria-unica) es el `Tratado Consecutivo de la Comunidad Europea.` En él se crearon el **Banco Central Europeo (BCE)** y el **Sistema Europeo de Bancos Centrales (SEBC)**.
 
 - El **BCE asumió las funciones del Instituto Monetario Europeo** (IME), que fue liquidado
 - El **SEBC está formado por el BCE y los bancos centrales de todos los Estados miembros**.
