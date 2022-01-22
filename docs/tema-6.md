@@ -49,14 +49,14 @@ Está libre de restricciones cuantitativas, pudiéndose recurrir a medidas de sa
 
 Excepciones: algunos productos agrícolas y textiles.
 
-### 1.2.3. El régimen general de exportaciones
+#### 1.2.3. El régimen general de exportaciones
 
 Tiene carácter liberalizado, aunque contempla:
 
 1. Medidas de salvaguarda (*ej: por escasez de productos esenciales*)
 2. Restricciones o prohibiciones a la exportación, por razones de moralidad pública, orden público, seguridad pública, salud y medio ambiente, etc.
 
-### 1.2.4. Las medidas de defensa comercial
+#### 1.2.4. Las medidas de defensa comercial
 
 Son medidas reconocidas por los Reglamentos de la OMC como legítimos instrumentos potenciales de protección comercial. Como cualquier miembro de la OMC, la UE puede adoptar:
 
@@ -65,7 +65,7 @@ Son medidas reconocidas por los Reglamentos de la OMC como legítimos instrument
 
 Asimismo, la UE puede adoptar medidas de salvaguarda limitando los flujos de los productos importados.
 
-### 1.2.5. El sistema de preferencias generalizadas (SPG)
+#### 1.2.5. El sistema de preferencias generalizadas (SPG)
 
 la UE proporciona un acceso preferencial no recíproco al mercado comunitario de productos originarios en países y territorios en desarrollo a través de la exoneración total o parcial de los derechos arancelarios, con el fin de reducir la pobreza en los países en vías de desarrollo, garantizar los derechos humanos y laborales fundamentales y promover el desarrollo sostenible y la gobernanza.
 
