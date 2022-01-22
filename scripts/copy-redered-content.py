@@ -6,11 +6,14 @@ from bs4 import BeautifulSoup
 
 @click.command()
 @click.argument("lection", type=int)
-@click.option("--port", type=int, default=8000)
+@click.option("-p", "--port", type=int, default=8000)
 def cli(lection: int, port: int):
     url = f"http://localhost:{port}/tema-{lection}"
-    res = requests.get(url)
-    res.raise_for_status()
+    try:
+        res = requests.get(url)
+        res.raise_for_status()
+    except (requests.ConnectionError, requests.HTTPError) as exc:
+        raise click.ClickException("HTTPException: " + str(exc))
 
     soup = BeautifulSoup(res.content.decode("utf8"), "html.parser")
     content = soup.find("article")
