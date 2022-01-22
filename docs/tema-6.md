@@ -60,14 +60,14 @@ Tiene carácter liberalizado, aunque contempla:
 
 Son medidas reconocidas por los Reglamentos de la OMC como legítimos instrumentos potenciales de protección comercial. Como cualquier miembro de la OMC, la UE puede adoptar:
 
-- **Medidas antidumping**
-- **Medidas antisubvención**, para impedir la importación de productos mantenidos a bajo precio con subvenciones públicas en el tercer país de origen.
+- **Medidas antidumping** para evitar que se exporten mercancías a precios inferiores a los que tienen en el mercado común productos similares.
+- **Medidas antisubvención** para impedir la importación de productos mantenidos a bajo precio con subvenciones públicas en el tercer país de origen.
 
 Asimismo, la UE puede adoptar medidas de salvaguarda limitando los flujos de los productos importados.
 
 #### 1.2.5. El sistema de preferencias generalizadas (SPG)
 
-la UE proporciona un acceso preferencial no recíproco al mercado comunitario de productos originarios en países y territorios en desarrollo a través de la exoneración total o parcial de los derechos arancelarios, con el fin de reducir la pobreza en los países en vías de desarrollo, garantizar los derechos humanos y laborales fundamentales y promover el desarrollo sostenible y la gobernanza.
+La UE proporciona un acceso preferencial no recíproco al mercado comunitario de productos originarios en países y territorios en desarrollo a través de la exoneración total o parcial de los derechos arancelarios, con el fin de reducir la pobreza en los países en vías de desarrollo, garantizar los derechos humanos y laborales fundamentales y promover el desarrollo sostenible y la gobernanza.
 
 Es simultáneamente un **instrumento de la política comercial** y de la **política de desarrollo** de la Unión Europea.
 
