@@ -10,6 +10,23 @@ WHITELIST_PATH = ROOT_DIR / "whitelist.json"
 files = [x for x in DOCS_DIR.iterdir() if x.suffix == ".md"]
 
 WHITELIST = [x.lower() for x in json.loads(WHITELIST_PATH.read_text("utf8"))]
+KNOWN_ADMONITIONS = [
+    "abstract",
+    "bug",
+    "check",
+    "danger",
+    "error",
+    "example",
+    "fail",
+    "faq",
+    "info",
+    "note",
+    "pied-piper",
+    "question",
+    "success",
+    "tip",
+    "tldr",
+]
 
 
 def remove_links(text: str) -> str:
@@ -45,13 +62,26 @@ def find_accents_in_links():
                     continue
                 print(f"{file.stem}:{i+1:3d} {match_text!r}", file=sys.stderr)
 
+
+def validate_admonitions():
+    errors_found = 0
+
+    for file in files:
+        text = file.read_text("utf8")
+        for i, line in enumerate(text.splitlines()):
+            for match in re.finditer(r"(?:!!!|\?\?\?) ([\w-]+)", line, re.IGNORECASE):
+                title = match.group(1)
+                if title not in KNOWN_ADMONITIONS:
+                    print(f"{file.stem}:{i+1:3d} {title!r}", file=sys.stderr)
+
     return errors_found == 0
 
 
 def main():
     r1 = find_extra_hypens()
     r2 = find_accents_in_links()
-    if not all((r1, r2)):
+    r3 = validate_admonitions()
+    if not all((r1, r2, r3)):
         sys.exit(0)
 
 
