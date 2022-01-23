@@ -157,6 +157,8 @@ La CPD se institucionalizó con el `Tratado de Maastricht` (1993). Se reforzó c
     Los objetivos de desarrollo sostenible forman parte de la Agenda 2030 para el Desarrollo Sostenible (aprobada por las Naciones Unidas en 2015)
 
 !!! bug "Plan Europeo de Inversiones Exteriores (PEIE)"
+    Es un marco de asociación con terceros países (aprobado por el Consejo Europeo) que:
+
     - Apoya el desarrollo sostenible y determina, prepara y presta apoyo a proyectos de inversión en países no europeos
     - Impulsa la inversión y la creación de empleo en África y los países vecinos de la UE.
     - Prioridades: movilización de la inversión, intensificación de la asistencia técnica y apoyo de las reformas económicas y estructurales para mejorar el entorno empresarial y el marco político general.

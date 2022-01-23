@@ -4,7 +4,7 @@
 
 Las primeras menciones de legislación en defensa de la competencia se encuentran en la legislación antimonopolio estadounidense, en 1890.
 
-Las últimas menciones se encuentran en la legislación de países europeos, como la inglesa y la alemana (1948 y 1957).
+Las últimas menciones se encuentran en la legislación de países europeos, como la inglesa (1948) y la alemana (1957).
 
 **Objetivo: dar entrada a una política de competencia clara y activa como respuesta al proceso de cartelización al que se había visto sometida la actividad económica durante la segunda contienda mundial.** En la práctica, derivaba en la fijación de precios, limitación de la producción, reparto de los mercados, asignación de clientes o territorios, etc.
 
