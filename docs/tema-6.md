@@ -4,7 +4,7 @@
 
 ### 1.1. Política comercial: visión general
 
-El objetivo del `Tratado de Roma` era crear una [Unión Aduanera](tema-1.md) en la que los intercambios estarían libres de obstáculos y se aplicaría un arancel exterior común a las importaciones de terceros países.
+El objetivo del `Tratado de Roma` (1957) era crear una [Unión Aduanera](tema-1.md) en la que los intercambios estarían libres de obstáculos y se aplicaría un arancel exterior común a las importaciones de terceros países.
 
 Paulatinamente, la **expansión del comercio internacional** convertiría a la política comercial exterior común en una de las más importantes de la Comunidad, dada su **contribución al crecimiento económico**.
 
@@ -82,7 +82,7 @@ Comprende 3 regímenes preferenciales aplicables:
 Tipos principales de acuerdos:
 
 1. **Uniones Aduaneras**: eliminan los derechos de aduana en el comercio bilateral y establecen un arancel aduanero común para los importadores extranjeros.
-2. **Acuerdos de asociación, estabilización, de libre comercio profundos e integrales y de asociación económica**: eliminan o reducen los aranceles aduaneros en el comercio bilateral.
+2. **Acuerdos de asociación, acuerdos de estabilización, acuerdos de libre comercio profundos e integrales y acuerdos de asociación económica**: eliminan o reducen los aranceles aduaneros en el comercio bilateral.
 3. **Acuerdos de asociación y cooperación**: dejan inalterados los aranceles aduaneros. Proporcionan un marco general para las relaciones económicas bilaterales.
 
 En 2015, la Comisión puso en marcha una nueva **estrategia de comercio e inversión de la UE (*Comercio para todos: hacia una política de comercio e inversión más responsable*)** para tratar de responder al intenso debate que estaba teniendo lugar en torno al comercio de la UE.
