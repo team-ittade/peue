@@ -138,7 +138,7 @@ Tras su estancamiento en cuestiones fundamentales (sobre todo en lo relacionado 
 
 ## 4. La política de cooperación internacional y desarrollo (CPD)
 
-La CPD se reforzó con el `Tratado de Lisboa` (2009) y se reiteró con el `Nuevo Consenso Europeo sobre Desarrollo` (2017). En la `Agenda 2030` el `Consenso Europeo sobre Desarrollo` reafirmó el compromiso de la UE con la CPD y la reconoció como un elemento crucial para alcanzar los `Objetivos de Desarrollo Sostenible (ODS)`.
+La CPD se institucionalizó con el `Tratado de Maastricht` (1993). Se reforzó con el `Tratado de Lisboa` (2009) y se reiteró con el `Nuevo Consenso Europeo sobre Desarrollo` (2017). En la `Agenda 2030` el `Consenso Europeo sobre Desarrollo` reafirmó el compromiso de la UE con la CPD y la reconoció como un elemento crucial para alcanzar los `Objetivos de Desarrollo Sostenible (ODS)`.
 
 *[CPD]: Cooperación Internacional y Desarrollo
 
