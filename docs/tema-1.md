@@ -1,4 +1,4 @@
-# Tema 1 – Bases Teóricas de la Integración Económica
+# Tema 1: Bases Teóricas de la Integración Económica
 
 ## 1. Concepto
 

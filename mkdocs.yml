@@ -47,6 +47,7 @@ extra_javascript:
   - js/progress.js
   - js/readtime.js
   - js/tablesort.js
+  - js/title.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
