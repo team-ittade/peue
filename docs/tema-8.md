@@ -259,7 +259,7 @@ La nueva política de cohesión también ha introducido una lista de actividades
 
 ### 2.4. El FEADER
 
-El `Fondo Europeo Agrario de Desarrollo Rural` contribuye a la promoción de un desarrollo rural sostenible en la UE como complemento de las políticas de apoyo al mercado y a los ingresos aplicadas en el marco de la PAC, la política de cohesión y la política pesquera común
+El `Fondo Europeo Agrario de Desarrollo Rural` contribuye a la promoción de un desarrollo rural sostenible en la UE como complemento de las políticas de apoyo al mercado y a los ingresos aplicadas en el marco de la PAC, la política de cohesión y la política pesquera común.
 
 ### 2.5. El FEMP
 
@@ -281,7 +281,7 @@ Es un programa destinado a reparar los daños sociales y económicos causados po
 
 Esto supondrá inversiones para apoyar el mantenimiento del empleo, en particular mediante regímenes de reducción del tiempo de trabajo y apoyo a los trabajadores por cuenta propia. Los fondos también pueden utilizarse para fomentar la creación de empleo y las medidas de empleo juvenil, para los sistemas de asistencia sanitaria y para facilitar capital circulante y apoyo a la inversión a las pymes.
 
-### 2.8. El fondo de solidad de la ue (FSUE)
+### 2.8. El fondo de solidad de la UE (FSUE)
 
 Complementa a los Fondos `EIE`. Constituye una expresión de solidaridad europea hacia las regiones afectadas por las catástrofes naturales.
 
