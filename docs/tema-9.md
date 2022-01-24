@@ -5,7 +5,7 @@
 El **modelo social europeo** a diferencia del norteamericano o japonés ha sido descrito como un desarrollado sistema de redes de protección social que ha configurado la apuesta por el Estado del Bienestar.
 
 <!-- Revisar este párrafo y los dos siguientes -->
-A pesar de su masiva presencia en los países europeos en su núcleo hay una **gran heterogeneidad de valores, contenidos rendimientos y modelos** que funcionan como espacios *"con trazos básicos comunes en las políticas sociales de sus Estados*, aunque con *grandes dosis de pluralidad interna"*:
+A pesar de su masiva presencia en los países europeos en su núcleo hay una **gran heterogeneidad de valores, contenidos rendimientos y modelos** que funcionan como espacios *"con trazos básicos comunes en las políticas sociales de sus Estados"*, aunque con *"grandes dosis de pluralidad interna"*:
 
 - **Razones económicas y extraeconómicas avalan tales diferencias**.
 - Para la Comisión Europea la ^^protección social es un componente fundamental del modelo social europeo^^.
@@ -38,7 +38,7 @@ A pesar de su masiva presencia en los países europeos en su núcleo hay una **g
 
 ## 2. Evolución de la política social
 
-### 2.1. *"Concienciación comunitaria* en el ámbito social (1958-1973)
+### 2.1. *"Concienciación comunitaria"* en el ámbito social (1958-1973)
 
 Se considera la etapa del olvido. Se limitó a desarrollar la libre circulación de trabajadores, regular el `Fondo Social Europeo` (que figura en el `Tratado de Roma`) y plantear una política común de FP y proteger a los trabajadores que trabajan en otro estado.
 
