@@ -178,6 +178,8 @@ Constituye una de las piedras angulares de la política social común y del mode
 
 Es un método flexible de gobernanza que se apoya en el principio de subsidiariedad. Permite a los diferentes Estados desarrollar progresivamente sus propias políticas, pero orientándolas hacia objetivos comunes y sometiéndolas al seguimiento posterior de la UE.
 
+Se emplea caso por caso o bien se aplica en paralelo con el enfoque legislativo.
+
 ### 3.4. Semestre Europeo
 
 Permite analizar a nivel de la UE las políticas económicas de los Estados miembros y adoptar recomendaciones específicas para cada país antes de que los gobiernos elaboren sus proyectos de presupuesto y los presenten ante los parlamentos nacionales.
