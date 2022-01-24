@@ -104,7 +104,7 @@ Persigue 3 objetivos:
 
 Los jefes de gobierno de los Estados miembros pactaron una arquitectura reforzada para la UEM basada en Tratados.
 
-Se aprobó reforzar el `Pacto de Estabilidad y Crecimiento` con el [Six Pack](#31-six-pack-2012), el [Two Pack](#33-two-pack-2013) y el [Tratado de Estabilidad, Coordinación y Gobernanza en la UEM](#32-tratado-de-estabilidad-coordinación-y-gobernanza-en-la-uem-pacto-presupuestario-o-fiscal-2013).
+Se aprobó reforzar el `Pacto de Estabilidad y Crecimiento` con el [Six Pack](#31-six-pack-2012), el [Two Pack](#33-two-pack-2013) y el [Tratado de Estabilidad, Coordinación y Gobernanza en la UEM](#32-tratado-de-estabilidad-coordinacion-y-gobernanza-en-la-uem-pacto-presupuestario-o-fiscal-2013).
 
 ### 3.1. Six-Pack (2012)
 

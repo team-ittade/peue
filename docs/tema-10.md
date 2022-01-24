@@ -236,7 +236,7 @@ Los **`Programas de Desarrollo Rural (PDR)`** (financiados a través del `FEADER
 - Aumento de la competitividad del sector agrícola y forestal, a través de la ayuda a la reestructuración
 - Mejora del medio ambiente y del entorno rural, a través de la ayuda a la gestión territorial
 - Mejora de la calidad de vida en las zonas rurales y fomento de la diversificación de las actividades económicas
-- El enfoque Leader. Su objetivo principal era proporcionar a las comunidades locales la posibilidad de elegir y financiar proyec-tos adaptados al entorno local y que pudiesen producir beneficios a largo plazo.
+- El enfoque Leader. Su objetivo principal era proporcionar a las comunidades locales la posibilidad de elegir y financiar proyectos adaptados al entorno local y que pudiesen producir beneficios a largo plazo.
 
 !!! pied-piper "Objetivos estratégicos a largo plazo"
     - Mejorar la competitividad de la agricultura y la silvicultura
