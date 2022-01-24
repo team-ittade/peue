@@ -32,7 +32,6 @@ KNOWN_ADMONITIONS = [
 def remove_links(text: str) -> str:
     text = re.sub(r"\[.*\]\(.*\)", "", text)
     lines = text.splitlines()
-    lines = [x if not x.startswith("#") else "# dummy" for x in lines]
     return "\n".join(lines)
 
 
@@ -41,7 +40,7 @@ def find_extra_hypens():
     for file in files:
         text = remove_links(file.read_text("utf8"))
         for i, line in enumerate(text.splitlines()):
-            for match in re.findall(r"[a-záéíóú]+-[a-záéíóú]+", line, re.IGNORECASE):
+            for match in re.findall(r"[a-záéíóú0-9]+-[a-záéíóú]+", line, re.IGNORECASE):
                 if match.lower() in WHITELIST:
                     continue
                 errors_found += 1

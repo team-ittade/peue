@@ -30,7 +30,7 @@ En 2005, el Consejo de la UE aprobó dos fondos agrícolas europeos que sustitui
 - El `Fondo Europeo Agrícola de Garantía (FEAGA)`, para financiar las medidas del primer pilar de la `PAC`
 - El `Fondo Europeo Agrícola de Desarrollo Rural (FEADER)`, destinado a financiar los programas de desarrollo rural
 
-El SAPARD fue sustituido por el `Instrumento de Ayuda de Preadhesión (IAP)`, que pasó a ser el instrumento único de ayuda a partir de 2007.
+El `SAPARD` fue sustituido por el `Instrumento de Ayuda de Preadhesión (IAP)`, que pasó a ser el instrumento único de ayuda a partir de 2007.
 
 !!! success "Pilares actuales de la PAC"
     1. **Política de regulación de precios y mercados** (*organización común de los mercados (OCM[^1]) + Pagos Directos a las Explotaciones*). Para alcanzar los objetivos previstos tanto en el `Tratado de Roma` el `TFUE` creó la  `Organización Común de los Mercados (OCM)`, un marco que contiene las medidas de mercado previstas en el primer pilar de la PAC.
@@ -39,7 +39,7 @@ El SAPARD fue sustituido por el `Instrumento de Ayuda de Preadhesión (IAP)`, qu
 
     2. **Política de estructuras agrarias** (*política de desarrollo rural*). La política de la Unión en favor del desarrollo rural se introdujo como segundo pilar de la PAC en el marco de la reforma de la `Agenda 2000`. A diferencia del primer pilar, financiado en su totalidad por la Unión, los programas del segundo pilar están cofinanciados por los fondos de la Unión y fondos regionales o nacionales.
 
-[^1]: marco que contiene las medidas de mercado previstas en el primer pilar de la PAC.
+[^1]: Marco que contiene las medidas de mercado previstas en el primer pilar de la PAC.
 
 ## 2. Evolución de la PAC
 
@@ -102,6 +102,15 @@ Elementos clave:
 
 #### 2.2.6. 2008 (*Chequeo de la PAC: la consolidación del marco de la reforma de 2003*)
 
+Objetivo: permitir a los agricultores satisfacer la creciente demanda y responder rápidamente a las señales del mercado.
+
+Medidas propuestas:
+
+- Supresión de la retirada de tierras
+- Supresión gradual de las cuotas de producción lechera
+- Abandono progresivo de los pagos históricos
+- ...
+
 #### 2.2.7. 2013 (*un enfoque más global e integrado*)
 
 3 tipos de desafíos:
@@ -150,7 +159,7 @@ Aunque cada reforma de la PAC ha tenido sus especificidades, en todas ellas ha h
 - En la actualidad, las ayudas a los productores están, en gran medida, disociadas de las decisiones en materia de producción, lo que permite a los agricultores de la UE adoptar sus decisiones en función de las señales emitidas por el mercado, adaptarse a los cambios de su entorno económico sobre la base del potencial de su explotación y de sus propias preferencias y contribuir a mejorar la competitividad del sector agrícola.
 - La PAC contribuye cada vez más a prevenir los riesgos de degradación del medio ambiente y a facilitar los bienes públicos demandados por la sociedad
 
-### 2.4. La PAC después de 2020 (*más justa, ecológica, flexible, transparente y más vol-cada en los resultados*)
+### 2.4. La PAC después de 2020 (*más justa, ecológica, flexible, transparente y más volcada en los resultados*)
 
 La PAC en el periodo 2021-2027 **se divide en dos periodos diferenciados**:
 
@@ -167,19 +176,19 @@ La PAC en el periodo 2021-2027 **se divide en dos periodos diferenciados**:
     - Por primera vez, la PAC incluirá la **condicionalidad social**. El nuevo mecanismo abarcará Directivas sobre:
         - ^^Condiciones de empleo transparentes y previsibles^^
         - ^^Seguridad y salud en las explotaciones^^
-    - **La redistribución de la ayuda a la renta será obligatoria**. Los Estados miembros redistribuirán al menos el 10 % de los pagos directos.
-    - **Los jóvenes agricultores** (de hasta 40 años) **recibirán un apoyo reforzado**.
+    - **La redistribución de la ayuda a la renta será obligatoria**. Los Estados miembros redistribuirán al menos el 10 % de los pagos directos para apoyar a las pequeñas y medianas explotaciones.
+    - **Los jóvenes agricultores** (de hasta 40 años) **recibirán un apoyo reforzado**. Los Estados miembros deberán reservarles **al meenos el 3% de sus presupuestos de pagos directos de la PAC**.
     - Convergencia interna de los pagos
     - Convergencia externa
-    - Agricultores activos
-        - Nivel mínimo de actividad agraria
-        - Lista de actividades económicas no subvencionables
-        - Agricultores pluriactivos y a tiempo parcial
-        - Reducción de la carga administrativa
+    - ^^Agricultores activos^^
+        - **Nivel mínimo de actividad agraria**
+        - **Lista de actividades económicas no subvencionables**
+        - **Agricultores pluriactivos y a tiempo parcial**
+        - **Reducción de la carga administrativa**
     - **Mejora del equilibrio de género**
 2. **Una PAC más ecológica**: la nueva PAC apoyará la transición hacia una agricultura más sostenible con objetivos más ambiciosos en materia de clima, medio ambiente y bienestar animal. Permitirá su aplicación a través de los `Planes Estratégicos` nacionales en consonancia con el `Pacto Verde` y sus estrategias *"De la Granja a la Mesa"* y *"Biodiversidad"*.
     - **Coherencia con el Pacto Verde Europeo**
-    - **Condicionalidad**: todos los beneficiarios de la PAC seguirán teniendo sus pagos vinculados a un conjunto de normas obligatorias, que incluyen requisitos legales de gestión (RLG) y buenas condiciones agrarias y medioambientales (BCAM).
+    - **Condicionalidad**: todos los beneficiarios de la PAC seguirán teniendo sus pagos vinculados a un conjunto de normas obligatorias, que incluyen **requisitos legales de gestión (`RLG`)** y **buenas condiciones agrarias y medioambientales (`BCAM`)**.
 
         En la PAC actual, los agricultores reciben pagos directos ecológicos por llevar a cabo tres prácticas: diversificación de cultivos, mantenimiento de pastos permanentes y dedicación de tierras a áreas de interés ecológico. En la nueva PAC, los aspectos más eficaces de estas prácticas se incorporarán a las nuevas normas de condicionalidad. Ejemplos:
 
@@ -190,6 +199,7 @@ La PAC en el periodo 2021-2027 **se divide en dos periodos diferenciados**:
         - Apoyo al medio ambiente, el clima y el bienestar de los animales
         - Zonas con limitaciones naturales (ANC)
     - Mayores ambiciones ecológicas en algunas intervenciones sectoriales específicas
+
 3. **Una PAC más flexible**. La nueva PAC introduce una nueva forma de trabajar, en la que cada Estado miembro elaborará un Plan Estratégico nacional de la PAC en el que se describa el modo en que se alcanzarán los objetivos de la PAC y los objetivos enunciados en el Pacto Verde y en las estrategias *"De la Granja a la Mesa"* y *"Biodiversidad"*.
 Además, la nueva PAC se centrará en la eficacia gracias a:
     - Normas más sencillas a escala de la UE.
@@ -226,7 +236,7 @@ Los **`Programas de Desarrollo Rural (PDR)`** (financiados a través del `FEADER
 - Aumento de la competitividad del sector agrícola y forestal, a través de la ayuda a la reestructuración
 - Mejora del medio ambiente y del entorno rural, a través de la ayuda a la gestión territorial
 - Mejora de la calidad de vida en las zonas rurales y fomento de la diversificación de las actividades económicas
-- El enfoque Leader
+- El enfoque Leader. Su objetivo principal era proporcionar a las comunidades locales la posibilidad de elegir y financiar proyec-tos adaptados al entorno local y que pudiesen producir beneficios a largo plazo.
 
 !!! pied-piper "Objetivos estratégicos a largo plazo"
     - Mejorar la competitividad de la agricultura y la silvicultura
