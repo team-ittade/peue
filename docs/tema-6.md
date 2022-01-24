@@ -47,6 +47,8 @@ Los aranceles no son uniformes para todos los productos y han sido reducidos en 
 
 Está libre de restricciones cuantitativas, pudiéndose recurrir a medidas de salvaguardia cuando se considere oportuno.
 
+Geográficamente comprende las importaciones de todos los países terceros salvo las que están sujetas a excepción.
+
 Excepciones: algunos productos agrícolas y textiles.
 
 #### 1.2.3. El régimen general de exportaciones
@@ -65,7 +67,7 @@ Son medidas reconocidas por los Reglamentos de la OMC como legítimos instrument
 
 Asimismo, la UE puede adoptar medidas de salvaguarda limitando los flujos de los productos importados.
 
-#### 1.2.5. El sistema de preferencias generalizadas (SPG)
+#### 1.2.5. El Sistema de Preferencias Generalizadas (SPG)
 
 La UE proporciona un acceso preferencial no recíproco al mercado comunitario de productos originarios en países y territorios en desarrollo a través de la exoneración total o parcial de los derechos arancelarios, con el fin de reducir la pobreza en los países en vías de desarrollo, garantizar los derechos humanos y laborales fundamentales y promover el desarrollo sostenible y la gobernanza.
 
@@ -73,9 +75,9 @@ Es simultáneamente un **instrumento de la política comercial** y de la **polí
 
 Comprende 3 regímenes preferenciales aplicables:
 
-1. General: concede exención total de derechos para los productos no sensibles
-2. Régimen especial de estímulo del desarrollo sostenible y la gobernanza (`SPG+`): eliminación de aranceles para todos los productos a países considerados como vulnerables que apliquen los convenios internacionales sobre derechos humanos y medio ambiente.
-3. Régimen especial a favor de los países menos desarrollados (`Iniciativa EBA: Todo menos armas`): exención total de aranceles a todos los productos originarios de los países menos desarrollados, con excepción de las armas.
+1. **General**: concede exención total de derechos para los productos no sensibles
+2. **Régimen especial de estímulo del desarrollo sostenible y la gobernanza (`SPG+`)**: eliminación de aranceles para todos los productos a países considerados como vulnerables que apliquen los convenios internacionales sobre derechos humanos y medio ambiente.
+3. **Régimen especial a favor de los países menos desarrollados (`Iniciativa EBA: Todo menos armas`)**: exención total de aranceles a todos los productos originarios de los países menos desarrollados, con excepción de las armas.
 
 ## 2. La política comercial convencional y las relaciones de cooperación
 
