@@ -77,7 +77,7 @@ Sobresalen otros 3 hechos en esta etapa:
 
 - Aumento real de los Fondos Estructurales (`FEDER`, `FSE` y `FEOGA-Orientación`)
 - Reforzamiento del papel de la Comisión en el diseño y realización de la política regional
-- Definición de los principios que debían regir la aplicación de los referidos fondos: {++ Concentración, Programación, Cooperación, Adicionalidad, Complementariedad y Subsidiariedad ++}.
+- Definición de los principios que debían regir la aplicación de los referidos fondos: {++ Concentración, Programación, Cooperación, Adicionalidad, Complementariedad y Subsidiariedad [regla mnemotécnica: CCA-CPS] ++}.
 
 La reformas dejaban un margen de acción propia a las autoridades de cada Estado a través de las `Iniciativas Comunitarias`, que eran programas transnacionales con 3 objetivos básicos:
 
@@ -225,7 +225,7 @@ Consciente de las consecuencias derivadas de la Covid-19, las instituciones euro
 
 1. Han otorgado a los Estados miembros una **flexibilidad excepcional para transferir recursos entre fondos y regiones** atendiendo a sus necesidades particulares. Esto implica que todas las reservas existentes para los *Fondos Estructurales* de 2020 pueden destinarse para hacer frente a la Covid-19 en el marco de la `Iniciativa de Inversión en Respuesta al Coronavirus Plus (IIRC+)`, que también comprende un cambio temporal en las normas de cofinanciación de los programas de la política de cohesión.
 2. Durante el período comprendido entre el 1 de julio de 2020 y el 30 de junio de 2021, los Estados miembros pueden solicitar una ayuda financiera del 100 % con cargo al presupuesto de la UE.
-3. La inversión prevista en el [`Plan de Recuperación Next Generation`](tema-5.md) contempla distintos instrumentos, entre los que se incluye [`REACT-EU`](#27-react-ue) con un presupuesto de 47.500 millones de €. Con el fin de permitir una movilización fluida y rápida de las inversiones, **no se aplicarán a `REACT-UE` las condiciones ex ante, los requisitos de concentración temática y el marco de rendimiento**.
+3. La inversión prevista en el [`Plan de Recuperación Next Generation`](tema-5.md) contempla distintos instrumentos, entre los que se incluye [`REACT-EU`](#37-react-ue) con un presupuesto de 47.500 millones de €. Con el fin de permitir una movilización fluida y rápida de las inversiones, **no se aplicarán a `REACT-UE` las condiciones ex ante, los requisitos de concentración temática y el marco de rendimiento**.
 4. De forma excepcional, **no habrá ningún desglose por categorías de regiones**.
 5. **Asignación del 70 % de las dotaciones nacionales en 2021, teniendo en cuenta los efectos socioeconómicos de la crisis**. El 30 % restante para 2022 se calculará a finales de 2021 sobre la base de los últimos datos estadísticos.
 6. Las perspectivas de la política de cohesión bajo la propuesta revisada del MFP 2021-2027 revisado presentan un mayor apoyo para la preparación de los sistemas sanitarios y un mayor hincapié en el aprovechamiento de la cultura y el turismo.
@@ -242,11 +242,13 @@ Fondos Estructurales:
 Fondos de Inversión:
 
 - Fondo de Cohesión
-- Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y
-- Fondo Europeo Marítimo y de la Pesca (FEMP).
-- Fondo de Transición Justa (FTJ)
+- Fondo Europeo Agrícola de Desarrollo Rural (`FEADER`)
+- Fondo Europeo Marítimo y de la Pesca (`FEMP`)
+- Fondo de Transición Justa (`FTJ`)
 
-### 2.1. El FEDER
+Destacan también los instrumentos complementarios `REACT-UE` y el `Fondo de Solidaridad de la UE`.
+
+### 3.1. El FEDER
 
 Creado en 1975, es un instrumento clave de la política regional comunitaria con un objetivo básico: reducir los desequilibrios regionales.
 
@@ -257,13 +259,13 @@ Objetivos principales:
 
 La nueva política de cohesión `2021-2027` también ha introducido una lista de actividades que no reciben apoyo del FEDER. Incluye el desmantelamiento o la construcción de centrales nucleares, infraestructuras aeroportuarias y algunas operaciones de gestión de residuos.
 
-### 2.2. El FSE/FSE+
+### 3.2. El FSE/FSE+
 
 Entró en vigor en 1960 al amparo del Tratado de Roma con la finalidad genérica de mejorar las posibilidades de empleo en la Comunidad.
 
 Es el principal instrumento de la Unión para apoyar medidas encaminadas a prevenir y combatir el desempleo, desarrollar los recursos humanos y fomentar la integración social en el mercado de trabajo. Financia iniciativas que promueven un nivel elevado de empleo, la igualdad de oportunidades para mujeres y hombres, el desarrollo sostenible y la cohesión económica y social.
 
-### 2.3. EL fondo de cohesión
+### 3.3. EL Fondo de Cohesión
 
 Se creó en 1993 con la finalidad básica de ayudar a los países menos prósperos de la Unión a prepararse para la `UEM`. Se aplica a los Estados miembros con una **Renta Nacional Bruta inferior al 90% de la media comunitaria**. Su objetivo es reducir las disparidades socioeconómicas y promover el desarrollo sostenible.
 
@@ -271,15 +273,15 @@ Apoyará **dos objetivos políticos específicos** de la nueva política de cohe
 
 La nueva política de cohesión también ha introducido una lista de actividades que no reciben apoyo del Fondo de Cohesión. Incluye el desmantelamiento o la construcción de centrales nucleares, infraestructuras aeroportuarias y algunas operaciones de gestión de residuos.
 
-### 2.4. El FEADER
+### 3.4. El FEADER
 
 El `Fondo Europeo Agrario de Desarrollo Rural` contribuye a la promoción de un desarrollo rural sostenible en la UE como complemento de las políticas de apoyo al mercado y a los ingresos aplicadas en el marco de la PAC, la política de cohesión y la política pesquera común.
 
-### 2.5. El FEMP
+### 3.5. El FEMP
 
 Es el `Fondo de las Políticas Marítima y Pesquera de la UE`. Tiene como objetivos impulsar la aplicación de la política pesquera común o fomentar una pesca y una acuicultura competitivas, medioambientalmente sostenibles, económicamente viables y socialmente responsables.
 
-### 2.6. El fondo de transición justa (FTJ)
+### 3.6. El Fondo de Transición Justa (FTJ)
 
 Es un nuevo instrumento financiero cuyo objetivo es prestar apoyo a los territorios que se enfrentan a retos socioeconómicos graves derivados del proceso de transición a la neutralidad climática y evitar el aumento de las disparidades regionales. Facilitará la aplicación del Pacto Verde Europeo, cuyo objetivo es lograr una Unión climáticamente neutra en 2050.
 
@@ -287,7 +289,7 @@ Para alcanzar su objetivo, financia la diversificación y la modernización de l
 
 El Fondo de Transición Justa proporciona apoyo a todos los Estados miembros. Los criterios de asignación se basan en las emisiones industriales de regiones.
 
-### 2.7. REACT-UE
+### 3.7. REACT-UE
 
 La Ayuda a la Recuperación para la Cohesión y los Territorios de Europa (REACT-UE) se adoptó en diciembre de 2020 para complementar los programas de cohesión.
 
@@ -295,7 +297,7 @@ Es un programa destinado a reparar los daños sociales y económicos causados po
 
 Esto supondrá inversiones para apoyar el mantenimiento del empleo, en particular mediante regímenes de reducción del tiempo de trabajo y apoyo a los trabajadores por cuenta propia. Los fondos también pueden utilizarse para fomentar la creación de empleo y las medidas de empleo juvenil, para los sistemas de asistencia sanitaria y para facilitar capital circulante y apoyo a la inversión a las pymes.
 
-### 2.8. El fondo de solidad de la UE (FSUE)
+### 3.8. El Fondo de Solidad de la UE (FSUE)
 
 Complementa a los Fondos `EIE`. Constituye una expresión de solidaridad europea hacia las regiones afectadas por las catástrofes naturales.
 
