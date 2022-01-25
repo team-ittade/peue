@@ -61,7 +61,7 @@ La política de la defensa de la competencia no es una política sectorial, sino
 !!! danger ""
     La política europea de la competencia permite a la Comisión Europea favorecer las fusiones de empresas si con ello se aproximan a la dimensión comunitaria y mejoran su productividad.
 
-El ámbito de aplicación de la política de europea de la competencia se puede definir tanto a nivel territorial como sectorial:
+El ámbito de aplicación de la política europea de la competencia se puede definir tanto a nivel territorial como sectorial:
 
 1. **Territorial**: el derecho comunitario se puede aplicar a una operación que afecte al mercado en el interior de la UE, independientemente de que el operador resida o no en la UE **{>>principio de no discriminación por razón de la nacionalidad o de igualdad de trato con independencia del origen<<}**
 2. **Sectorial**: la Comisión parte del principio de aplicabilidad general de las normas del Tratado, salvo que se adopten reglas específicas al respecto {>>energía y medio ambiente; servicios financieros; TIC; medios de comunicación; vehículos de motor; productos farmacéuticos; correos; servicios profesionales; telecomunicaciones; transportes; agricultura y alimentación; bienes de consumo y deportes<<}.
