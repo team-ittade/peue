@@ -236,8 +236,8 @@ La política de cohesión se ejecuta principalmente a través de los 6 Fondos si
 
 Fondos Estructurales:
 
-- Fondo Europeo de Desarrollo Regional (FEDER)
-- Fondo Social Europeo (FSE), denominado desde 2021 Fondo Social Europeo Plus (FSE+)
+- Fondo Europeo de Desarrollo Regional (`FEDER`)
+- Fondo Social Europeo (`FSE`), denominado desde 2021 Fondo Social Europeo Plus (`FSE+`)
 
 Fondos de Inversión:
 
