@@ -177,7 +177,7 @@ La PAC en el periodo 2021-2027 **se divide en dos periodos diferenciados**:
         - ^^Condiciones de empleo transparentes y previsibles^^
         - ^^Seguridad y salud en las explotaciones^^
     - **La redistribución de la ayuda a la renta será obligatoria**. Los Estados miembros redistribuirán al menos el 10 % de los pagos directos para apoyar a las pequeñas y medianas explotaciones.
-    - **Los jóvenes agricultores** (de hasta 40 años) **recibirán un apoyo reforzado**. Los Estados miembros deberán reservarles **al meenos el 3% de sus presupuestos de pagos directos de la PAC**.
+    - **Los jóvenes agricultores** (de hasta 40 años) **recibirán un apoyo reforzado**. Los Estados miembros deberán reservarles **al menos el 3% de sus presupuestos de pagos directos de la PAC**.
     - Convergencia interna de los pagos
     - Convergencia externa
     - ^^Agricultores activos^^
